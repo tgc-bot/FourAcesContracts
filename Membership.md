@@ -293,9 +293,9 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
 21. A player may raise by any amount they wish, so long as they have the
     chips required to do so.
     
-    32. The Casino shall enforce a ‘table stake’ standard; a player may
-        not bring any new or additional chips to the table after their
-        cards have been distributed by the dealer.
+    32. **The Casino shall enforce a ‘table stake’ standard; a player
+        may not bring any new or additional chips to the table after
+        their cards have been distributed by the dealer. **
 
 22. A player may only remove chips from the pot with any Staff member’s
     approval, and only in situations that would require it, and where it
@@ -341,11 +341,11 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
 
 25. A player may bet once all players have paid the buy-in, have all
     their cards, and the first 3 cards are placed down. A player may
-    call a previous player’s bet, and match it with their own chips, as
-    long as there are less than five cards on the table. A player may
-    raise another player’s bet, matching it and then betting higher than
-    the previous bet. A player may also check, but only where there is
-    no previous bet – this means that they do not raise.
+    call a previous player’s bet, and match it with their own chips, if
+    there are less than five cards on the table. A player may raise
+    another player’s bet, matching it and then betting higher than the
+    previous bet. A player may also check, but only where there is no
+    previous bet – this means that they do not raise.
 
 26. A player is never unable to bet – if they do not have the required
     amount to match a previous bet, they may decide to go all in and the
