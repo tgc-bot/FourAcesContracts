@@ -41,35 +41,40 @@
     3.  If the contradiction is between Casino Management, then the
         M.O.A. is the final authority.
 
-8.  As a Staff, you are authorised to be granted a salary by the Owner.
-    This salary is at the complete discretion of the Owner and may be
-    changed, altered, raised, lowered, withheld, or given to their
-    complete authority.
+8.  The Owner is required to give a salary/payment to any member who
+    performs their duties:
+    
+    4.  Management are to be paid 100 chips each week
+    
+    5.  Staff members are to be paid 50 chips each week.
+    
+    6.  The Owner may neglect to give chips to any Member whose chips
+        are over 6000.
 
-9.  As a Staff, you may be punished by the other Staff members for
-    failing to perform your duties, or performing your duties to a
-    degree that is deemed unacceptable, biased, prejudiced, or otherwise
+9.  As a Staff, you may be punished by the Casino Management for failing
+    to perform your duties, or performing your duties to a degree that
+    is deemed unacceptable, biased, prejudiced, or otherwise
     unacceptable to the Casino.
     
-    4.  Punishments can only be given by Staff higher in rank, and must
+    7.  Punishments can only be given by Staff higher in rank, and must
         be fair
     
-    5.  While acting as a Staff member, the Staff member cannot be
+    8.  While acting as a Staff member, the Staff member cannot be
         terminated from Membership, they must first be Terminated from
         their staff position, and after a minimum of one (1) day, be
         Terminated from Membership.
     
-    6.  Punishments are issued by the M.O.A. on behalf of Management.
+    9.  Punishments are issued by the M.O.A. on behalf of Management.
 
 10. Management involves the: Owner, Casino Manager and Floor Manager
     
-    7.  Only Management may approve changes to the contract.
+    10. Only Management may approve changes to the contract.
 
 ## Termination of Staff
 
-  - This contract may be terminated by either the signee or by a
-    unanimous decision by their direct supervisor and higher staff
-    members.
+  - This contract may be terminated by either the signee or by their
+    direct supervisor, or by a majority decision from higher members of
+    Casino Management.
 
   - Once Staff-ship has been terminated, you are no longer required to
     abide by these Terms, or any rules or regulations imposed *directly
