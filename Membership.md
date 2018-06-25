@@ -317,17 +317,21 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
     34. If more than two players are present, the following applies
         after one goes all-in:
         
-        5.  The remaining players continue to play as per normal to the
+        5.  If the lowest all-in bet is no more than either 250, or ¼ of
+            the total main pot’s value, then the below applies. Else,
+            previous rules apply.
+        
+        6.  The remaining players continue to play as per normal to the
             remaining rounds.
         
-        6.  Once all the rounds have been completed and all five cards
+        7.  Once all the rounds have been completed and all five cards
             have been placed and the final round has been performed,
             each of the players’ hands is looked at to see who wins
         
-        7.  Any member may win the main pot: whichever member has the
+        8.  Any member may win the main pot: whichever member has the
             highest hand may win the main pot
         
-        8.  For the side pot, only the members that continued betting
+        9.  For the side pot, only the members that continued betting
             (ie: not the all-in player) may win the pot; it is the
             player that gains the highest amount who wins this pot.
     
@@ -543,11 +547,11 @@ it is fair and deemed necessary, by consensus of Management.
     
     50. Citations are either:
         
-        9.  First warning – No penalty
+        10. First warning – No penalty
         
-        10. Last warning – No penalty
+        11. Last warning – No penalty
         
-        11. Further warnings – Chip-value penalty (50-1500 or 1-15% of
+        12. Further warnings – Chip-value penalty (50-1500 or 1-15% of
             net worth)
     
     51. Members must first be issued two “No penalty” warning citations
@@ -562,11 +566,11 @@ it is fair and deemed necessary, by consensus of Management.
     
     54. Awards are either:
         
-        12. Presence
+        13. Presence
         
-        13. Suffience
+        14. Suffience
         
-        14. Excellence
+        15. Excellence
     
     55. Awards are granted by having no Citations over a certain period,
         determined by the M.O.A. Inspector; or granted for other
@@ -575,11 +579,11 @@ it is fair and deemed necessary, by consensus of Management.
     56. Awards may have certain benefits, for example (but not
         necessarily):
         
-        15. Presence: one free daily lottery entrance
+        16. Presence: one free daily lottery entrance
         
-        16. Suffience: two free daily lottery entrances
+        17. Suffience: two free daily lottery entrances
         
-        17. Excellence: one free weekly lottery, and two free daily
+        18. Excellence: one free weekly lottery, and two free daily
             entrances.
 
 50. M.O.A. staff do not have explicit rights over Casino Staff members.
