@@ -8,7 +8,7 @@
 <tr class="odd">
 <td><p>From the Office of Casino Manager Alex Chester:</p>
 <p>Four Aces Casino Staff and Management</p>
-<p>Wednesday, 04 July 2018</p></td>
+<p>Wednesday, 01 August 2018</p></td>
 </tr>
 </tbody>
 </table>
@@ -406,19 +406,30 @@ it is fair and deemed necessary, by consensus of Management.
 35. Rakes are a scaled commission fee, taken to support the wages, staff
     and costs incurred by running this Casino.
 
-36. The rake is set at a value of 10% of the pot. The rake is taken into
-    the Casino’s vault at the end of all rounds of a poker game.
+36. The rake is set to the main discretion of the Dealer, following
+    order of seniority of Staff – with exceptions under cases of
+    mandatory recusals if the rake applies to the Staff member. The rake
+    is taken into the Casino’s vault at the end of all rounds of a poker
+    game.
     
-    39. The percentage value of the rake may be changed/altered by this
-        contract under certain conditions – but must not exceed 15%
-        under any circumstances.
+    39. The rake may not be altered, increased or changed except for the
+        levels and conditions set about below or elsewhere in these
+        Terms.
     
-    40. The rake may be altered by other clauses within these Terms.
+    40. Under normal conditions, the rake is set to 10%
     
-    41. In the case of any player going all-in, the rake is set to 15%.
+    41. When applied against a staff member, the rake is set to 7.5%
     
-    42. The Casino may take a minimum rake of 25 chips, regardless of
-        any rounding of any percentages.
+    42. When applied against a Management member, the rake is set to 5%
+    
+    43. The rake may be altered by other clauses within these Terms.
+    
+    44. In the case of any player going all-in, the rake is set to 15%.
+    
+    45. The Casino may take a minimum rake of 25 chips, regardless of
+        any rounding of any percentages. Whether or not the rake is
+        round is left to the discretion of the Casino, following
+        standard recusal procedures.
 
 ## Blackjack
 
@@ -465,7 +476,7 @@ it is fair and deemed necessary, by consensus of Management.
 40. The player may decide to surrender their hand only when they have
     not yet hit.
     
-    43. The player takes back half of their bet, and the other half goes
+    46. The player takes back half of their bet, and the other half goes
         to the dealer
 
 41. Once a player wins, the dealer will match their bet and the player
@@ -510,7 +521,7 @@ it is fair and deemed necessary, by consensus of Management.
     the Dealer hits themselves until they either win, are forced to
     stick or bust.
     
-    44. For instances where the player(s) or Dealer gets a blackjack
+    47. For instances where the player(s) or Dealer gets a blackjack
         (Ace + Ten card), then see above.
 
 45. The Staff make the ultimate decision of who, and how much, has been
@@ -527,28 +538,28 @@ it is fair and deemed necessary, by consensus of Management.
 47. The M.O.A. is led by an M.O.A. Inspector, who oversees all
     operations of the Ministry.
     
-    45. This Inspector holds limited authority outside of the Ministry
+    48. This Inspector holds limited authority outside of the Ministry
         of Admissions.
     
-    46. This Inspector may be identified by their Discord® tag:
+    49. This Inspector may be identified by their Discord® tag:
         Týr\#6695
 
 48. The M.O.A. is permitted to do the following:
     
-    47. Deny Membership of new Applicants to the Casino
+    50. Deny Membership of new Applicants to the Casino
     
-    48. Approve Membership of new Applicants to the Casino
+    51. Approve Membership of new Applicants to the Casino
     
-    49. Terminate Membership of existing Members to the Casino, with the
+    52. Terminate Membership of existing Members to the Casino, with the
         majority support of Management, and for a valid reason as
         outlined in this Contract.
     
-    50. Any additional action deemed necessary to uphold this Contract
+    53. Any additional action deemed necessary to uphold this Contract
         and standards of the Casino
 
 49. The M.O.A. also withholds the authority to issue Citations
     
-    51. Citations are either:
+    54. Citations are either:
         
         10. First warning – No penalty
         
@@ -557,17 +568,17 @@ it is fair and deemed necessary, by consensus of Management.
         12. Further warnings – Chip-value penalty (50-1500 or 1-15% of
             net worth)
     
-    52. Members must first be issued two “No penalty” warning citations
+    55. Members must first be issued two “No penalty” warning citations
         before a fine may be given.
     
-    53. Fines must be fair and proportional to the infraction at hand.
+    56. Fines must be fair and proportional to the infraction at hand.
     
-    54. If a Member receives more than 3 citations within a week, they
+    57. If a Member receives more than 3 citations within a week, they
         are applicable to have their Membership Terminated
 
 50. The M.O.A. additionally withholds the authority to issue Awards
     
-    55. Awards are either:
+    58. Awards are either:
         
         13. Presence
         
@@ -575,11 +586,11 @@ it is fair and deemed necessary, by consensus of Management.
         
         15. Excellence
     
-    56. Awards are granted by having no Citations over a certain period,
+    59. Awards are granted by having no Citations over a certain period,
         determined by the M.O.A. Inspector; or granted for other
         behaviour worthy of an award.
     
-    57. Awards may have certain benefits, for example (but not
+    60. Awards may have certain benefits, for example (but not
         necessarily):
         
         16. Presence: one free daily lottery entrance
@@ -603,16 +614,16 @@ it is fair and deemed necessary, by consensus of Management.
 55. The M.O.A. withholds the authority to seize the winnings of a game
     if it is contested who wins.
     
-    58. The M.O.A. will, in such a case, ensure the winnings are safely
+    61. The M.O.A. will, in such a case, ensure the winnings are safely
         kept until a clear winner has been decided.
     
-    59. When a winner has been decided by the M.O.A., those winnings
+    62. When a winner has been decided by the M.O.A., those winnings
         previously seized shall be handed over to the Member who won.
 
 56. Failure to cooperate with the M.O.A. is punishable by citation or
     termination, where applicable, and to the discretion of the M.O.A.
     
-    60. In the instance of a termination, Management must also agree to
+    63. In the instance of a termination, Management must also agree to
         a majority verdict.
 
 ## M.O.A. Investigations
@@ -626,12 +637,12 @@ it is fair and deemed necessary, by consensus of Management.
 
 59. Investigations will be directed by a Lead Investigator.
     
-    61. This Lead Investigator is appointed by the MOA Inspector and may
+    64. This Lead Investigator is appointed by the MOA Inspector and may
         be replaced or removed at any time, for any reason.
     
-    62. This Lead Investigator must be a member of the MOA
+    65. This Lead Investigator must be a member of the MOA
     
-    63. This Lead Investigator reports directly to the MOA Inspector in
+    66. This Lead Investigator reports directly to the MOA Inspector in
         their findings. Lead Investigators have the authority to request
         citations to those the investigation finds to be in violation;
         such citations would be confirmed and issued by the MOA
@@ -646,13 +657,13 @@ it is fair and deemed necessary, by consensus of Management.
 62. Any Investigator has the authority to begin an interview with any
     Member of the Casino.
     
-    64. These Interviews are considered confidential and their clearance
+    67. These Interviews are considered confidential and their clearance
         may only be changed by a person with such authority to do so.
     
-    65. These interviews may be locked and archived when they are
+    68. These interviews may be locked and archived when they are
         concluded
     
-    66. These interviews may have certain information released, via the
+    69. These interviews may have certain information released, via the
         MOA Archives, to the discretion of the MOA Inspector.
 
 63. The Lead Investigator may, to their discretion, conclude that an
@@ -689,22 +700,22 @@ it is fair and deemed necessary, by consensus of Management.
 
 70. The M.O.L. shall issue loans that have a set interest.
     
-    67. This interest is added on every day after the loan is taken
+    70. This interest is added on every day after the loan is taken
 
 71. The M.O.L. shall issues loans that have a set maximum date before
     which the loan and any additional value must be returned.
     
-    68. Defaulting on your loan payments may have consequences, as
+    71. Defaulting on your loan payments may have consequences, as
         determined by the Ministry. This Ministry shall also work
         closely with the M.O.A.
 
 72. The M.O.L. shall issues loans that have a minimum daily payment that
     must be made.
     
-    69. This payment **must** be made at the end of each lunch on each
+    72. This payment **must** be made at the end of each lunch on each
         *week*day
     
-    70. Failure to keep up with these daily payments *will* have
+    73. Failure to keep up with these daily payments *will* have
         consequences
 
 73. Upon immediately receiving any loan of value, the amount needed to
@@ -716,7 +727,7 @@ it is fair and deemed necessary, by consensus of Management.
 
 75. The M.O.L. has the authority to issue the following loans:
     
-    71. *Because the information on loans may change to the discretion
+    74. *Because the information on loans may change to the discretion
         of the M.O.L., loan information may be requested by them (one
         could also use **/loans request** discord command to see the
         loans available)*
@@ -727,13 +738,13 @@ it is fair and deemed necessary, by consensus of Management.
 
 77. To ensure the Casino is repaid the loans it gives, the Casino may:
     
-    72. Remove the chips placed into the pot by a person with a loan
+    75. Remove the chips placed into the pot by a person with a loan
         when that pot is won by anyone other than the person with that
         loan; but only when the chips removed do not exceed 100, and do
         not exceed 10% of the pot value, and do not exceed the minimum
         daily payment required against the loan.
     
-    73. Directly remove chips from a person with a loan at the end of
+    76. Directly remove chips from a person with a loan at the end of
         the day’s sitting to a value not exceeding the minimum daily
         payment of the loan. Discretion is given such that Management
         may decide if they are to remove chips.
@@ -742,10 +753,10 @@ it is fair and deemed necessary, by consensus of Management.
     initial loaned member fails to repay the loan, then the guarantee
     member’s chips are used to cover the loan.
     
-    74. The M.O.L. may seize this guarantee’s member’s chips to cover
+    77. The M.O.L. may seize this guarantee’s member’s chips to cover
         the minimal chip payment, or to seize payment in full.
     
-    75. The M.O.L. may not seize in total more than the initial chip
+    78. The M.O.L. may not seize in total more than the initial chip
         value that was given by the Casino at the start of the loan
 
 # Other Additional Rules
@@ -755,14 +766,14 @@ it is fair and deemed necessary, by consensus of Management.
 79. The Casino, in good faith, may hold lotteries that involve the
     following:
     
-    76. Each player puts in any amount they deem.
+    79. Each player puts in any amount they deem.
     
-    77. Each player receives two cards, and five cards are placed on the
+    80. Each player receives two cards, and five cards are placed on the
         table.
     
-    78. The player with the highest/winning hand wins the lottery pot.
+    81. The player with the highest/winning hand wins the lottery pot.
     
-    79. If multiple players have the same best 5 cards, then the lottery
+    82. If multiple players have the same best 5 cards, then the lottery
         is split between them.
 
 ## VIP Club
@@ -774,7 +785,7 @@ it is fair and deemed necessary, by consensus of Management.
 81. Club members will have to pay a 100-chip membership fee directly
     into the Casino each week
     
-    80. After a consistent membership to the VIP Club of 3 weeks, a
+    83. After a consistent membership to the VIP Club of 3 weeks, a
         Member shall only have to pay 50 chips per week
 
 82. Club members are given an additional two games grace as described
@@ -783,9 +794,9 @@ it is fair and deemed necessary, by consensus of Management.
 83. Club members rake is reduced depending on the number of weeks they
     have been a member.
     
-    81. The first week a Member is a VIP, their rake is 7.5%
+    84. The first week a Member is a VIP, their rake is 7.5%
     
-    82. Each subsequent week their rake is decreased by 0.5%, to a
+    85. Each subsequent week their rake is decreased by 0.5%, to a
         minimum of 5%.
 
 84. Clubs member will be given benefits in any future games that the

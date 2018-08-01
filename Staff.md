@@ -8,6 +8,15 @@
   - *Terms* / *Regulations*: These Terms of staff, and any additional
     rules or regulations.
 
+  - *Recuse/Recsual*: In case of a Conflict of Interest:
+    
+      - *To Recuse* means to place oneself into a situation of recusal
+        in the circumstance
+    
+      - *Recusals* are where the person withdraws their authority to
+        make decisions on a given case, and withdraws themselves from
+        any authority in such case.
+
 ## Terms of Staff
 
 1.  All Staff members must first read through, understand and sign this
@@ -69,6 +78,20 @@
 10. Management involves the: Owner, Casino Manager and Floor Manager
     
     10. Only Management may approve changes to the contract.
+
+11. **Staff and Management Mandatory Recusals**
+    
+    11. Under situations where a punishment or decision would apply to
+        the given Staff or Management member, they are required to
+        recuse themselves from the decision.
+    
+    12. Due to the way the M.O.A. and the M.O.L. are managed, members of
+        both groups are not required to recuse themselves in situations
+        regarding their authority or their desicisions
+    
+    13. **Non-Mandatory Recusals** – in situations where a person may be
+        biased or unable to impart a fair or unprejudiced judgement,
+        this contract advises that the person recuse themselves
 
 ## Termination of Staff
 
