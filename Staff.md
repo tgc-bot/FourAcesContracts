@@ -8,7 +8,7 @@
   - *Terms* / *Regulations*: These Terms of staff, and any additional
     rules or regulations.
 
-  - *Recuse/Recsual*: In case of a Conflict of Interest:
+  - *Recuse/Recusal*: In case of a Conflict of Interest:
     
       - *To Recuse* means to place oneself into a situation of recusal
         in the circumstance
