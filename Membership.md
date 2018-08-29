@@ -1,14 +1,14 @@
 | Four Aces Casino                                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Terms of Membership                                                                                                                                                                                                        |
-| The official Terms of Membership to the Four Aces Casino. This is a legally binding contract that must be agreed upon by all individuals that are interested in or already are partaking in gaming activates of the Casino |
+| The official Terms of Membership to the Four Aces Casino. This is a legally binding contract that MUST be agreed upon by all individuals that are interested in or already are partaking in gaming activates of the Casino |
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p>From the Office of Casino Manager Alex Chester:</p>
 <p>Four Aces Casino Staff and Management</p>
-<p>Wednesday, 01 August 2018</p></td>
+<p>Wednesday, 29 August 2018</p></td>
 </tr>
 </tbody>
 </table>
@@ -17,7 +17,7 @@
 
 Firstly: Welcome to the Four Aces Casino\! Thank you for your interest
 in becoming a Member of the Four Aces Casino (“the Casino”, “Casino”).
-In order to become a member, you must first read through and agree to
+In order to become a member, you MUST first read through and agree to
 these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
 
 ## Definitions
@@ -28,7 +28,7 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
 
   - *Floor Manager*: Anushan
 
-  - *Head Dealer*: vacant role
+  - *Head Dealer*: vaCANt role
 
   - *Dealer*: Curtis (unofficially)
 
@@ -38,11 +38,8 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
   - *Player / Member*: Any person that partakes in activities within, or
     of, the Casino
 
-  - *M.O.A.:* Ministry of Admission – the authority that oversees all
-    Members
-
-  - *Cheating:* Bypassing the rules or expected etiquette of a game to
-    improve your or someone else’s economic status, or chance of
+  - *Cheating / Rigging:* Bypassing the rules or expected etiquette of a
+    game to improve your or someone else’s economic status, or chance of
     winning, or for some other reason
 
 ## Roles within the Casino
@@ -68,34 +65,98 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
     Members of the Casino.
 
   - **Owner** is an individual that holds the ultimate authority, and,
-    given the availability as per contract, can make any decision
+    given the availability as per contract, CAN make any decision
     unattested.
 
-### Other Departments
+## Actionable Verbs
+
+  - The terms “SHALL”, “SHALL NOT”, “MUST” or “MUST NOT” indicate
+    requirements to be followed strictly in order to conform to the
+    Contract and from which no deviation is permitted.
+
+  - The terms “SHOULD” and “SHOULD NOT” indicate that among several
+    possibilities one is recommended as particularly suitable, without
+    mentioning or excluding others, or that a certain course of action
+    is preferred but not necessarily required, or that (in the negative
+    form) a certain possibility or course of action is discouraged but
+    not prohibited.
+
+  - The terms “MAY” and “NEED NOT” indicate a course of action
+    permissible within the limits of the Contract
+
+  - The terms “CAN” and “CANNOT” indicate a possibility and capability,
+    whether material, physical or causal or, in the negative, the
+    absence of that possibility or capability.
+
+### Departments / Divisions
 
   - **Ministry of Admissions**
     
-      - **M.O.A.** staff members may be any Member of the Casino; their
-        objective is to ensure that the M.O.A. makes valid and just
-        decisions. They report any contractual oversights or
-        infringements to the M.O.A. Inspector and advise that Inspector
-        and Management on new Memberships.
+      - **M.O.A.** staff members MUST be Members of the Casino, and are
+        appointed by the Division Head; their objective is to ensure
+        that the M.O.A. makes valid and just decisions. They report any
+        contractual oversights or infringements to the M.O.A. Inspector
+        and advise that Inspector and Management on new Memberships.
     
       - **M.O.A. Inspector** supervises the M.O.A. and officially hands
-        citations and awards, with advice from M.O.A. staff.
+        citations and awards, with advice from M.O.A. staff. The M.O.A.
+        Inspector will receive requests for citations from any
+        Investigation that is opened, in such a case, the MOA Inspector
+        SHOULD make a fair and valid decision given probable cause that
+        an incident violated the terms.
 
   - **Ministry of Loans**
     
-      - **M.O.L.** staff members may be any Member of the Casino. They
-        are to: recommend the best loan to Members that are looking to
-        get one; advertise loans to Members, within reason; and to give
-        recommendations to Management on who should be given a loan,
+      - **M.O.L.** staff members MAY be any Member of the Casino. They
+        MAY: recommend the best loan to Members that are looking to get
+        one; advertise loans to Members, within reason; and give
+        recommendations to Management on who SHOULD be given a loan,
         given a personal assessment of that person’s finance.
+    
+      - **M.O.L.** **Division Head** supervises the M.O.L. and presents
+        any possible loans to Management for approval.
+
+  - **Ministry of Games**
+    
+      - **M.O.G.** staff members assist in the day-to-day running of
+        games; the proper auditing of chips within the Casino; and the
+        recording of games missed by members. The M.O.G. MUST work
+        closely with the M.O.A. due to the nature of possible punishment
+        against Members.
+    
+      - **M.O.G. Division Head** supervises all actions of the M.O.G.
+        and has the authority to directly issue citations related to the
+        M.O.G.’s authority.
+
+Each of these divisions has a Division Head (or MOA Inspector), this
+Division Head is responsible for the entirety of the
+Department/Division. This Division Head has the ultimate authority of
+that Division. Each Division Head is employed to the pleasure of the
+Owner and MUST take into consideration the Owner’s advice in a situation
+within the Divisions purview. Additionally, these Division Heads MAY
+appoint other Members to positions within their Division and delegate
+tasks and duties to those Members; any such Member MUST NOT abuse such
+positions.
+
+The Division Heads MAY be compelled to act by the Casino Owner, assuming
+that the following conditions apply:
+
+  - Condition one, or
+
+  - Condition two, or
+
+  - Condition three, and condition four; or
+
+  - Etc..
+
+Additionally, henceforth, a Council is established that consists of each
+Division Head and each member of Management. This Council will have the
+authority to make decisions that span numerous departments’ authorities.
 
 ## Terms of Play
 
 1.  Only people that have: read thoroughly, agree to and have signed the
-    contract may partake in activities. All players must remain
+    contract are able to partake in activities. All players MUST remain
     respectful, lawful and orderly.
 
 2.  On signing this contract, the signee acknowledges and will follow:
@@ -106,15 +167,15 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
     2.  Any additional rules or requirements placed by Staff of the
         Casino
         
-        1.  Such additional rules or requirements may not be held to
+        1.  Such additional rules or requirements SHALL NOT be held to
             invalidate, override or overrule these Terms of Membership.
     
-    3.  These Terms of Membership may change when it is deemed necessary
+    3.  These Terms of Membership MAY change when it is deemed necessary
         by the Staff
     
     4.  The Staff will attempt, to the best of their ability, to notify
         you of any changes to this contract: this, however, is not
-        guaranteed, you may not be notified of these changes – it is
+        guaranteed, you MAY NOT be notified of these changes – it is
         your responsibility to ensure you understand the latest contract
         terms.
     
@@ -123,28 +184,28 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
     
     6.  Even if some part of this contract is, for any reason, to be
         made invalid or unenforceable, all other sections of this
-        contract may still be enforced and will still be considered
+        contract will still be enforced and will still be considered
         valid.
 
 3.  This Casino withholds the authority, through the M.O.A., to punish
     and penalise players for violations of this contract.
     
-    7.  Any Staff member may recommend the MOA to investigate a member
+    7.  Any Staff member MAY recommend the MOA to investigate a member
         for punishment
     
-    8.  Further powers granted to the MOA may be found in its section.
+    8.  Further powers granted to the MOA MAY be found in its section.
 
-4.  Cheating is strictly forbidden. No individual may cheat or rig
+4.  Cheating is strictly forbidden. No individual MAY cheat or rig
     games.
 
 5.  **It is forbidden to aid in; fail to report the; or partake in the
     exchange of chips for real-world currency. It is similarly forbidden
     to exchange chips with any persons that is not a subject of this
-    Terms of Membership contract.** *Termination can occur for violation
+    Terms of Membership contract.** *Termination CAN occur for violation
     of this rule.*
 
-6.  All chips have the following value – these values may not be changed
-    without contract update:
+6.  All chips have the following value – these values SHALL NOT be
+    changed without contract update:
     
     9.  **White:** 25
     
@@ -156,10 +217,10 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
     
     13. **Black:** 1000
 
-7.  This Contract’s terms are to be interpreted as literally as
-    possible; in a case where it is unclear what is meant, it is up to
-    Management to determine the true meaning of a clause within this
-    contract which would, therefore, be considered its true meaning.
+7.  This Contract’s terms SHALL be interpreted as literally as possible;
+    in a case where it is unclear what is meant, it is up to Management
+    to determine the true meaning of a clause within this contract which
+    would, therefore, be considered its true meaning.
 
 8.  Throughout this Contract, at any point where ‘the Management’,
     ‘Management’, ‘the Staff’ or ‘Staff’ is used in such a way to give
@@ -167,73 +228,74 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
     otherwise) that such an authority is given on condition of a
     majority verdict.
 
-9.  Members must act in good faith, to the best of their ability, to
+9.  Members MUST act in good faith, to the best of their ability, to
     ensure this contract is followed.
 
 10. Members have an ethical obligation to notify the dealer of any
     mistakes or oversights.
 
-11. The Casino shall aim to be more open in its decisions and changes.
+11. The Casino SHALL aim to be more open in its decisions and changes.
 
 12. **The chips used within the Casino have
-    *<span class="underline">no</span>* real-world value. **
+    *<span class="underline">no</span>* real-world value.**
 
 ## Termination of Membership
 
-13. This contract may be terminated by either the person that has signed
+13. This contract MAY be terminated by either the person that has signed
     it; or the Staff as outlined in situations where a violation of
-    contract occurred.
+    contract occurred, as described below:
     
-    14. A Member may request themselves be terminated by giving a
+    14. A Member MAY request themselves be terminated by giving a
         written notice via the Four Aces official Discord™ server.
-        Management shall then terminate the Member.
+        Management SHALL then terminate the Member.
     
-    15. A Member may also be terminated for violations or breaches of
-        this Contract, or the Staff contract, are described within
-        sections of these Terms.
+    15. A Member MAY also be terminated for violations or breaches of
+        this Contract, or the Staff contract, within sections of these
+        Terms.
     
-    16. A Member may also be terminated for violations of Coundon
+    16. A Member MAY also be terminated for violations of Coundon
         Court’s policies.
     
-    17. A Member may also be terminated for violations of applicable UK
+    17. A Member MAY also be terminated for violations of applicable UK
         law.
     
-    18. Pursuant to 11b, a Member may be terminated for severe breaches
-        of contract, in which case a specific authorisation from a
-        clause within the Terms is not needed, and only a unanimous
-        agreement decision by Management is needed.
+    18. Pursuant to *<span class="underline">\[b\]</span>*, a Member MAY
+        be terminated for severe breaches of contract, in which case a
+        specific authorisation from a clause within the Terms is not
+        needed, and only a unanimous agreement decision by Management is
+        needed.
 
-14. In the scenario of a Termination of Membership, the follow shall
+14. In the scenario of a Termination of Membership, the follow SHALL
     apply:
     
-    19. The Member must hand over any chips that they have, or have
+    19. The Member MUST hand over any chips that they have, or have
         access to, to the Casino.
     
     20. The Member will be revoked access to certain channels within the
         official Discord server.
     
-    21. Any Terminated Member shall not interfere with the running or
+    21. Any Terminated Member SHALL NOT interfere with the running or
         games of the Casino.
     
-    22. A Terminated Member must still abide by these Terms of Contract
+    22. A Terminated Member MUST still abide by these Terms of Contract
         if they remain, or intend to remain, within the Casino grounds.
     
-    23. Pursuant to 12c, any Terminated Member that remains on Casino
-        grounds (within the Casino) must still abide by the Terms of
-        Membership that they are able to, to the extent necessary to
-        uphold order.
+    23. Pursuant to *<span class="underline">\[d\]</span>*, any
+        Terminated Member that remains on Casino grounds (within the
+        Casino) MUST still abide by the Terms of Membership that they
+        are able to, to the extent necessary to uphold order.
     
     24. If a Terminated Member leaves the Casino completely and
         entirely, they are no longer required to abide by these Terms to
         any effect
     
-    25. Pursuant to 12e, *completely and entirely*, is defined as having
-        left and not returned to the Casino for a period of no less than
-        six (6) weeks.
+    25. Pursuant to *<span class="underline">\[f\]</span>*, *completely
+        and entirely*, is defined as having left and not returned to the
+        Casino for a period of no less than six (6) weeks.
 
 ## Chip Ownership
 
-15. All chips used are owned by Troy Smitten, and may not be lost,
+15. All chips used are owned by Troy Smitten, and SHALL NOT be lost,
     damaged, destroyed, exchanged, given or otherwise transferred except
     as allowed through the Casino’s operations or through explicit
     consent of Mr Smitten.
@@ -244,19 +306,19 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
     requirements that Troy Smitten have the final say on the chip(s) in
     question.
 
-17. Chips may not be possessed by any person that has not agreed to this
-    Contract. Any person that attempts to do so must first agree to this
-    Contract and its Terms, fully and completely to the extent necessary
-    to protect the Casino and its operations.
+17. Chips MUST NOT be possessed by any person that has not agreed to
+    this Contract. Any person that attempts to do so MUST first agree to
+    this Contract and its Terms, fully and completely to the extent
+    necessary to protect the Casino and its operations.
 
-18. In the scenario of play, a Member may allow another individual to
-    posses or otherwise hold their chips. In this case, the Member must
+18. In the scenario of play, a Member MAY allow another individual to
+    posses or otherwise hold their chips. In this case, the Member SHALL
     first disclose to Management exactly how many, and which type, of
     chips are to be held by this Member.
     
     26. In the circumstance where Management is not informed, the Casino
         takes zero responsibilities and offers no assistance or
-        insurance on those chips – Management may consider such chips to
+        insurance on those chips – Management MAY consider such chips to
         be in the possession of whoever indeed possesses them, even if
         an agreement was made (but of course, was not disclosed to
         Management)
@@ -284,7 +346,7 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
     
     30. These message logs are only visible to the Bot’s owner, Alex.
     
-    31. These messages will not be deleted, but a Member may request to
+    31. These messages will not be deleted, but a Member MAY request to
         see all logs the bot has that the member has sent. This request
         will be honoured to the best of Alex’s ability, and will be
         performed in a reasonably timed period.
@@ -293,24 +355,24 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
 
 21. Poker buy-ins are 25 chips.
 
-22. A player may raise by any amount they wish, so long as they have the
+22. A player MAY raise by any amount they wish, so long as they have the
     chips required to do so.
     
-    32. **The Casino shall enforce a ‘table stake’ standard; a player
-        may not bring any new or additional chips to the table after
-        their cards have been distributed by the dealer. **
+    32. **The Casino MAY enforce a ‘table stake’ standard; a player MAY
+        NOT bring any new or additional chips to the table after their
+        cards have been distributed by the dealer. **
 
-23. A player may only remove chips from the pot with any Staff member’s
+23. A player MAY only remove chips from the pot with any Staff member’s
     approval, and only in situations that would require it, and where it
     would not be unfair to other players.
 
-24. A player may fold at any time. When a player folds, they are no
-    longer able to bet and must return their cards to the dealer. A
-    player that has folded must remain folded until the end of the
-    match. An exception can be made by consensus of Management, but only
+24. A player MAY fold at any time. When a player folds, they are no
+    longer able to bet and MUST return their cards to the dealer. A
+    player that has folded MUST remain folded until the end of the
+    match. An exception CAN be made by consensus of Management, but only
     when the next player has not bet yet.
 
-25. A player may go all in once betting starts. After an all-in, a
+25. A player MAY go all in once betting starts. After an all-in, a
     showdown is immediately done
     
     33. If only two players go all-in, then the lowest all-in bet is
@@ -331,43 +393,43 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
             have been placed and the final round has been performed,
             each of the players’ hands is looked at to see who wins
         
-        8.  Any member may win the main pot: whichever member has the
-            highest hand may win the main pot
+        8.  Any member MAY win the main pot: whichever member has the
+            highest hand MAY win the main pot
         
         9.  For the side pot, only the members that continued betting
-            (ie: not the all-in player) may win the pot; it is the
+            (ie: not the all-in player) MAY win the pot; it is the
             player that gains the highest amount who wins this pot.
     
-    35. These bets ***must*** be kept in separate places, with the ‘main
+    35. These bets ***MUST*** be kept in separate places, with the ‘main
         pot’ all in bet being placed closest to the dealer, and each
         subsequent being placed *clearly separate* away from the dealer.
 
-26. A player may bet once all players have paid the buy-in, have all
-    their cards, and the first 3 cards are placed down. A player may
+26. A player MAY bet once all players have paid the buy-in, have all
+    their cards, and the first 3 cards are placed down. A player MAY
     call a previous player’s bet, and match it with their own chips, if
-    there are less than five cards on the table. A player may raise
+    there are less than five cards on the table. A player MAY raise
     another player’s bet, matching it and then betting higher than the
-    previous bet. A player may also check, but only where there is no
+    previous bet. A player MAY also check, but only where there is no
     previous bet – this means that they do not raise.
 
 27. A player is never unable to bet – if they do not have the required
-    amount to match a previous bet, they may decide to go all in and the
+    amount to match a previous bet, they MAY decide to go all in and the
     above all in rules will be used.
 
-28. When there are five cards on the table, players may continue betting
+28. When there are five cards on the table, players MAY continue betting
     and folding. If all players decide to call the current bet, then the
-    game is finished, and the players must show their hands.
+    game is finished, and the players MUST show their hands.
 
-29. Any action to raise, fold, check, call, etc must be vocalised: the
-    player must clearly announce their intentions – the dealer may
-    accept a ‘knocking’ on the table to signify a check but may request
+29. Any action to raise, fold, check, call, etc MUST be vocalised: the
+    player MUST clearly announce their intentions – the dealer MAY
+    accept a ‘knocking’ on the table to signify a check but MAY request
     clarification if they deem an action to be ambiguous.
 
-30. A player’s first action is accepted and cannot be changed: if a
+30. A player’s first action is accepted and CANNOT be changed: if a
     player says that they check, then say that they raise, the action of
     checking is accepted only.
 
-31. The Dealer may decide to call to a close betting when there are five
+31. The Dealer MAY decide to call to a close betting when there are five
     cards. The game will finish, with players showing their cards.
 
 32. The Staff of the Casino make the ultimate, unanimous, decision
@@ -375,27 +437,27 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
 
 33. Typical Poker rules apply.
     
-    36. *Typical Poker rules* are defined as rules where it can be
+    36. *Typical Poker rules* are defined as rules where it CAN be
         demonstrated they are in use across multiple independent
         Casinos.
     
-    37. These rules cannot be found to invalidate this contract or its
+    37. These rules CANNOT be found to invalidate this contract or its
         terms.
     
-    38. These rules may be invalidated by Management, with consensus.
+    38. These rules MAY be invalidated by Management, with consensus.
 
 ### Poker Stars / Coundon Coins
 
 Poker Stars (also known as Coundon Coins) have been revised such that:
 
-  - Any member may hand in 1 Coundon Coin in exchange for 3000 chips.
+  - Any member MAY hand in 1 Coundon Coin in exchange for 3000 chips.
 
-  - No members can exchange chips for Coundon coins; Coundon coins are
-    no longer given a return value, as they are no longer designed to be
+  - Coundon Coins SHALL NOT be exchanged for chips; Coundon coins are no
+    longer given a return value, as they are no longer designed to be
     returned.
 
-These revisions *may* be altered by Management, such that Poker Stars
-may be returned in exchange for chips – but only in circumstances where
+These revisions *MAY* be altered by Management, such that Poker Stars
+MAY be returned in exchange for chips – but only in circumstances where
 it is fair and deemed necessary, by consensus of Management.
 
 ### Poker Rake
@@ -412,8 +474,8 @@ it is fair and deemed necessary, by consensus of Management.
     is taken into the Casino’s vault at the end of all rounds of a poker
     game.
     
-    39. The rake may not be altered, increased or changed except for the
-        levels and conditions set about below or elsewhere in these
+    39. The rake SHALL NOT be altered, increased or changed except for
+        the levels and conditions set about below or elsewhere in these
         Terms.
     
     40. Under normal conditions, the rake is set to 10%
@@ -422,58 +484,58 @@ it is fair and deemed necessary, by consensus of Management.
     
     42. When applied against a Management member, the rake is set to 5%
     
-    43. The rake may be altered by other clauses within these Terms.
+    43. The rake MAY be altered by other clauses within these Terms.
     
     44. In the case of any player going all-in, the rake is set to 15%.
     
-    45. The Casino may take a minimum rake of 25 chips, regardless of
+    45. The Casino MAY take a minimum rake of 25 chips, regardless of
         any rounding of any percentages. Whether or not the rake is
         round is left to the discretion of the Casino, following
         standard recusal procedures.
 
 ## Blackjack
 
-37. The player may bet any reasonable amount, with a minimum of 50, and
+37. The player MAY bet any reasonable amount, with a minimum of 50, and
     no more than 1000
 
-38. If a player receives two cards of the same value, they may split
+38. If a player receives two cards of the same value, they MAY split
     their cards into two hands.
     
-    1.  The player must then match their current bet for their
+    1.  The player MUST then match their current bet for their
         additional hand
     
-    2.  The player may win with either, or both, of their hands
+    2.  The player MAY win with either, or both, of their hands
     
     3.  The player does not immediately lose if one hand is bust
     
-    4.  The player may stick with either, or both, of their hands
+    4.  The player MAY stick with either, or both, of their hands
     
-    5.  The player must be dealt two more cards for each hand – the new
+    5.  The player MUST be dealt two more cards for each hand – the new
         card is placed face-up for the left hand, but face-down for the
         right hand.
     
-    6.  The player must first start hitting on their left hand. Once
-        they have stuck or gone bust on that hand, they must then move
-        to their right hand, at which point they may then look at the
+    6.  The player MUST first start hitting on their left hand. Once
+        they have stuck or gone bust on that hand, they MUST then move
+        to their right hand, at which point they MAY then look at the
         face-down card.
     
-    7.  The player may not start hitting again on their first hand once
+    7.  The player MAY NOT start hitting again on their first hand once
         they have moved to their second.
 
-39. The player may decide to double-down their hand if they have not yet
+39. The player MAY decide to double-down their hand if they have not yet
     hit.
 
 <!-- end list -->
 
-1.  The player must double their current bet, and take only one
+1.  The player MUST double their current bet, and take only one
     additional card
 
-2.  The player cannot hit again and must either stick with what they
-    have or go bust should they go over 21
+2.  The player CANNOT hit again and MUST either stick with what they
+    have or go bust SHOULD they go over 21
 
 <!-- end list -->
 
-40. The player may decide to surrender their hand only when they have
+40. The player MAY decide to surrender their hand only when they have
     not yet hit.
     
     46. The player takes back half of their bet, and the other half goes
@@ -494,12 +556,12 @@ it is fair and deemed necessary, by consensus of Management.
 2.  If the dealer has a natural, he immediately takes the bets of all
     players that do not have a natural.
 
-3.  The dealer may look at their face-down card if their face-up card
+3.  The dealer MAY look at their face-down card if their face-up card
     would allow a natural (i.e. an ace or a ten-card)
 
 <!-- end list -->
 
-43. If the Dealer’s face up card is an Ace, any player may place
+43. If the Dealer’s face up card is an Ace, any player MAY place
     *Insurance.*
 
 <!-- end list -->
@@ -541,7 +603,7 @@ it is fair and deemed necessary, by consensus of Management.
     48. This Inspector holds limited authority outside of the Ministry
         of Admissions.
     
-    49. This Inspector may be identified by their Discord® tag:
+    49. This Inspector MAY be identified by their Discord® tag:
         Týr\#6695
 
 48. The M.O.A. is permitted to do the following:
@@ -568,10 +630,10 @@ it is fair and deemed necessary, by consensus of Management.
         12. Further warnings – Chip-value penalty (50-1500 or 1-15% of
             net worth)
     
-    55. Members must first be issued two “No penalty” warning citations
-        before a fine may be given.
+    55. Members MUST first be issued two “No penalty” warning citations
+        before a fine MAY be given.
     
-    56. Fines must be fair and proportional to the infraction at hand.
+    56. Fines MUST be fair and proportional to the infraction at hand.
     
     57. If a Member receives more than 3 citations within a week, they
         are applicable to have their Membership Terminated
@@ -590,7 +652,7 @@ it is fair and deemed necessary, by consensus of Management.
         determined by the M.O.A. Inspector; or granted for other
         behaviour worthy of an award.
     
-    60. Awards may have certain benefits, for example (but not
+    60. Awards MAY have certain benefits, for example (but not
         necessarily):
         
         16. Presence: one free daily lottery entrance
@@ -602,13 +664,13 @@ it is fair and deemed necessary, by consensus of Management.
 
 51. M.O.A. staff do not have explicit rights over Casino Staff members.
 
-52. The M.O.A. may not be ordered or vetoed *to* perform any action by
+52. The M.O.A. MAY NOT be ordered or vetoed *to* perform any action by
     Casino Management
 
-53. The M.O.A. may be blocked such that it can not issue a citation by
+53. The M.O.A. MAY be blocked such that it CAN NOT issue a citation by
     Casino Management
 
-54. The M.O.A. may issue citations to prevent unruly behaviour or
+54. The M.O.A. MAY issue citations to prevent unruly behaviour or
     unsportsmanlike conduct.
 
 55. The M.O.A. withholds the authority to seize the winnings of a game
@@ -618,12 +680,12 @@ it is fair and deemed necessary, by consensus of Management.
         kept until a clear winner has been decided.
     
     62. When a winner has been decided by the M.O.A., those winnings
-        previously seized shall be handed over to the Member who won.
+        previously seized SHALL be handed over to the Member who won.
 
 56. Failure to cooperate with the M.O.A. is punishable by citation or
     termination, where applicable, and to the discretion of the M.O.A.
     
-    63. In the instance of a termination, Management must also agree to
+    63. In the instance of a termination, Management MUST also agree to
         a majority verdict.
 
 ## M.O.A. Investigations
@@ -632,15 +694,15 @@ it is fair and deemed necessary, by consensus of Management.
     investigations or inquires to find the truth or come to a conclusion
     on a given subject.
 
-58. Investigations may only be started by the M.O.A. Inspector, and any
+58. Investigations MAY only be started by the M.O.A. Inspector, and any
     final judgement or decisions will be issued by the Inspector.
 
 59. Investigations will be directed by a Lead Investigator.
     
-    64. This Lead Investigator is appointed by the MOA Inspector and may
+    64. This Lead Investigator is appointed by the MOA Inspector and MAY
         be replaced or removed at any time, for any reason.
     
-    65. This Lead Investigator must be a member of the MOA
+    65. This Lead Investigator MUST be a member of the MOA
     
     66. This Lead Investigator reports directly to the MOA Inspector in
         their findings. Lead Investigators have the authority to request
@@ -648,33 +710,33 @@ it is fair and deemed necessary, by consensus of Management.
         such citations would be confirmed and issued by the MOA
         Inspector.
 
-60. Lead Investigators may appoint or remove further Investigators to
+60. Lead Investigators MAY appoint or remove further Investigators to
     help them in their duties
 
-61. (Lead) Investigators may resign from their position within an
+61. (Lead) Investigators MAY resign from their position within an
     investigation at any point.
 
 62. Any Investigator has the authority to begin an interview with any
     Member of the Casino.
     
     67. These Interviews are considered confidential and their clearance
-        may only be changed by a person with such authority to do so.
+        MAY only be changed by a person with such authority to do so.
     
-    68. These interviews may be locked and archived when they are
+    68. These interviews MAY be locked and archived when they are
         concluded
     
-    69. These interviews may have certain information released, via the
+    69. These interviews MAY have certain information released, via the
         MOA Archives, to the discretion of the MOA Inspector.
 
-63. The Lead Investigator may, to their discretion, conclude that an
-    investigation has been finished; when this is the case, they may
+63. The Lead Investigator MAY, to their discretion, conclude that an
+    investigation has been finished; when this is the case, they MAY
     close the investigation, deleting it. Before doing so, the Lead
-    Investigator must inform the MOA Inspector of the outcome of the
-    investigation and recommend any actions that should be taken.
+    Investigator MUST inform the MOA Inspector of the outcome of the
+    investigation and recommend any actions that SHOULD be taken.
 
 64. Investigations are still under the purview of the MOA Inspector: any
-    investigator or lead investigator may be removed or appointed by the
-    MOA Inspector, though a reason for removal must be given if
+    investigator or lead investigator MAY be removed or appointed by the
+    MOA Inspector, though a reason for removal MUST be given if
     requested by the Lead Investigator.
 
 65. Failure to comply with an Investigator, Lead Investigator or the
@@ -684,7 +746,7 @@ it is fair and deemed necessary, by consensus of Management.
 
 66. The MOA Inspector is required, when requested, to disclose the
     outcome of an investigation to Casino Management – though
-    information may be redacted to ensure confidentiality.
+    information MAY be redacted to ensure confidentiality.
 
 67. The MOA, via Investigations, will decide the outcome of any dispute
     of who wins – though in this very limited case, it acts as a
@@ -698,21 +760,21 @@ it is fair and deemed necessary, by consensus of Management.
 69. The M.O.L. is a department ran directly by Management of the Casino
     and thus has no official supervisor.
 
-70. The M.O.L. shall issue loans that have a set interest.
+70. The M.O.L. SHALL issue loans that have a set interest.
     
     70. This interest is added on every day after the loan is taken
 
-71. The M.O.L. shall issues loans that have a set maximum date before
-    which the loan and any additional value must be returned.
+71. The M.O.L. SHALL issues loans that have a set maximum date before
+    which the loan and any additional value MUST be returned.
     
-    71. Defaulting on your loan payments may have consequences, as
-        determined by the Ministry. This Ministry shall also work
+    71. Defaulting on your loan payments MAY have consequences, as
+        determined by the Ministry. This Ministry SHALL also work
         closely with the M.O.A.
 
-72. The M.O.L. shall issues loans that have a minimum daily payment that
-    must be made.
+72. The M.O.L. SHALL issues loans that have a minimum daily payment that
+    MUST be made.
     
-    72. This payment **must** be made at the end of each lunch on each
+    72. This payment **MUST** be made at the end of each lunch on each
         *week*day
     
     73. Failure to keep up with these daily payments *will* have
@@ -722,21 +784,21 @@ it is fair and deemed necessary, by consensus of Management.
     repay is increased by 10% of the original loan amount. (500 -\> 550,
     2500 -\> 2750, etc)
 
-74. The maximum amount a player may return each day shall be no more
+74. The maximum amount a player MAY return each day SHALL be no more
     than 20% of the original loan value (including immediate interest).
 
 75. The M.O.L. has the authority to issue the following loans:
     
-    74. *Because the information on loans may change to the discretion
-        of the M.O.L., loan information may be requested by them (one
+    74. *Because the information on loans MAY change to the discretion
+        of the M.O.L., loan information MAY be requested by them (one
         could also use **/loans request** discord command to see the
         loans available)*
 
 76. The M.O.L. has the authority to tax the winnings of a game when it
-    is a player with a loan that wins. This tax can be no more than 25%
+    is a player with a loan that wins. This tax CAN be no more than 25%
     of the player’s winnings.
 
-77. To ensure the Casino is repaid the loans it gives, the Casino may:
+77. To ensure the Casino is repaid the loans it gives, the Casino MAY:
     
     75. Remove the chips placed into the pot by a person with a loan
         when that pot is won by anyone other than the person with that
@@ -747,23 +809,23 @@ it is fair and deemed necessary, by consensus of Management.
     76. Directly remove chips from a person with a loan at the end of
         the day’s sitting to a value not exceeding the minimum daily
         payment of the loan. Discretion is given such that Management
-        may decide if they are to remove chips.
+        MAY decide if they are to remove chips.
 
-78. A Member may wish to use another player as a guarantee: if the
+78. A Member MAY wish to use another player as a guarantee: if the
     initial loaned member fails to repay the loan, then the guarantee
     member’s chips are used to cover the loan.
     
-    77. The M.O.L. may seize this guarantee’s member’s chips to cover
+    77. The M.O.L. MAY seize this guarantee’s member’s chips to cover
         the minimal chip payment, or to seize payment in full.
     
-    78. The M.O.L. may not seize in total more than the initial chip
+    78. The M.O.L. MAY NOT seize in total more than the initial chip
         value that was given by the Casino at the start of the loan
 
 # Other Additional Rules
 
 ## Lottery
 
-79. The Casino, in good faith, may hold lotteries that involve the
+79. The Casino, in good faith, MAY hold lotteries that involve the
     following:
     
     79. Each player puts in any amount they deem.
@@ -786,7 +848,7 @@ it is fair and deemed necessary, by consensus of Management.
     into the Casino each week
     
     83. After a consistent membership to the VIP Club of 3 weeks, a
-        Member shall only have to pay 50 chips per week
+        Member SHALL only have to pay 50 chips per week
 
 82. Club members are given an additional two games grace as described
     below
@@ -800,15 +862,15 @@ it is fair and deemed necessary, by consensus of Management.
         minimum of 5%.
 
 84. Clubs member will be given benefits in any future games that the
-    Casino introduce – they may also be given exclusive inclusion into
+    Casino introduce – they MAY also be given exclusive inclusion into
     some games.
 
-85. Members may request to join the VIP Club by asking Management, who
+85. Members MAY request to join the VIP Club by asking Management, who
     will then decide with a majority vote on whether the member is given
     Membership.
 
 86. After joining the club, a one-time, up-front, payment of 200 chips
-    must be given to the Casino.
+    MUST be given to the Casino.
 
 87. The ‘High Roller’ for each week is automatically permitted free
     membership of the VIP Club for the following week.
@@ -818,12 +880,12 @@ it is fair and deemed necessary, by consensus of Management.
 1.  High stakes poker games are normal poker games as explained above
     with a few changes:
     
-    1.  The starting bet is 50 chips; (if any,) bets on the flop must be
+    1.  The starting bet is 50 chips; (if any,) bets on the flop MUST be
         no lower than 75
     
     2.  The minimum bet is one and a half of the previous round’s bet.
         (ex: if the last round was raised by 100 (and matched by all)
-        then the next round must start at 150 – rounded up where ever
+        then the next round MUST start at 150 – rounded up where ever
         needed)
 
 ## Fees for not playing
@@ -832,7 +894,7 @@ For each game that is missed, a player will be given 50 chips-worth in a
 penalty. This penalty will be allowed a ‘grace’ period, of three games,
 per week. If the player does not exceed a missed-game count of three per
 week, then their count is reset on the next week. If the player does
-exceed three games per week, they shall be fined a cumulative penalty.
+exceed three games per week, they SHALL be fined a cumulative penalty.
 As shown:
 
   - On the third game missed, the penalty is at 150 chips and is the
@@ -851,7 +913,7 @@ As shown:
 
 And so on.
 
-Repeated, deliberate, missing of games may result in a further penalty
+Repeated, deliberate, missing of games MAY result in a further penalty
 or termination of Membership – even if the Member does not exceed the
 three-time grace period.
 
@@ -863,7 +925,7 @@ accepted and to be followed:</span>**
 
 ![](media/image3.emf)![](media/image4.emf)![](media/image5.emf)
 
-**Any additional signees may sign on the back or provided paper.**
+**Any additional signees MAY sign on the back or provided paper.**
 
 **<span class="underline">Additional Signatures of Players</span>**
 
