@@ -8,7 +8,7 @@
 <tr class="odd">
 <td><p>From the Office of Casino Manager Alex Chester:</p>
 <p>Four Aces Casino Staff and Management</p>
-<p>Wednesday, 29 August 2018</p></td>
+<p>Thursday, 30 August 2018</p></td>
 </tr>
 </tbody>
 </table>
@@ -28,7 +28,7 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
 
   - *Floor Manager*: Anushan
 
-  - *Head Dealer*: vaCANt role
+  - *Head Dealer*: vacant role
 
   - *Dealer*: Curtis (unofficially)
 
@@ -58,7 +58,7 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
     responsibilities and duties of dealers
 
   - **Floor Manager** is an individual that oversees the Head Dealer and
-    makes direct decisions about games. This role, and the below are
+    makes direct decisions about games. This role, and the below, are
     considered Management.
 
   - **Casino Manager** is an individual that oversees all Staff and
@@ -132,22 +132,14 @@ Each of these divisions has a Division Head (or MOA Inspector), this
 Division Head is responsible for the entirety of the
 Department/Division. This Division Head has the ultimate authority of
 that Division. Each Division Head is employed to the pleasure of the
-Owner and MUST take into consideration the Owner’s advice in a situation
-within the Divisions purview. Additionally, these Division Heads MAY
-appoint other Members to positions within their Division and delegate
-tasks and duties to those Members; any such Member MUST NOT abuse such
-positions.
+Owner and MUST take into consideration the Owner’s advice or wishes in a
+situation within the Divisions purview. Additionally, these Division
+Heads MAY appoint other Members to positions within their Division and
+delegate tasks and duties to those Members; any such Member MUST NOT
+abuse such positions.
 
-The Division Heads MAY be compelled to act by the Casino Owner, assuming
-that the following conditions apply:
-
-  - Condition one, or
-
-  - Condition two, or
-
-  - Condition three, and condition four; or
-
-  - Etc..
+The Division Heads MAY also seek the advice of the Casino Owner in cases
+where such advice is needed.
 
 Additionally, henceforth, a Council is established that consists of each
 Division Head and each member of Management. This Council will have the
@@ -200,7 +192,7 @@ authority to make decisions that span numerous departments’ authorities.
 
 5.  **It is forbidden to aid in; fail to report the; or partake in the
     exchange of chips for real-world currency. It is similarly forbidden
-    to exchange chips with any persons that is not a subject of this
+    to exchange chips with any persons that are not a subject of this
     Terms of Membership contract.** *Termination CAN occur for violation
     of this rule.*
 
@@ -312,9 +304,9 @@ authority to make decisions that span numerous departments’ authorities.
     necessary to protect the Casino and its operations.
 
 18. In the scenario of play, a Member MAY allow another individual to
-    posses or otherwise hold their chips. In this case, the Member SHALL
-    first disclose to Management exactly how many, and which type, of
-    chips are to be held by this Member.
+    possess or otherwise hold their chips. In this case, the Member
+    SHALL first disclose to Management exactly how many, and which type,
+    of chips, are to be held by this Member.
     
     26. In the circumstance where Management is not informed, the Casino
         takes zero responsibilities and offers no assistance or
@@ -340,7 +332,7 @@ authority to make decisions that span numerous departments’ authorities.
         
         4.  Member’s number of awards, their type and reasons.
 
-20. The Casino’s discord bot additionally records all messages that is
+20. The Casino’s discord bot additionally records all messages that are
     sent within the Casino’s discord server and to the bot’s private
     messages.
     
@@ -348,7 +340,7 @@ authority to make decisions that span numerous departments’ authorities.
     
     31. These messages will not be deleted, but a Member MAY request to
         see all logs the bot has that the member has sent. This request
-        will be honoured to the best of Alex’s ability, and will be
+        will be honoured to the best of Alex’s ability and will be
         performed in a reasonably timed period.
 
 ## Poker
@@ -406,7 +398,7 @@ authority to make decisions that span numerous departments’ authorities.
 
 26. A player MAY bet once all players have paid the buy-in, have all
     their cards, and the first 3 cards are placed down. A player MAY
-    call a previous player’s bet, and match it with their own chips, if
+    call a previous player’s bet, and match it with their own chips if
     there are less than five cards on the table. A player MAY raise
     another player’s bet, matching it and then betting higher than the
     previous bet. A player MAY also check, but only where there is no
@@ -594,7 +586,7 @@ it is fair and deemed necessary, by consensus of Management.
 # ![](media/image1.png)Ministry of Admission
 
 46. The Ministry of Admission (M.O.A.) is the authority that will handle
-    new Members to the Casino and handle existing Members to the Casino
+    new Members of the Casino and handle existing Members of the Casino
     (in form of Awards and Punishments).
 
 47. The M.O.A. is led by an M.O.A. Inspector, who oversees all
@@ -612,7 +604,7 @@ it is fair and deemed necessary, by consensus of Management.
     
     51. Approve Membership of new Applicants to the Casino
     
-    52. Terminate Membership of existing Members to the Casino, with the
+    52. Terminate Membership of existing Members of the Casino, with the
         majority support of Management, and for a valid reason as
         outlined in this Contract.
     
@@ -691,8 +683,8 @@ it is fair and deemed necessary, by consensus of Management.
 ## M.O.A. Investigations
 
 57. The Ministry of Admissions has the authority to launch
-    investigations or inquires to find the truth or come to a conclusion
-    on a given subject.
+    investigations or inquiries to find the truth or come to a
+    conclusion on a given subject.
 
 58. Investigations MAY only be started by the M.O.A. Inspector, and any
     final judgement or decisions will be issued by the Inspector.
@@ -740,7 +732,7 @@ it is fair and deemed necessary, by consensus of Management.
     requested by the Lead Investigator.
 
 65. Failure to comply with an Investigator, Lead Investigator or the
-    Investigation in general is failing to comply with the MOA. Lead
+    Investigation, in general, is failing to comply with the MOA. Lead
     Investigators have the authority to request citations or punishment
     through the MOA Inspector to those that any uncooperative.
 
@@ -749,7 +741,7 @@ it is fair and deemed necessary, by consensus of Management.
     information MAY be redacted to ensure confidentiality.
 
 67. The MOA, via Investigations, will decide the outcome of any dispute
-    of who wins – though in this very limited case, it acts as a
+    of who wins – though, in this very limited case, it acts as a
     recommendation to Casino Management.
 
 # Ministry of Loans
@@ -862,7 +854,7 @@ it is fair and deemed necessary, by consensus of Management.
         minimum of 5%.
 
 84. Clubs member will be given benefits in any future games that the
-    Casino introduce – they MAY also be given exclusive inclusion into
+    Casino introduces – they MAY also be given exclusive inclusion into
     some games.
 
 85. Members MAY request to join the VIP Club by asking Management, who
