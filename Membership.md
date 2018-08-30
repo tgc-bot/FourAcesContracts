@@ -110,7 +110,7 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
       - **M.O.L.** staff members MAY be any Member of the Casino. They
         MAY: recommend the best loan to Members that are looking to get
         one; advertise loans to Members, within reason; and give
-        recommendations to Management on who SHOULD be given a loan,
+        recommendations to Management on who is to be given a loan,
         given a personal assessment of that person’s finance.
     
       - **M.O.L.** **Division Head** supervises the M.O.L. and presents
@@ -523,7 +523,7 @@ it is fair and deemed necessary, by consensus of Management.
     additional card
 
 2.  The player CANNOT hit again and MUST either stick with what they
-    have or go bust SHOULD they go over 21
+    have or go bust if they go over 21
 
 <!-- end list -->
 
