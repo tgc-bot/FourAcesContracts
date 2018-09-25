@@ -8,7 +8,7 @@
 <tr class="odd">
 <td><p>From the Office of Casino Manager Alex Chester:</p>
 <p>Four Aces Casino Staff and Management</p>
-<p>Tuesday, 25 September 2018</p></td>
+<p>Tuesday, 25 September 2018 (v29)</p></td>
 </tr>
 </tbody>
 </table>
@@ -850,9 +850,14 @@ it is fair and deemed necessary, by consensus of Management.
     9.  The M.O.L. MAY NOT seize in total more than the initial chip
         value that was given by the Casino at the start of the loan
 
+#   
+XII: Ministry of Games
+
+To do
+
 # Other Additional Rules
 
-## XII: Lottery
+## XIII: Lottery
 
 1.  The Casino, in good faith, MAY hold lotteries that involve the
     following:
@@ -867,7 +872,7 @@ it is fair and deemed necessary, by consensus of Management.
     4.  If multiple players have the same best 5 cards, then the lottery
         is split between them.
 
-## XIII: VIP Club
+## XIV: VIP Club
 
 1.  The VIP Club is a Management-sponsored group of members that receive
     additional benefits and opportunities that non-club members would
@@ -907,7 +912,7 @@ it is fair and deemed necessary, by consensus of Management.
 8.  The ‘High Roller’ for each week is automatically permitted free
     membership of the VIP Club for the following week.
 
-## XIV: High Stakes Poker Games
+## XV: High Stakes Poker Games
 
 1.  High stakes poker games are normal poker games as explained above
     with a few changes:
@@ -920,7 +925,7 @@ it is fair and deemed necessary, by consensus of Management.
         then the next round MUST start at 150 – rounded up where ever
         needed)
 
-## XV: Fees for not playing
+## XVI: Fees for not playing
 
 For each game that is missed, a player will be given 50 chips-worth in a
 penalty. This penalty will be allowed a ‘grace’ period, of three games,
@@ -952,7 +957,7 @@ three-time grace period.
 <span class="underline">All penalties are given by the Ministry of
 Games, in the form of an M.O.A. citation</span>
 
-# XVI: Layout of Terms
+# XVII: Layout of Terms
 
 As you have probably seen, the Terms are laid out in what are called
 ‘SECTIONS’ – these sections are numbered according to Roman Numerals
