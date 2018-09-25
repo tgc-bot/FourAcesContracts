@@ -33,12 +33,6 @@ Will be displayed as this in the final PDF version:
 
 Check out the [issue page](https://github.com/CheAle14/FourAcesContracts/issues) to raise an issue to have a clause, top-level clause or section revised.
 
-### What is a clause, top-level clause?
+### How am I supposed to interpret its layout?
 
-```
-13)
-   a) This is a clause, its reference would be 13a
-14) This is also a clause, but is considered top-level
-15) This is, too, a top-level clause
-   a) But it also has another clause under it
-```
+[Already explained.]https://github.com/CheAle14/FourAcesContracts/blob/master/Membership.md#xvi-layout-of-terms
