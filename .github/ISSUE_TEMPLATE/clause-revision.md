@@ -6,7 +6,9 @@ about: Revise the wording of a specific clause
 
 ## Which clause it is?
 
-Examples: **12-C**, **15-A-iii**, 
+**Section** (*article*)[*sub-article*]
+
+Example: **V (5)[a]** 
 
 ## What should the clause be now
 
