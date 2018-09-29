@@ -8,7 +8,7 @@
 <tr class="odd">
 <td><p>From the Office of Casino Manager Alex Chester:</p>
 <p>Four Aces Casino Staff and Management</p>
-<p>Tuesday, 25 September 2018 (v29)</p></td>
+<p>Saturday, 29 September 2018 (v30)</p></td>
 </tr>
 </tbody>
 </table>
@@ -624,7 +624,7 @@ it is fair and deemed necessary, by consensus of Management.
     new Members of the Casino and handle existing Members of the Casino
     (in form of Awards and Punishments).
 
-2.  The M.O.A. is led by an M.O.A. Inspector, who oversees all
+2.  The M.O.A.’s Division Head is the M.O.A. Inspector, who oversees all
     operations of the Ministry.
     
     1.  This Inspector holds limited authority outside of the Ministry
@@ -787,8 +787,8 @@ it is fair and deemed necessary, by consensus of Management.
 1.  ![](media/image2.png)The Ministry of Loans (M.O.L.) is the authority
     that will handle all things regarding loans within the Casino.
 
-2.  The M.O.L. is a department ran directly by Management of the Casino
-    and thus has no official supervisor.
+2.  The M.O.L.’s Division Head is Anushan, with Management members being
+    permanent staff of the Division.
 
 3.  The M.O.L. SHALL issue loans that have a set interest.
     
@@ -850,10 +850,34 @@ it is fair and deemed necessary, by consensus of Management.
     9.  The M.O.L. MAY NOT seize in total more than the initial chip
         value that was given by the Casino at the start of the loan
 
-#   
-XII: Ministry of Games
+# XII: Ministry of Games
 
-To do
+1.  The Ministry of Games (logo/badge not yet done) is the authority
+    that will handle matters related to the general functioning of the
+    Casino and its poker, blackjack or other games.
+
+2.  The M.O.G.’s Division Head is Alex.
+
+3.  The M.O.G. SHALL perform audits, at the end of each week wherein
+    which a change in chips could have occurred
+    
+    1.  These audits MUST be performed by each Member, and failure to
+        perform them without valid cause SHALL result in an immediate
+        citation issued by the M.O.G. through the M.O.A. (but without
+        needed approval by the M.O.A.’s citation issuance protocol)
+    
+    2.  These audits SHALL collect the number of each White, Red, Green,
+        Blue and Black chip that each Member has in their possession
+    
+    3.  These audits MAY be used to not only decide High Roller, but
+        also to provide information on who is currently the highest-chip
+        person within the Casino; these audits MAY also be used to
+        ensure that no additional chips are added to the Casino expect
+        where it is authorised; these audits MAY be used to ensure that
+        Member’s are not losing or gaining chips outside normal play.
+
+4.  The M.O.G. SHALL be the authority that performs the rake, as set out
+    in previous sections
 
 # Other Additional Rules
 
