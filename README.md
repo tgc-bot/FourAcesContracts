@@ -35,4 +35,4 @@ Check out the [issue page](https://github.com/CheAle14/FourAcesContracts/issues)
 
 ### How am I supposed to interpret its layout?
 
-[Already explained.]https://github.com/CheAle14/FourAcesContracts/blob/master/Membership.md#xvi-layout-of-terms
+[Already explained.](https://github.com/CheAle14/FourAcesContracts/blob/master/Membership.md#xvii-layout-of-terms)
