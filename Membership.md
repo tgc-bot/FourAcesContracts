@@ -9,6 +9,7 @@
 <td><p>From the Office of Casino Manager Alex Chester:</p>
 <p>Four Aces Casino Staff and Management</p>
 <p>Saturday, 29 September 2018 (v30)</p></td>
+<p>Wednesday, 26 September 2018 (v29)</p></td>
 </tr>
 </tbody>
 </table>
@@ -851,6 +852,7 @@ it is fair and deemed necessary, by consensus of Management.
         value that was given by the Casino at the start of the loan
 
 # XII: Ministry of Games
+
 
 1.  The Ministry of Games (logo/badge not yet done) is the authority
     that will handle matters related to the general functioning of the

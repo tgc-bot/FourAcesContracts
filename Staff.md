@@ -74,7 +74,7 @@
     the Division’s hierarchy to the ‘FourAces\#1702’ (Four Aces Casino)
     discord account, for such information to be recorded.
 
-9.  As a Staff, you may be punished by the Casino Management for failing
+8.  As a Staff, you may be punished by the Casino Management for failing
     to perform your duties, or performing your duties to a degree that
     is deemed unacceptable, biased, prejudiced, or otherwise
     unacceptable to the Casino.
@@ -89,13 +89,13 @@
     
     9.  Punishments are issued by the M.O.A. on behalf of Management.
 
-10. Management involves the: Owner, Casino Manager and Floor Manager
+9.  Management involves the: Owner, Casino Manager and Floor Manager
     
     10. Only Management may approve changes to the Contract; other rules
         related to contract updates are included in the Membership
         contract.
 
-11. **Staff and Management Mandatory Recusals**
+10. **Staff and Management Mandatory Recusals**
     
     11. Under situations where a punishment or decision would apply to
         the given Staff or Management member, they are required to
