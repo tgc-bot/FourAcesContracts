@@ -9,7 +9,6 @@
 <td><p>From the Office of Casino Manager Alex Chester:</p>
 <p>Four Aces Casino Staff and Management</p>
 <p>Saturday, 29 September 2018 (v30)</p></td>
-<p>Wednesday, 26 September 2018 (v29)</p></td>
 </tr>
 </tbody>
 </table>
@@ -785,8 +784,9 @@ it is fair and deemed necessary, by consensus of Management.
 
 # XI: Ministry of Loans
 
-1.  ![](media/image2.png)The Ministry of Loans (M.O.L.) is the authority
-    that will handle all things regarding loans within the Casino.
+1.  ![](media/image2.png)The
+    Ministry of Loans (M.O.L.) is the authority that will handle all
+    things regarding loans within the Casino.
 
 2.  The M.O.L.’s Division Head is Anushan, with Management members being
     permanent staff of the Division.
@@ -852,7 +852,6 @@ it is fair and deemed necessary, by consensus of Management.
         value that was given by the Casino at the start of the loan
 
 # XII: Ministry of Games
-
 
 1.  The Ministry of Games (logo/badge not yet done) is the authority
     that will handle matters related to the general functioning of the
@@ -1005,7 +1004,8 @@ For example:
   - **V**(5)\[b\]\[ii\] refers to continuing playing after an all in.
 
 **<span class="underline">Staff Signatures, to certify these Terms are
-accepted and to be followed:</span>**
+accepted and to be
+followed:</span>**
 
 ![](media/image3.emf)![](media/image4.emf)![](media/image5.emf)
 
