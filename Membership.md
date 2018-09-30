@@ -8,7 +8,7 @@
 <tr class="odd">
 <td><p>From the Office of Casino Manager Alex Chester:</p>
 <p>Four Aces Casino Staff and Management</p>
-<p>Saturday, 29 September 2018 (v30)</p></td>
+<p>Sunday, 30 September 2018 (v30)</p></td>
 </tr>
 </tbody>
 </table>
@@ -780,12 +780,12 @@ it is fair and deemed necessary, by consensus of Management.
 
 11. The MOA, via Investigations, will decide the outcome of any dispute
     of who wins – though, in this very limited case, it acts as a
-    recommendation to Casino Management.
+    recommendation to Casino
+Management.
 
-# XI: Ministry of Loans
+# ![](media/image2.png)XI: Ministry of Loans
 
-1.  ![](media/image2.png)The
-    Ministry of Loans (M.O.L.) is the authority that will handle all
+1.  The Ministry of Loans (M.O.L.) is the authority that will handle all
     things regarding loans within the Casino.
 
 2.  The M.O.L.’s Division Head is Anushan, with Management members being
