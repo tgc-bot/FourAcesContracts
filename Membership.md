@@ -849,9 +849,10 @@ Management.
         the minimal chip payment, or to seize payment in full.
     
     9.  The M.O.L. MAY NOT seize in total more than the initial chip
-        value that was given by the Casino at the start of the loan
+        value that was given by the Casino at the start of the
+loan
 
-# XII: Ministry of Games
+# ![](media/image3.png)XII: Ministry of Games
 
 1.  The Ministry of Games (logo/badge not yet done) is the authority
     that will handle matters related to the general functioning of the
@@ -1007,7 +1008,7 @@ For example:
 accepted and to be
 followed:</span>**
 
-![](media/image3.emf)![](media/image4.emf)![](media/image5.emf)
+![](media/image4.emf)![](media/image5.emf)![](media/image6.emf)
 
 **Any additional signees MAY sign on the back or provided paper.**
 
