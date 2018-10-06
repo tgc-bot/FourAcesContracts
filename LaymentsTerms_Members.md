@@ -109,23 +109,23 @@ READ THE CONTRACT FULLY
 * not really used
 
 
-## Section XIII: VIP Club
+## Section XIV: VIP Club
 
 * Special priviladges, 300 chip upfront, 100 chip next wekk, 75 chip week next, 50 chips from then on. per week
 * Rake reduced as above
 * High Roller: given 1 free week of VIP
 
-## Section XIV: High Stakes Poker Games
+## Section XV: High Stakes Poker Games
 
 * Starting bet is 50
 * Flop bets must start at 75
 * Minimum bet is 1.5x the previous rounds bet
     * eg: 100 chips on flop (100 per player), next round must start at 150 by someone
 
-## Section XV: Fees for not playing
+## Section XVI: Fees for not playing
 
 * Just dont.. it gets expensive *really* quickly
 
-## Section XVI: Layout of Terms
+## Section XVII: Layout of Terms
 
 * section (article)[sub-article], eg: **V(5)[c]**
