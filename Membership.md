@@ -8,7 +8,7 @@
 <tr class="odd">
 <td><p>From the Office of Casino Manager Alex Chester:</p>
 <p>Four Aces Casino Staff and Management</p>
-<p>Sunday, 30 September 2018 (v30)</p></td>
+<p>Thursday, 11 October 2018 (v31)</p></td>
 </tr>
 </tbody>
 </table>
@@ -88,7 +88,7 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
     whether material, physical or causal or, in the negative, the
     absence of that possibility or capability.
 
-### Departments / Divisions
+## Departments / Divisions
 
   - **Ministry of Admissions**
     
@@ -141,9 +141,12 @@ abuse such positions.
 The Division Heads MAY also seek the advice of the Casino Owner in cases
 where such advice is needed.
 
-Additionally, henceforth, a Council is established that consists of each
-Division Head and each member of Management. This Council will have the
-authority to make decisions that span numerous departments’ authorities.
+Additionally, henceforth, a Council is established that consists of the
+Division Heads of all Ministries, and the Owner. This Council will have
+the authority to make decisions that span numerous departments’
+authorities, or that would impact the entirety of the Casino as a whole,
+or a decision that would be outside the purview of any singular
+department.
 
 ## I: Terms of Play
 
@@ -366,11 +369,12 @@ authority to make decisions that span numerous departments’ authorities.
     9.  Any member MAY request a FOI request for any logs; but
         redactions will apply as per above.
     
-    10. Additionally, if the request is specifically large or time
+    10. Additionally, if the request is especially large or time
         consuming, an extension MAY given such that the request is
         answered within the time as per
         *<span class="underline">\[c\]</span>* but delivered at a later
-        date, within a reasonable time period.
+        date, within a reasonable time period of no more than 5
+        additional days.
         
         1.  
 ## V: Poker
@@ -401,55 +405,81 @@ authority to make decisions that span numerous departments’ authorities.
         matched by the player with more chips, and any excess that
         player has is returned.
     
-    3.  If more than two players are present, the following applies
-        after one goes all-in:
+    3.  If more than two players are present, but the all in bet only
+        constitutes no more than 300 chips, or is no more than ¼ of the
+        pot at that point, then (just 1 player goes all in):
         
-        1.  If the lowest all-in bet is no more than either 250, or ¼ of
-            the total main pot’s value, then the below applies. Else,
-            previous (standard) rules apply.
-        
-        2.  The remaining players continue to play as per normal to the
+        1.  The remaining players continue to play as per normal to the
             remaining rounds.
         
-        3.  Once all the rounds have been completed and all five cards
+        2.  Once all the rounds have been completed and all five cards
             have been placed and the final round has been performed,
             each of the players’ hands is looked at to see who wins
         
-        4.  Any member MAY win the main pot: whichever member has the
+        3.  Any member MAY win the main pot: whichever member has the
             highest hand MAY win the main pot
         
-        5.  For the side pot, only the members that continued betting
-            (ie: not the all-in player) MAY win the pot; it is the
-            player that gains the highest amount who wins this pot.
+        4.  For the side pot (constituting any additionally bets the
+            non-all in players MAY have made after the all-in was made),
+            only the members that continued betting (i.e.: not the
+            all-in player) MAY win the pot; the player with the best
+            hand in the pot will win it.
     
-    4.  These bets ***MUST*** be kept in separate places, with the ‘main
+    4.  If more than two players are present, and
+        *<span class="underline">\[b\]</span>* does not apply, then:
+        
+        5.  For all players going all-in until only one has chips
+            remaining:
+        
+        6.  The lowest all in bet gets matched by all players and gets
+            placed in a pot that those players could win (the first
+            all-in bet is matched by everyone and thus is placed inside
+            the ‘main pot’ – with other rounds’ chips)
+        
+        7.  Then, the next lowest bet is matched by the remaining
+            players with chips in another, separate pot that could only
+            be won by the players still in.
+        
+        8.  This continues until only one player has any chips
+            remaining, in which case they MAY keep any chips they have.
+        
+        9.  Once all players have bet, additional cards are drawn until
+            there are 5 community cards, at which point:
+        
+        10. Any player MAY win the main pot (including the first lowest
+            all in bets)
+        
+        11. Only players who have matched a side-pot MAY win that side
+            pot.
+    
+    5.  These bets ***MUST*** be kept in separate places, with the ‘main
         pot’ all in bet being placed closest to the dealer, and each
         subsequent being placed *clearly separate* away from the dealer.
 
 6.  A player MAY bet once all players have paid the buy-in, have all
     their cards, and the first 3 cards are placed down. A player MAY
-    call a previous player’s bet, and match it with their own chips if
+    call a previous player’s bet and match it with their own chips if
     there are less than five cards on the table. A player MAY raise
     another player’s bet, matching it and then betting higher than the
     previous bet. A player MAY also check, but only where there is no
     previous bet – this means that they do not raise.
 
 7.  A player is never unable to bet – if they do not have the required
-    amount to match a previous bet, they MAY decide to go all in and the
-    above all in rules will be used.
+    amount to match a previous bet, they MAY go all in and the above all
+    in rules will be used.
 
 8.  When there are five cards on the table, players MAY continue betting
-    and folding. If all players decide to call the current bet, then the
-    game is finished, and the players MUST show their hands.
+    and folding. If all players decide to check after the river, then
+    the game is finished, and the players MUST show their hands.
 
-9.  Any action to raise, fold, check, call, etc MUST be vocalised: the
-    player MUST clearly announce their intentions – the dealer MAY
+9.  Any action to raise, fold, check, call, etc SHOULD be vocalised: the
+    player SHOULD clearly announce their intentions – the dealer MAY
     accept a ‘knocking’ on the table to signify a check but MAY request
     clarification if they deem an action to be ambiguous.
 
-10. A player’s first action is accepted and CANNOT be changed: if a
-    player says that they check, then say that they raise, the action of
-    checking is accepted only.
+10. A player’s first action is accepted and CANNOT be changed (for
+    example if a player says that they check, then say that they raise,
+    the action of checking is accepted only.)
 
 11. The Dealer MAY decide to call to a close betting when there are five
     cards. The game will finish, with players showing their cards.
@@ -459,14 +489,14 @@ authority to make decisions that span numerous departments’ authorities.
 
 13. Typical Poker rules apply.
     
-    5.  *Typical Poker rules* are defined as rules where it CAN be
+    6.  *Typical Poker rules* are defined as rules where it is
         demonstrated they are in use across multiple independent
         Casinos.
     
-    6.  These rules CANNOT be found to invalidate this contract or its
+    7.  These rules CANNOT be found to invalidate this contract or its
         terms.
     
-    7.  These rules MAY be invalidated by Management, with consensus.
+    8.  These rules MAY be invalidated by Management, with consensus.
 
 14. Member’s SHOULD NOT collaborate with other Member’s in a manner
     which presents an unfair advantage, for example, by showing each
@@ -682,16 +712,13 @@ it is fair and deemed necessary, by consensus of Management.
     13. Awards MAY have certain benefits, for example (but not
         necessarily):
         
-        7.  Presence: one free daily lottery entrance
+        7.  Free lottery entrances,
         
-        8.  Suffience: two free daily lottery entrances
-        
-        9.  Excellence: one free weekly lottery, and two free daily
-            entrances.
+        8.  Additional chips credited over the Discord server.
 
 6.  M.O.A. staff do not have explicit rights over Casino Staff members.
 
-7.  The M.O.A. MAY NOT be ordered or vetoed *to* perform any action by
+7.  The M.O.A. SHALL NOT be ordered or vetoed *to* perform any action by
     Casino Management
 
 8.  The M.O.A. MAY be blocked such that it MUST NOT issue a citation by
@@ -700,19 +727,10 @@ it is fair and deemed necessary, by consensus of Management.
 9.  The M.O.A. MAY issue citations to prevent unruly behaviour or
     unsportsmanlike conduct.
 
-10. The M.O.A. withholds the authority to seize the winnings of a game
-    if it is contested who wins.
-    
-    14. The M.O.A. will, in such a case, ensure the winnings are safely
-        kept until a clear winner has been decided.
-    
-    15. When a winner has been decided by the M.O.A., those winnings
-        previously seized SHALL be handed over to the Member who won.
-
-11. Failure to cooperate with the M.O.A. is punishable by citation or
+10. Failure to cooperate with the M.O.A. is punishable by citation or
     termination, where applicable, and to the discretion of the M.O.A.
     
-    16. In the instance of a termination, Management MUST also agree to
+    14. In the instance of a termination, Management MUST also agree to
         a majority verdict.
 
 ## X: M.O.A. Investigations
@@ -819,10 +837,11 @@ Management.
     than 20% of the original loan value (including immediate interest);
     this maximum CAN only be ignored by the Casino Manager
 
-8.  The M.O.L. has the authority to issue the following loans:
+8.  The M.O.L. MAY issue only the following loans:
     
     5.  *Loan information is only visible through the **/loans request
-        ***command.
+        ***command and SHALL NOT be modified without majority vote by
+        the Council.
 
 9.  The M.O.L. has the authority to tax the winnings of a game when it
     is a player with a loan that wins. This tax CAN be no more than 25%
@@ -878,9 +897,19 @@ loan
         where it is authorised; these audits MAY be used to ensure that
         Member’s are not losing or gaining chips outside normal play.
 
-4.  The M.O.G. SHALL be the authority that performs the rake, as set out
-    in previous sections
+4.  The M.O.G. SHALL be the sole authority that performs the rake, as
+    set out in previous sections
 
+5.  The M.O.G. withholds the sole authority to seize the winnings of a
+    game if it is contested who wins.
+    
+    4.  The M.O.G. will, in such a case, ensure the winnings are safely
+        kept until a clear winner has been decided.
+    
+    5.  When a winner has been decided by the M.O.G., those winnings
+        previously seized SHALL be handed over to the Member who won.
+
+6.  
 # Other Additional Rules
 
 ## XIII: Lottery
@@ -900,7 +929,7 @@ loan
 
 ## XIV: VIP Club
 
-1.  The VIP Club is a Management-sponsored group of members that receive
+1.  The VIP Club is a Casino-sponsored group of members that receive
     additional benefits and opportunities that non-club members would
     otherwise not be given.
 
@@ -953,7 +982,7 @@ loan
 
 ## XVI: Fees for not playing
 
-For each game that is missed, a player will be given 50 chips-worth in a
+For each game that is missed, a player MAY be given 50 chips-worth in a
 penalty. This penalty will be allowed a ‘grace’ period, of three games,
 per week. If the player does not exceed a missed-game count of three per
 week, then their count is reset on the next week. If the player does
@@ -980,8 +1009,9 @@ Repeated, deliberate, missing of games MAY result in a further penalty
 or termination of Membership – even if the Member does not exceed the
 three-time grace period.
 
-<span class="underline">All penalties are given by the Ministry of
-Games, in the form of an M.O.A. citation</span>
+<span class="underline">Any punishments are given through the sole
+authority by the Ministry of Games, and MAY be issued in the form of
+M.O.A. Citations – which would not require approval by the M.O.A.</span>
 
 # XVII: Layout of Terms
 
