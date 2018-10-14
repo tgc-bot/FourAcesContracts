@@ -17,6 +17,9 @@
         make decisions on a given case, and withdraws themselves from
         any authority in such case.
 
+  - *Management:* as in the Membership Terms, refers to the Casino’s
+    Council.
+
 ## Terms of Staff
 
 1.  All Staff members must first read through, understand and sign this
@@ -28,8 +31,8 @@
     
     1.  All other requirements or terms contained within these Terms
     
-    2.  Any additional rules or requirements placed by the Staff of the
-        Casino
+    2.  Any additional rules or requirements placed by the Council of
+        the Casino
 
 4.  You agree to perform your duties without bias, without prejudice and
     with the intent to provide a sense of pride and accomplishment to
@@ -76,8 +79,7 @@
 
 9.  As a Staff, you may be punished by the Casino Management for failing
     to perform your duties, or performing your duties to a degree that
-    is deemed unacceptable, biased, prejudiced, or otherwise
-    unacceptable to the Casino.
+    is negligible or otherwise unacceptable to the Casino.
     
     7.  Punishments can only be given by Staff higher in rank, and must
         be fair
@@ -89,24 +91,21 @@
     
     9.  Punishments are issued by the M.O.A. on behalf of Management.
 
-10. Management involves the: Owner, Casino Manager and Floor Manager
-    
-    10. Only Management may approve changes to the Contract; other rules
-        related to contract updates are included in the Membership
-        contract.
+10. Management refers to the Casino’s Council, which consists of the
+    Division Heads and the Owner.
 
 11. **Staff and Management Mandatory Recusals**
     
-    11. Under situations where a punishment or decision would apply to
+    10. Under situations where a punishment or decision would apply to
         the given Staff or Management member, they are required to
         recuse themselves from the decision.
     
-    12. Due to the way the M.O.A. and the M.O.L. are managed, members of
+    11. Due to the way the M.O.A. and the M.O.L. are managed, members of
         both groups are still required to recuse themselves if they have
         a lower ranking member able to handle the scenario; if that is
         not the case, the member can continue without recusal
     
-    13. **Non-Mandatory Recusals** – in situations where a person may be
+    12. **Non-Mandatory Recusals** – in situations where a person may be
         biased or unable to impart a fair or unprejudiced judgement,
         this contract strongly advises that the person recuse themselves
 

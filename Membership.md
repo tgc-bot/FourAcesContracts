@@ -6,9 +6,9 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>From the Office of Casino Manager Alex Chester:</p>
-<p>Four Aces Casino Staff and Management</p>
-<p>Thursday, 11 October 2018 (v31)</p></td>
+<td><p>From the Office of M.O.G. Supervisor Alex Chester:</p>
+<p>Four Aces Casino Staff and Council</p>
+<p>Sunday, 14 October 2018 (v32)</p></td>
 </tr>
 </tbody>
 </table>
@@ -24,13 +24,13 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
 
   - *Casino Owner* / *Owner*: Troy Smitten
 
-  - *Casino Manager:* Alex Chester
+  - *M.O.G. Supervisor:* Alex Chester
 
-  - *Floor Manager*: Anushan
+  - *M.O.L. Supervisor*: Anushan
 
-  - *Head Dealer*: vacant role
+  - *M.O.G. Head Dealer*: vacant role
 
-  - *Dealer*: Curtis (unofficially)
+  - *M.O.G. Dealer*: Curtis (unofficially)
 
   - *Casino Staff* / *Staff*: Any persons that are employed or given a
     Staff title by the Casino.
@@ -41,6 +41,12 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
   - *Cheating / Rigging:* Bypassing the rules or expected etiquette of a
     game to improve your or someone else’s economic status, or chance of
     winning, or for some other reason
+
+  - *The Council / Council*: The Casino’s Council of Division Heads and
+    the Owner.
+
+  - *Management*: shall be interpreted as referring to the Council, as
+    above.
 
 ## Roles within the Casino
 
@@ -57,12 +63,8 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
   - **Head Dealer** is an individual that oversees the actions,
     responsibilities and duties of dealers
 
-  - **Floor Manager** is an individual that oversees the Head Dealer and
-    makes direct decisions about games. This role, and the below, are
-    considered Management.
-
-  - **Casino Manager** is an individual that oversees all Staff and
-    Members of the Casino.
+  - **Council Member** is any person who is a Division Head or the
+    Owner, and is as such a sitting member of the Casino’s Council.
 
   - **Owner** is an individual that holds the ultimate authority, and,
     given the availability as per contract, CAN make any decision
@@ -96,13 +98,13 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
         appointed by the Division Head; their objective is to ensure
         that the M.O.A. makes valid and just decisions. They report any
         contractual oversights or infringements to the M.O.A. Inspector
-        and advise that Inspector and Management on new Memberships.
+        and advise that Inspector and The Council on new Memberships.
     
       - **M.O.A. Inspector** supervises the M.O.A. and officially hands
         citations and awards, with advice from M.O.A. staff. The M.O.A.
         Inspector will receive requests for citations from any
         Investigation that is opened, in such a case, the MOA Inspector
-        SHOULD make a fair and valid decision given probable cause that
+        SHALL make a fair and valid decision given probable cause that
         an incident violated the terms.
 
   - **Ministry of Loans**
@@ -110,11 +112,11 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
       - **M.O.L.** staff members MAY be any Member of the Casino. They
         MAY: recommend the best loan to Members that are looking to get
         one; advertise loans to Members, within reason; and give
-        recommendations to Management on who is to be given a loan,
+        recommendations to The Council on who is to be given a loan,
         given a personal assessment of that person’s finance.
     
-      - **M.O.L.** **Division Head** supervises the M.O.L. and presents
-        any possible loans to Management for approval.
+      - **M.O.L.** **Supervisor** supervises the M.O.L. and presents any
+        possible loans to The Council for approval.
 
   - **Ministry of Games**
     
@@ -124,8 +126,8 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
         closely with the M.O.A. due to the nature of possible punishment
         against Members.
     
-      - **M.O.G. Division Head** supervises all actions of the M.O.G.
-        and has the authority to directly issue citations related to the
+      - **M.O.G. Supervisor** supervises all actions of the M.O.G. and
+        has the authority to directly issue citations related to the
         M.O.G.’s authority.
 
 Each of these divisions has a Division Head (or MOA Inspector), this
@@ -146,7 +148,7 @@ Division Heads of all Ministries, and the Owner. This Council will have
 the authority to make decisions that span numerous departments’
 authorities, or that would impact the entirety of the Casino as a whole,
 or a decision that would be outside the purview of any singular
-department.
+department, or in any instance where the Casino’s chip pot is at stake.
 
 ## I: Terms of Play
 
@@ -177,10 +179,10 @@ department.
     5.  By continuing to play or be present after changes or revisions
         are made, you agree to be bound by the revised Terms.
     
-    6.  This contract MUST be presented first to all Staff and
-        Management of the Casino; it MUST then either: Be manually
-        approved by the Owner or have a period of 60 hours before the
-        contract is automatically approved.
+    6.  Any contract change MUST be presented first to all Staff of the
+        Casino; it MUST then either: Be manually approved by the Owner
+        or have a period of 60 hours before the contract is
+        automatically approved.
     
     7.  Even if some part of this contract is, for any reason, to be
         made invalid or unenforceable, all other sections of this
@@ -217,12 +219,12 @@ department.
     14. **Black:** 1000
 
 7.  This Contract’s terms SHALL be interpreted as literally as possible;
-    in a case where it is unclear what is meant, it is up to Management
+    in a case where it is unclear what is meant, it is up to The Council
     to determine the true meaning of a clause within this contract which
     would, therefore, be considered its true meaning.
 
-8.  Throughout this Contract, at any point where ‘the Management’,
-    ‘Management’, ‘the Staff’ or ‘Staff’ is used in such a way to give
+8.  Throughout this Contract, at any point where ‘the Council’,
+    ‘Council’, ‘the Staff’ or ‘Staff’ is used in such a way to give
     authority to such group, it is to be assumed (unless stated
     otherwise) that such an authority is given on condition of a
     majority verdict.
@@ -244,8 +246,8 @@ department.
     contract occurred, as described below:
     
     1.  A Member MAY request themselves be terminated by giving a
-        written notice via the Four Aces official Discord™ server.
-        Management SHALL then terminate the Member.
+        written notice via the Four Aces official Discord™ server. The
+        Council SHALL then terminate the Member.
     
     2.  A Member MAY also be terminated for violations or breaches of
         this Contract, or the Staff contract, within sections of these
@@ -260,8 +262,8 @@ department.
     5.  Pursuant to *<span class="underline">\[b\]</span>*, a Member MAY
         be terminated for severe breaches of contract, in which case a
         specific authorisation from a clause within the Terms is not
-        needed, and only a unanimous agreement decision by Management is
-        needed.
+        needed, and only a unanimous agreement decision by The Council
+        is needed.
 
 2.  In the scenario of a Termination of Membership, the follow SHALL
     apply:
@@ -307,19 +309,19 @@ department.
 3.  Chips MUST NOT be possessed by any person that has not agreed to
     this Contract. Any person that attempts to do so MUST first agree to
     this Contract and its Terms, fully and completely to the extent
-    necessary to protect the Casino and its operations.
+    necessary to protect the Casino, its operations, and the chips.
 
 4.  In the scenario of play, a Member MAY allow another individual to
     possess or otherwise hold their chips. In this case, the Member
-    SHALL first disclose to Management exactly how many, and which type,
-    of chips, are to be held by this Member.
+    SHALL first disclose to The Council exactly how many, and which
+    type, of chips, are to be held by this Member.
     
-    1.  In the circumstance where Management is not informed, the Casino
-        takes zero responsibilities and offers no assistance or
-        insurance on those chips – Management MAY consider such chips to
-        be in the possession of whoever indeed possesses them, even if
-        an agreement was made (but of course, was not disclosed to
-        Management)
+    1.  In the circumstance where The Council is not informed, the
+        Casino takes zero responsibilities and offers no assistance or
+        insurance on those chips – The Council MAY consider such chips
+        to be in the possession of whoever indeed possesses them, even
+        if an agreement was made (but of course, was not disclosed to
+        The Council)
 
 ## IV: Privacy and Data Policy
 
