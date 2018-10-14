@@ -42,6 +42,12 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
     game to improve your or someone else’s economic status, or chance of
     winning, or for some other reason
 
+  - *The Council / Council*: The Casino’s Council of Division Heads and
+    the Owner.
+
+  - *Management*: shall be interpreted as referring to the Council, as
+    above.
+
 ## Roles within the Casino
 
   - **Member** is any person that has accepted this Membership contract
@@ -110,7 +116,7 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
         given a personal assessment of that person’s finance.
     
       - **M.O.L.** **Supervisor** supervises the M.O.L. and presents any
-        possible loans to Management for approval.
+        possible loans to The Council for approval.
 
   - **Ministry of Games**
     
@@ -240,8 +246,8 @@ department, or in any instance where the Casino’s chip pot is at stake.
     contract occurred, as described below:
     
     1.  A Member MAY request themselves be terminated by giving a
-        written notice via the Four Aces official Discord™ server.
-        Management SHALL then terminate the Member.
+        written notice via the Four Aces official Discord™ server. The
+        Council SHALL then terminate the Member.
     
     2.  A Member MAY also be terminated for violations or breaches of
         this Contract, or the Staff contract, within sections of these
@@ -256,8 +262,8 @@ department, or in any instance where the Casino’s chip pot is at stake.
     5.  Pursuant to *<span class="underline">\[b\]</span>*, a Member MAY
         be terminated for severe breaches of contract, in which case a
         specific authorisation from a clause within the Terms is not
-        needed, and only a unanimous agreement decision by Management is
-        needed.
+        needed, and only a unanimous agreement decision by The Council
+        is needed.
 
 2.  In the scenario of a Termination of Membership, the follow SHALL
     apply:
@@ -303,19 +309,19 @@ department, or in any instance where the Casino’s chip pot is at stake.
 3.  Chips MUST NOT be possessed by any person that has not agreed to
     this Contract. Any person that attempts to do so MUST first agree to
     this Contract and its Terms, fully and completely to the extent
-    necessary to protect the Casino and its operations.
+    necessary to protect the Casino, its operations, and the chips.
 
 4.  In the scenario of play, a Member MAY allow another individual to
     possess or otherwise hold their chips. In this case, the Member
-    SHALL first disclose to Management exactly how many, and which type,
-    of chips, are to be held by this Member.
+    SHALL first disclose to The Council exactly how many, and which
+    type, of chips, are to be held by this Member.
     
-    1.  In the circumstance where Management is not informed, the Casino
-        takes zero responsibilities and offers no assistance or
-        insurance on those chips – Management MAY consider such chips to
-        be in the possession of whoever indeed possesses them, even if
-        an agreement was made (but of course, was not disclosed to
-        Management)
+    1.  In the circumstance where The Council is not informed, the
+        Casino takes zero responsibilities and offers no assistance or
+        insurance on those chips – The Council MAY consider such chips
+        to be in the possession of whoever indeed possesses them, even
+        if an agreement was made (but of course, was not disclosed to
+        The Council)
 
 ## IV: Privacy and Data Policy
 
