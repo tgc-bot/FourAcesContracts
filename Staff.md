@@ -22,10 +22,10 @@
 
 ## Terms of Staff
 
-1.  All Staff members must first read through, understand and sign this
+1.  All Staff members MUST first read through, understand and sign this
     contract.
 
-2.  All staff members must also follow the Terms of Membership
+2.  All staff members MUST also follow the Terms of Membership
 
 3.  On signing this contract, the signee acknowledges they will follow:
     
@@ -45,7 +45,7 @@
 6.  In any situation where there is a contradiction between two Staff
     member’s orders or instructions, the highest-authority staff
     member’s instruction is enforced. If both members are of the same
-    authority, then the Casino Management must break the stand-off
+    authority, then the Casino Management MUST break the stand-off
     
     3.  If the contradiction is between Casino Management, then the
         Owner breaks the stand-off
@@ -61,31 +61,31 @@
             any manner they see fit to the members under their
             authority.
         
-        2.  The Owner may place a maximum salary on the Division Head,
+        2.  The Owner MAY place a maximum salary on the Division Head,
             such that the Division Head is unable to give themselves a
-            salary beyond that maximum, and must give the remaining
+            salary beyond that maximum, and MUST give the remaining
             budget to the remaining members of that Division.
     
-    5.  The Division Heads may neglect to give a salary to members whose
+    5.  The Division Heads MAY neglect to give a salary to members whose
         wealth exceeds 7500 chips.
     
     6.  In a scenario where there is remaining funds that have not
         entirely been spent by the Division Heads, the remainder is
         given into the Casino’s pot.
 
-8.  Division Heads must send information regarding who is employed, and
+8.  Division Heads MUST send information regarding who is employed, and
     the Division’s hierarchy to the ‘FourAces\#1702’ (Four Aces Casino)
     discord account, for such information to be recorded.
 
-9.  As a Staff, you may be punished by the Casino Management for failing
+9.  As a Staff, you MAY be punished by the Casino Management for failing
     to perform your duties, or performing your duties to a degree that
     is negligible or otherwise unacceptable to the Casino.
     
-    7.  Punishments can only be given by Staff higher in rank, and must
+    7.  Punishments CAN only be given by Staff higher in rank, and MUST
         be fair
     
-    8.  While acting as a Staff member, the Staff member cannot be
-        terminated from Membership, they must first be Terminated from
+    8.  While acting as a Staff member, the Staff member CANNOT be
+        terminated from Membership, they MUST first be Terminated from
         their staff position, and after a minimum of one (1) day, be
         Terminated from Membership.
     
@@ -103,15 +103,15 @@
     11. Due to the way the M.O.A. and the M.O.L. are managed, members of
         both groups are still required to recuse themselves if they have
         a lower ranking member able to handle the scenario; if that is
-        not the case, the member can continue without recusal
+        not the case, the member CAN continue without recusal
     
-    12. **Non-Mandatory Recusals** – in situations where a person may be
+    12. **Non-Mandatory Recusals** – in situations where a person MAY be
         biased or unable to impart a fair or unprejudiced judgement,
         this contract strongly advises that the person recuse themselves
 
 ## Termination of Staff
 
-  - This contract may be terminated by either the signee or by their
+  - This contract MAY be terminated by either the signee or by their
     direct supervisor, or by a majority decision from higher members of
     Casino Management.
 
@@ -125,8 +125,42 @@
 
   - Despite being Terminated as a Staff member, you will still withhold
     your Membership of the Casino for at least one (1) day. After one
-    (1) from Staff termination, you may then be terminated from
+    (1) from Staff termination, you MAY then be terminated from
     Membership.
+
+## Division Budgets
+
+1.  Each of the Divisions will have their own Budget, whose value will
+    be publically known by any Casino Member, but SHALL only be set or
+    changed by the Owner, or, due to ease of use, Alex.
+
+2.  This Budget MAY be increased due to profits gained specifically to
+    that Division, for example (but not necessarily limited to):
+    
+    1.  M.O.A. Citations;
+    
+    2.  M.O.G. Rakes and Blackjack profits;
+    
+    3.  M.O.L. Loan profits
+
+3.  These profits from each Division MAY be split, in such a fashion
+    that the Casino gets x% of the profit, and the Division has the
+    remainder within their Budget.
+
+4.  The Divisions Budget MAY be used on certain things, for example, the
+    M.O.L.’s budget would be used to issue loans, and other uses MAY
+    become apparent.
+
+5.  The Divisions budget SHALL also be used to pay wages to the
+    Division’s employees:
+    
+    4.  The Division Head MAY issue a wage to each Member, but MUST pay
+        a minimum of 25 chips per employee, and MUST NOT exceed 500
+        chips per employee.
+    
+    5.  If the Division does not have enough budget to pay each of its
+        employees the 25 chips minimum, then the Casino’s pot MAY be
+        used, but only to cover the minimum 25 chips.
 
 **<span class="underline">Staff signatures, certifying they have read,
 understood and agreed to these
