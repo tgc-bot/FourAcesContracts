@@ -8,7 +8,7 @@
 <tr class="odd">
 <td><p>From the Office of M.O.G. Supervisor Alex Chester:</p>
 <p>Four Aces Casino Staff and Council</p>
-<p>Sunday, 14 October 2018 (v32)</p></td>
+<p>Monday, 22 October 2018 (v34)</p></td>
 </tr>
 </tbody>
 </table>
@@ -45,7 +45,7 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
   - *The Council / Council*: The Casino’s Council of Division Heads and
     the Owner.
 
-  - *Management*: shall be interpreted as referring to the Council, as
+  - *Management*: SHALL be interpreted as referring to the Council, as
     above.
 
 ## Roles within the Casino
@@ -148,7 +148,7 @@ Division Heads of all Ministries, and the Owner. This Council will have
 the authority to make decisions that span numerous departments’
 authorities, or that would impact the entirety of the Casino as a whole,
 or a decision that would be outside the purview of any singular
-department, or in any instance where the Casino’s chip pot is at stake.
+department, or in any instance where the Casino’s chip pot is involved.
 
 ## I: Terms of Play
 
@@ -556,6 +556,15 @@ it is fair and deemed necessary, by consensus of Management.
 
 1.  The player MAY bet any reasonable amount, with a minimum of 50, and
     no more than 1000
+    
+    1.  Diminishing returns applies on any additional winnings above the
+        first 500 chips.
+    
+    2.  For each chip won above the first 500 (ie, 525 to 1000), the
+        chip is worth half as much (ie, 50 -\> 25)
+    
+    3.  For each chip won over 1000 chips in winnings, the chip is worth
+        only 25% as much (ie, 100 -\> 25)
 
 2.  If a player receives two cards of the same value, they MAY split
     their cards into two hands.
@@ -597,7 +606,7 @@ it is fair and deemed necessary, by consensus of Management.
 4.  The player MAY decide to surrender their hand only when they have
     not yet hit.
     
-    1.  The player takes back half of their bet, and the other half goes
+    4.  The player takes back half of their bet, and the other half goes
         to the dealer
 
 5.  Once a player wins, the dealer will match their bet and the player
@@ -642,13 +651,11 @@ it is fair and deemed necessary, by consensus of Management.
     the Dealer hits themselves until they either win, are forced to
     stick or bust.
     
-    2.  For instances where the player(s) or Dealer gets a blackjack
+    5.  For instances where the player(s) or Dealer gets a blackjack
         (Ace + Ten card), then see above.
 
 9.  The Staff make the ultimate decision of who, and how much, has been
     won.
-
-##   
 
 # ![](media/image1.png)IX: Ministry of Admission
 
@@ -697,7 +704,7 @@ it is fair and deemed necessary, by consensus of Management.
     10. If a Member receives more than 3 citations within a week, they
         are applicable to have their Membership Terminated
 
-5.  The M.O.A. additionally withholds the authority to issue Awards
+5.  The M.O.A. additionally withholds the sole authority to issue Awards
     
     11. Awards are either:
         
@@ -776,7 +783,7 @@ it is fair and deemed necessary, by consensus of Management.
     
     6.  These interviews MAY have certain information released, via the
         MOA Archives, to the discretion of the MOA Inspector, with a
-        final confirmation given by Casino Manager Alex
+        final confirmation given by M.O.G. Supervisor Alex
 
 7.  The Lead Investigator MAY, to their discretion, conclude that an
     investigation has been finished; when this is the case, they MAY
@@ -792,11 +799,13 @@ it is fair and deemed necessary, by consensus of Management.
 9.  Failure to comply with an Investigator, Lead Investigator or the
     Investigation, in general, is failing to comply with the MOA. Lead
     Investigators have the authority to request citations or punishment
-    through the MOA Inspector to those that any uncooperative.
+    through the MOA Inspector to those that are uncooperative.
 
 10. The MOA Inspector is required, when requested, to disclose the
     outcome of an investigation to Casino Management – though
-    information MAY be redacted to ensure confidentiality.
+    information MAY be redacted to ensure confidentiality. (redactions
+    MUST follow the same rules as per section **IV: Privacy and Data
+    Policy**)
 
 11. The MOA, via Investigations, will decide the outcome of any dispute
     of who wins – though, in this very limited case, it acts as a
@@ -869,15 +878,15 @@ Management.
     8.  The M.O.L. MAY seize this guarantee’s member’s chips to cover
         the minimal chip payment, or to seize payment in full.
     
-    9.  The M.O.L. MAY NOT seize in total more than the initial chip
+    9.  The M.O.L. SHALL NOT seize in total more than the initial chip
         value that was given by the Casino at the start of the
 loan
 
 # ![](media/image3.png)XII: Ministry of Games
 
-1.  The Ministry of Games (logo/badge not yet done) is the authority
-    that will handle matters related to the general functioning of the
-    Casino and its poker, blackjack or other games.
+1.  The Ministry of Games is the authority that will handle matters
+    related to the general functioning of the Casino and its poker,
+    blackjack or other games.
 
 2.  The M.O.G.’s Division Head is Alex.
 
@@ -900,7 +909,7 @@ loan
         Member’s are not losing or gaining chips outside normal play.
 
 4.  The M.O.G. SHALL be the sole authority that performs the rake, as
-    set out in previous sections
+    set out in other sections
 
 5.  The M.O.G. withholds the sole authority to seize the winnings of a
     game if it is contested who wins.
@@ -928,6 +937,9 @@ loan
     
     4.  If multiple players have the same best 5 cards, then the lottery
         is split between them.
+
+2.  Any profits made through the Lottery shall be given the M.O.A.’s
+    budget.
 
 ## XIV: VIP Club
 
@@ -968,6 +980,9 @@ loan
 
 8.  The ‘High Roller’ for each week is automatically permitted free
     membership of the VIP Club for the following week.
+
+9.  Any profits from the VIP club will be split 50:50 between the M.O.A.
+    and the Casino.
 
 ## XV: High Stakes Poker Games
 
