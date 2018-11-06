@@ -8,7 +8,7 @@
 <tr class="odd">
 <td><p>From the Office of M.O.G. Supervisor Alex Chester:</p>
 <p>Four Aces Casino Staff and Council</p>
-<p>Monday, 22 October 2018 (v34)</p></td>
+<p>Sunday, 28 October 2018 (v35)</p></td>
 </tr>
 </tbody>
 </table>
@@ -149,8 +149,11 @@ the authority to make decisions that span numerous departments’
 authorities, or that would impact the entirety of the Casino as a whole,
 or a decision that would be outside the purview of any singular
 department, or in any instance where the Casino’s chip pot is involved.
+The Council’s decision SHALL override any decision of a Division. The
+Council MAY be required to have an input prior to any Division’s
+decision (for example, issuing or changing the values of MOL loans)
 
-## I: Terms of Play
+## I: General Terms of Play
 
 1.  Only people that have: read thoroughly, agree to and have signed the
     contract are able to partake in activities. All players MUST remain
@@ -325,8 +328,9 @@ department, or in any instance where the Casino’s chip pot is involved.
 
 ## IV: Privacy and Data Policy
 
-1.  The Four Aces Casino records the following information of all
-    members, stored for an as-of-currently indefinite period of time:
+1.  The Four Aces Casino records the following information (but not
+    necessarily only the listed) of all members, stored for an
+    as-of-currently indefinite period of time:
     
     1.  Member’s Name
     
@@ -339,6 +343,9 @@ department, or in any instance where the Casino’s chip pot is involved.
         2.  Member’s number of citations, their severity and reasons.
         
         3.  Member’s number of awards, their type and reasons.
+        
+        4.  Member’s loans, and all information required to handling
+            such loans.
 
 2.  The Casino’s discord bot additionally records all messages that are
     sent within the Casino’s discord server and to the bot’s private
@@ -347,7 +354,7 @@ department, or in any instance where the Casino’s chip pot is involved.
     4.  These message logs are only visible to the Bot’s owner, Alex.
     
     5.  These messages will not be deleted, but a Member MAY request to
-        see all logs the bot has that the member has sent. (through a
+        see all logs the bot has that the member has sent. (through an
         FOI/Freedom of Information request)
     
     6.  This request MUST be answered to within 5 (five) working days of
@@ -355,18 +362,23 @@ department, or in any instance where the Casino’s chip pot is involved.
     
     7.  The request MAY be rejected, but only for:
         
-        4.  Reasons as outlined as per the Freedom of Information
+        5.  Reasons as outlined as per the Freedom of Information
             Act\[1\]
+        
+        6.  In case of cost-related exemptions, or other exemptions that
+            would not make sense given the scale of the Casino, such
+            exemption limits or requirements are to be reduced to a
+            reasonable limit.
     
     8.  The request MAY be redacted, but only information that is:
         
-        5.  Not relevant to the request;
+        7.  Not relevant to the request;
         
-        6.  Outside the scope of the request;
+        8.  Outside the scope of the request;
         
-        7.  Otherwise private; or
+        9.  Otherwise private; or
         
-        8.  Not from the person themselves
+        10. Not from the person themselves
     
     9.  Any member MAY request a FOI request for any logs; but
         redactions will apply as per above.
@@ -572,23 +584,22 @@ it is fair and deemed necessary, by consensus of Management.
     1.  The player MUST then match their current bet for their
         additional hand
     
-    2.  The player MAY win with either, or both, of their hands
+    2.  Each hand is then considered independent to the other, and any
+        action (ie win or bust) to one hand is not considered to the
+        other. In other words, the hands are completely separate –
+        splitting doubles your chances of winning, but also doubles your
+        chances of losing.
     
-    3.  The player does not immediately lose if one hand is bust
+    3.  The player receives a face-up card to their left hand, and a
+        face-down card to their right hand
     
-    4.  The player MAY stick with either, or both, of their hands
+    4.  The player continues to play as per normal, but MUST start with
+        their left hand, then continue to their right. They cannot
+        return to their left hand once stuck, won or lost.
     
-    5.  The player MUST be dealt two more cards for each hand – the new
-        card is placed face-up for the left hand, but face-down for the
-        right hand.
-    
-    6.  The player MUST first start hitting on their left hand. Once
-        they have stuck or gone bust on that hand, they MUST then move
-        to their right hand, at which point they MAY then look at the
-        face-down card.
-    
-    7.  The player MAY NOT start hitting again on their first hand once
-        they have moved to their second.
+    5.  If the player splits on Aces, then they cannot hit or double –
+        they must take only one card for each and are stuck with those
+        hands.
 
 3.  The player MAY decide to double-down their hand if they have not yet
     hit.
@@ -607,7 +618,7 @@ it is fair and deemed necessary, by consensus of Management.
     not yet hit.
     
     4.  The player takes back half of their bet, and the other half goes
-        to the dealer
+        to the Casino
 
 5.  Once a player wins, the dealer will match their bet and the player
     will receive this amount.
@@ -619,7 +630,8 @@ it is fair and deemed necessary, by consensus of Management.
 <!-- end list -->
 
 1.  If any player gets a natural, and the dealer does not, the dealer
-    immediately matches the players’ bets and gives them this amount.
+    immediately matches the players’ bets, to a return rate of 3:2, and
+    gives them this amount.
 
 2.  If the dealer has a natural, he immediately takes the bets of all
     players that do not have a natural.
@@ -634,14 +646,17 @@ it is fair and deemed necessary, by consensus of Management.
 
 <!-- end list -->
 
-1.  Insurance is kept separate from the player’s main bet and is a
-    maximum bet of half of their main bet.
+1.  Insurance is a separate wager that the Dealer has blackjack and is
+    kept separate from the player’s main bet and is a maximum of double
+    their initial bet.
 
 2.  If the dealer’s second (face-down) card is not a ten-card, then
     players lose the amount that they insured.
 
 3.  If the dealer’s second (face-down) card is any ten-card then the
-    players that have paid insurance do not lose either of their bets.
+    players that have paid insurance receive their insurance bets in a
+    1:1 return rate (ie, if they bet 50, they receive 50). All players
+    would still lose their initial bet.
 
 <!-- end list -->
 
@@ -654,7 +669,14 @@ it is fair and deemed necessary, by consensus of Management.
     5.  For instances where the player(s) or Dealer gets a blackjack
         (Ace + Ten card), then see above.
 
-9.  The Staff make the ultimate decision of who, and how much, has been
+9.  The Dealer shall, after all other players have finalised their
+    hands, continue to hit with their hand until they either go bust, or
+    reach a value of 17 or greater.
+
+10. Players may only split or double if they have not yet done any other
+    action
+
+11. The Staff make the ultimate decision of who, and how much, has been
     won.
 
 # ![](media/image1.png)IX: Ministry of Admission
@@ -693,8 +715,8 @@ it is fair and deemed necessary, by consensus of Management.
         
         2.  Last warning – No penalty
         
-        3.  Further warnings – Chip-value penalty (50-1500 or 1-15% of
-            net worth)
+        3.  Further fines – Chip-value penalty (50-1500 or 1-15% of net
+            worth)
     
     8.  Members MUST first be issued two “No penalty” warning citations
         before a fine MAY be given.
@@ -938,7 +960,7 @@ loan
     4.  If multiple players have the same best 5 cards, then the lottery
         is split between them.
 
-2.  Any profits made through the Lottery shall be given the M.O.A.’s
+2.  Any profits made through the Lottery SHALL be given the M.O.A.’s
     budget.
 
 ## XIV: VIP Club
