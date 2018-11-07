@@ -8,7 +8,7 @@
 <tr class="odd">
 <td><p>From the Office of M.O.G. Supervisor Alex Chester:</p>
 <p>Four Aces Casino Staff and Council</p>
-<p>Sunday, 28 October 2018 (v35)</p></td>
+<p>Tuesday, 06 November 2018 (v36)</p></td>
 </tr>
 </tbody>
 </table>
@@ -868,17 +868,17 @@ Management.
 
 7.  The maximum amount a player MAY return each day SHALL be no more
     than 20% of the original loan value (including immediate interest);
-    this maximum CAN only be ignored by the Casino Manager
+    this maximum SHALL NOT be ignored under any circumstances.
 
 8.  The M.O.L. MAY issue only the following loans:
     
-    5.  *Loan information is only visible through the **/loans request
-        ***command and SHALL NOT be modified without majority vote by
-        the Council.
+    5.  Loan information is only visible through the **/loans request**
+        command and SHALL NOT be modified without majority vote by the
+        Council.
 
-9.  The M.O.L. has the authority to tax the winnings of a game when it
-    is a player with a loan that wins. This tax CAN be no more than 25%
-    of the player’s winnings, after rake.
+9.  The M.O.L. CAN tax the winnings of a game when it is a player with a
+    loan that wins. This tax MUST NOT be any more than 25% of the
+    player’s winnings, after rake.
 
 10. To ensure the Casino is repaid the loans it gives, the Casino MAY:
     
@@ -901,8 +901,12 @@ Management.
         the minimal chip payment, or to seize payment in full.
     
     9.  The M.O.L. SHALL NOT seize in total more than the initial chip
-        value that was given by the Casino at the start of the
-loan
+        value that was given by the Casino at the start of the loan
+    
+    10. The M.O.L. MAY require a Member have and use a guarantee as
+        above prior to any issuance of the loan – the guarantor must
+        agree to their responsibility as a
+co-debtor.
 
 # ![](media/image3.png)XII: Ministry of Games
 
@@ -912,8 +916,8 @@ loan
 
 2.  The M.O.G.’s Division Head is Alex.
 
-3.  The M.O.G. SHALL perform audits, at the end of each week wherein
-    which a change in chips could have occurred
+3.  The M.O.G. SHALL ensure Member’s perform audits, at the end of each
+    week wherein which a change in chips could have occurred
     
     1.  These audits MUST be performed by each Member, and failure to
         perform them without valid cause SHALL result in an immediate
@@ -928,7 +932,7 @@ loan
         person within the Casino; these audits MAY also be used to
         ensure that no additional chips are added to the Casino expect
         where it is authorised; these audits MAY be used to ensure that
-        Member’s are not losing or gaining chips outside normal play.
+        Members are not losing or gaining chips outside normal play.
 
 4.  The M.O.G. SHALL be the sole authority that performs the rake, as
     set out in other sections
