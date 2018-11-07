@@ -1,5 +1,9 @@
 # Four Aces Casino – Terms of Staff
 
+The contract applied to all Staff members.
+
+Version: 11
+
 ## Definitions
 
   - Definitions are identical in all respects to the Terms of
@@ -50,62 +54,39 @@
     3.  If the contradiction is between Casino Management, then the
         Owner breaks the stand-off
 
-7.  The Owner is required to give a salary/payment to any member who
-    performs their duties:
-    
-    4.  Division Heads are to receive a budget as set out by the Owner,
-        of no less than 25 chips per person within that budget, and of
-        no more than 200 chips per person.
-        
-        1.  Division Heads are then able to distribute that budget in
-            any manner they see fit to the members under their
-            authority.
-        
-        2.  The Owner MAY place a maximum salary on the Division Head,
-            such that the Division Head is unable to give themselves a
-            salary beyond that maximum, and MUST give the remaining
-            budget to the remaining members of that Division.
-    
-    5.  The Division Heads MAY neglect to give a salary to members whose
-        wealth exceeds 7500 chips.
-    
-    6.  In a scenario where there is remaining funds that have not
-        entirely been spent by the Division Heads, the remainder is
-        given into the Casino’s pot.
-
-8.  Division Heads MUST send information regarding who is employed, and
+7.  Division Heads MUST send information regarding who is employed, and
     the Division’s hierarchy to the ‘FourAces\#1702’ (Four Aces Casino)
     discord account, for such information to be recorded.
 
-9.  As a Staff, you MAY be punished by the Casino Management for failing
+8.  As a Staff, you MAY be punished by the Casino Management for failing
     to perform your duties, or performing your duties to a degree that
     is negligible or otherwise unacceptable to the Casino.
     
-    7.  Punishments CAN only be given by Staff higher in rank, and MUST
+    4.  Punishments CAN only be given by Staff higher in rank, and MUST
         be fair
     
-    8.  While acting as a Staff member, the Staff member CANNOT be
+    5.  While acting as a Staff member, the Staff member CANNOT be
         terminated from Membership, they MUST first be Terminated from
         their staff position, and after a minimum of one (1) day, be
         Terminated from Membership.
     
-    9.  Punishments are issued by the M.O.A. on behalf of Management.
+    6.  Punishments are issued by the M.O.A. on behalf of Management.
 
-10. Management refers to the Casino’s Council, which consists of the
+9.  Management refers to the Casino’s Council, which consists of the
     Division Heads and the Owner.
 
-11. **Staff and Management Mandatory Recusals**
+10. **Staff and Management Mandatory Recusals**
     
-    10. Under situations where a punishment or decision would apply to
+    7.  Under situations where a punishment or decision would apply to
         the given Staff or Management member, they are required to
         recuse themselves from the decision.
     
-    11. Due to the way the M.O.A. and the M.O.L. are managed, members of
+    8.  Due to the way the M.O.A. and the M.O.L. are managed, members of
         both groups are still required to recuse themselves if they have
         a lower ranking member able to handle the scenario; if that is
         not the case, the member CAN continue without recusal
     
-    12. **Non-Mandatory Recusals** – in situations where a person MAY be
+    9.  **Non-Mandatory Recusals** – in situations where a person MAY be
         biased or unable to impart a fair or unprejudiced judgement,
         this contract strongly advises that the person recuse themselves
 
@@ -154,13 +135,44 @@
 5.  The Divisions budget SHALL also be used to pay wages to the
     Division’s employees:
     
-    4.  The Division Head MAY issue a wage to each Member, but MUST pay
-        a minimum of 25 chips per employee, and MUST NOT exceed 500
-        chips per employee.
+    4.  The Division Head SHALL issue a wage to each Member, but MUST
+        pay a minimum of 25 chips per employee, and MUST NOT exceed 200
+        chips per employee. They MAY give a wage to their discretion,
+        assuming it does not contradict these Terms.
     
     5.  If the Division does not have enough budget to pay each of its
         employees the 25 chips minimum, then the Casino’s pot MAY be
         used, but only to cover the minimum 25 chips.
+    
+    6.  If a Member is employed across multiple Divisions, they are only
+        guaranteed just one 25 chip. Additionally, a Member SHALL NOT
+        receive any more than 500 chips, in total, from their wages.
+
+## Modification of this Contract
+
+1.  Any modifications to this Contract MUST first be submitted by Alex
+    to the Staff Members of the Casino.
+
+2.  While a majority vote or approval is not required, the Owner MAY
+    overrule the contract and disregard any changes made to it.
+
+3.  Alex MAY be directed to institute changes by the Council, which
+    SHALL be performed as soon as is reasonable possible.
+
+4.  If the contract is not overruled by the Owner, then:
+    
+    1.  If the new contract is presented prior to 4:30 pm, the contract
+        SHALL be valid and enforceable from midnight that day.
+    
+    2.  If the new contract is presented after 4:30 pm, then the
+        contract SHALL be valid from 3 pm the day after it is presented.
+    
+    3.  If the new contract is presented on a day in which no Casino
+        games have occurred (ie: weekends or holidays) then the new
+        contract SHALL be valid from the midnight of that day.
+
+5.  This contract CANNOT be held to invalidate terms of the Membership
+    contract, unless such a term allows for such an exemption to occur.
 
 **<span class="underline">Staff signatures, certifying they have read,
 understood and agreed to these
