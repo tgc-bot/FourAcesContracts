@@ -8,7 +8,7 @@
 <tr class="odd">
 <td><p>From the Office of M.O.G. Supervisor Alex Chester:</p>
 <p>Four Aces Casino Staff and Council</p>
-<p>Tuesday, 06 November 2018 (v36)</p></td>
+<p>Wednesday, 07 November 2018 (v37)</p></td>
 </tr>
 </tbody>
 </table>
@@ -539,30 +539,25 @@ it is fair and deemed necessary, by consensus of Management.
 2.  Rakes are a scaled commission fee, taken to support the wages, staff
     and costs incurred by running this Casino.
 
-3.  The rake is set to the main discretion of the Dealer, following
-    order of seniority of Staff – with exceptions under cases of
-    mandatory recusals if the rake applies to the Staff member. The rake
-    is taken into the Casino’s vault at the end of all rounds of a poker
+3.  The rake is set only by the following sections below. The rake is
+    taken into the Casino’s vault at the end of all rounds of a poker
     game.
     
     1.  The rake SHALL NOT be altered, increased or changed except for
         the levels and conditions set about below or elsewhere in these
         Terms.
     
-    2.  Under normal conditions, the rake is set to 10%
+    2.  The rake is set to 5% for all Members.
     
-    3.  When applied against a staff member, the rake is set to 7.5%
-    
-    4.  When applied against a Management member, the rake is set to 5%
-    
-    5.  The rake MAY be altered by other clauses within these Terms.
-    
-    6.  In the case of any player going all-in, the rake is set to 15%.
-    
-    7.  The Casino MAY take a minimum rake of 25 chips, regardless of
-        any rounding of any percentages. Whether or not the rake is
-        round is left to the discretion of the Casino, following
-        standard recusal procedures.
+    3.  For Members in the VIP club, the rake applies at 5% the first
+        week, then every following week is deducted by 0.5% until they
+        have no rake at all.
+        
+        1.  The Casino may still enforce a minimum of 25 chips, even if
+            the rake is 0%
+        
+        2.  In the case where there are more than 3000 chips that are
+            being won, the rake is set at 5%.
 
 ## VIII: Blackjack
 
