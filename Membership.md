@@ -8,7 +8,7 @@
 <tr class="odd">
 <td><p>From the Office of M.O.G. Supervisor Alex Chester:</p>
 <p>Four Aces Casino Staff and Council</p>
-<p>Wednesday, 07 November 2018 (v37)</p></td>
+<p>Friday, 09 November 2018 (v38)</p></td>
 </tr>
 </tbody>
 </table>
@@ -28,9 +28,9 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
 
   - *M.O.L. Supervisor*: Anushan
 
-  - *M.O.G. Head Dealer*: vacant role
+  - *M.O.G. Head Dealer*: Curtis
 
-  - *M.O.G. Dealer*: Curtis (unofficially)
+  - *M.O.G. Dealer*: Abdul
 
   - *Casino Staff* / *Staff*: Any persons that are employed or given a
     Staff title by the Casino.
