@@ -2,7 +2,7 @@
 
 The contract applied to all Staff members.
 
-Version: 11
+Version: 12
 
 ## Definitions
 
@@ -143,6 +143,9 @@ Version: 11
     5.  If the Division does not have enough budget to pay each of its
         employees the 25 chips minimum, then the Casino’s pot MAY be
         used, but only to cover the minimum 25 chips.
+        
+        1.  This only applies if the Member has not received any chips
+            from any Division’s wage.
     
     6.  If a Member is employed across multiple Divisions, they are only
         guaranteed just one 25 chip. Additionally, a Member SHALL NOT

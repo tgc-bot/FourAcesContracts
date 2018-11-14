@@ -8,10 +8,61 @@
 <tr class="odd">
 <td><p>From the Office of M.O.G. Supervisor Alex Chester:</p>
 <p>Four Aces Casino Staff and Council</p>
-<p>Wednesday, 07 November 2018 (v37)</p></td>
+<p>Friday, 09 November 2018 (v38)</p></td>
 </tr>
 </tbody>
 </table>
+
+# Contents
+
+[Four Aces Casino – Terms of Membership
+2](#four-aces-casino-terms-of-membership)
+
+[Definitions 2](#definitions)
+
+[Roles within the Casino 2](#roles-within-the-casino)
+
+[Actionable Verbs 2](#actionable-verbs)
+
+[Departments / Divisions 3](#departments-divisions)
+
+[I: General Terms of Play 4](#i-general-terms-of-play)
+
+[II: Termination of Membership 5](#ii-termination-of-membership)
+
+[III: Chip Ownership 5](#iii-chip-ownership)
+
+[IV: Privacy and Data Policy 6](#iv-privacy-and-data-policy)
+
+[V: Poker 7](#v-poker)
+
+[VI: Poker Stars / Coundon Coins 8](#vi-poker-stars-coundon-coins)
+
+[VII: Poker Rake 8](#vii-poker-rake)
+
+[VIII: Blackjack 9](#viii-blackjack)
+
+[IX: Ministry of Admission 11](#ix-ministry-of-admission)
+
+[X: M.O.A. Investigations 12](#x-m.o.a.-investigations)
+
+[XI: Ministry of Loans 13](#xi-ministry-of-loans)
+
+[XII: Ministry of Games 14](#xii-ministry-of-games)
+
+[Other Additional Rules 15](#other-additional-rules)
+
+[XIII: Lottery 15](#xiii-lottery)
+
+[XIV: VIP Club 15](#xiv-vip-club)
+
+[XV: High Stakes Poker Games 15](#xv-high-stakes-poker-games)
+
+[XVI: Fees for not playing 15](#xvi-fees-for-not-playing)
+
+[XVII: Layout of Terms 16](#xvii-layout-of-terms)
+
+# 
 
 # Four Aces Casino – Terms of Membership
 
@@ -24,13 +75,13 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
 
   - *Casino Owner* / *Owner*: Troy Smitten
 
-  - *M.O.G. Supervisor:* Alex Chester
+  - *M.O.G. Supervisor:* Alex Chester<sup>1</sup>
 
-  - *M.O.L. Supervisor*: Anushan
+  - *M.O.L. Supervisor*: Anushan<sup>1</sup>
 
-  - *M.O.G. Head Dealer*: vacant role
+  - *M.O.G. Head Dealer*: Curtis<sup>1</sup>
 
-  - *M.O.G. Dealer*: Curtis (unofficially)
+  - *M.O.G. Dealer*: Abdul<sup>1</sup>
 
   - *Casino Staff* / *Staff*: Any persons that are employed or given a
     Staff title by the Casino.
@@ -48,6 +99,9 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
   - *Management*: SHALL be interpreted as referring to the Council, as
     above.
 
+<sup>1</sup> – While people have been named, their employment can be
+altered without a change to Contract.
+
 ## Roles within the Casino
 
   - **Member** is any person that has accepted this Membership contract
@@ -63,8 +117,8 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
   - **Head Dealer** is an individual that oversees the actions,
     responsibilities and duties of dealers
 
-  - **Council Member** is any person who is a Division Head or the
-    Owner, and is as such a sitting member of the Casino’s Council.
+  - **Council Member** is any person who is a Division Head or the Owner
+    and is as such a sitting member of the Casino’s Council.
 
   - **Owner** is an individual that holds the ultimate authority, and,
     given the availability as per contract, CAN make any decision
