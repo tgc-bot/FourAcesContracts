@@ -2,7 +2,7 @@
 
 The contract applied to all Staff members.
 
-Version: 12
+Version: 13
 
 ## Definitions
 
@@ -135,8 +135,8 @@ Version: 12
 5.  The Divisions budget SHALL also be used to pay wages to the
     Division’s employees:
     
-    4.  The Division Head SHALL issue a wage to each Member, but MUST
-        pay a minimum of 25 chips per employee, and MUST NOT exceed 200
+    4.  The Division Head SHALL issue a wage to each Member, but SHOULD
+        pay a minimum of 25 chips per employee, and MUST NOT exceed 350
         chips per employee. They MAY give a wage to their discretion,
         assuming it does not contradict these Terms.
     
@@ -147,8 +147,8 @@ Version: 12
         1.  This only applies if the Member has not received any chips
             from any Division’s wage.
     
-    6.  If a Member is employed across multiple Divisions, they are only
-        guaranteed just one 25 chip. Additionally, a Member SHALL NOT
+    6.  If a Member is employed across multiple Divisions, they MAY only
+        be guaranteed just one 25 chip. Additionally, a Member SHALL NOT
         receive any more than 500 chips, in total, from their wages.
 
 ## Modification of this Contract

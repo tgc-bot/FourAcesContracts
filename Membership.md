@@ -8,7 +8,7 @@
 <tr class="odd">
 <td><p>From the Office of M.O.G. Supervisor Alex Chester:</p>
 <p>Four Aces Casino Staff and Council</p>
-<p>Friday, 09 November 2018 (v38)</p></td>
+<p>Friday, 16 November 2018 (v39)</p></td>
 </tr>
 </tbody>
 </table>
@@ -200,7 +200,7 @@ where such advice is needed.
 Additionally, henceforth, a Council is established that consists of the
 Division Heads of all Ministries, and the Owner. This Council will have
 the authority to make decisions that span numerous departments’
-authorities, or that would impact the entirety of the Casino as a whole,
+authorities, or that would impact the entirety of the Casino as a whole
 or a decision that would be outside the purview of any singular
 department, or in any instance where the Casino’s chip pot is involved.
 The Council’s decision SHALL override any decision of a Division. The
@@ -239,12 +239,12 @@ decision (for example, issuing or changing the values of MOL loans)
     6.  Any contract change MUST be presented first to all Staff of the
         Casino; it MUST then either: Be manually approved by the Owner
         or have a period of 60 hours before the contract is
-        automatically approved.
+        automatically approved. After either of those conditions, the
+        Contract becomes valid.
     
-    7.  Even if some part of this contract is, for any reason, to be
-        made invalid or unenforceable, all other sections of this
-        contract will still be enforced and will still be considered
-        valid.
+    7.  Even if some part of this contract is, for any reason, made to
+        be invalid or unenforceable, all other sections of this contract
+        will still be enforced and will still be considered valid.
 
 3.  This Casino withholds the authority, through the M.O.A., to punish
     and penalise players for violations of this contract.
@@ -398,7 +398,7 @@ decision (for example, issuing or changing the values of MOL loans)
         
         3.  Member’s number of awards, their type and reasons.
         
-        4.  Member’s loans, and all information required to handling
+        4.  Member’s loans, and all information required for handling
             such loans.
 
 2.  The Casino’s discord bot additionally records all messages that are
@@ -419,9 +419,9 @@ decision (for example, issuing or changing the values of MOL loans)
         5.  Reasons as outlined as per the Freedom of Information
             Act\[1\]
         
-        6.  In case of cost-related exemptions, or other exemptions that
-            would not make sense given the scale of the Casino, such
-            exemption limits or requirements are to be reduced to a
+        6.  In the case of cost-related exemptions, or other exemptions
+            that would not make sense given the scale of the Casino,
+            such exemption limits or requirements are to be reduced to a
             reasonable limit.
     
     8.  The request MAY be redacted, but only information that is:
@@ -434,12 +434,12 @@ decision (for example, issuing or changing the values of MOL loans)
         
         10. Not from the person themselves
     
-    9.  Any member MAY request a FOI request for any logs; but
+    9.  Any member MAY request an FOI request for any logs, but
         redactions will apply as per above.
     
-    10. Additionally, if the request is especially large or time
-        consuming, an extension MAY given such that the request is
-        answered within the time as per
+    10. Additionally, if the request is especially large or
+        time-consuming, an extension MAY be given such that the request
+        is answered within the time as per
         *<span class="underline">\[c\]</span>* but delivered at a later
         date, within a reasonable time period of no more than 5
         additional days.
@@ -474,7 +474,7 @@ decision (for example, issuing or changing the values of MOL loans)
         player has is returned.
     
     3.  If more than two players are present, but the all in bet only
-        constitutes no more than 300 chips, or is no more than ¼ of the
+        constitutes no more than 300 chips or is no more than ¼ of the
         pot at that point, then (just 1 player goes all in):
         
         1.  The remaining players continue to play as per normal to the
@@ -505,7 +505,7 @@ decision (for example, issuing or changing the values of MOL loans)
             the ‘main pot’ – with other rounds’ chips)
         
         7.  Then, the next lowest bet is matched by the remaining
-            players with chips in another, separate pot that could only
+            players with chips in another, separate, pot that could only
             be won by the players still in.
         
         8.  This continues until only one player has any chips
@@ -566,10 +566,10 @@ decision (for example, issuing or changing the values of MOL loans)
     
     8.  These rules MAY be invalidated by Management, with consensus.
 
-14. Member’s SHOULD NOT collaborate with other Member’s in a manner
-    which presents an unfair advantage, for example, by showing each
-    other their hands or otherwise acting outside of what would be
-    considered normal etiquette
+14. Members SHOULD NOT collaborate with other Member’s in a manner which
+    presents an unfair advantage, for example, by showing each other
+    their hands or otherwise acting outside of what would be considered
+    normal etiquette
 
 ### VI: Poker Stars / Coundon Coins
 
@@ -639,7 +639,7 @@ it is fair and deemed necessary, by consensus of Management.
         splitting doubles your chances of winning, but also doubles your
         chances of losing.
     
-    3.  The player receives a face-up card to their left hand, and a
+    3.  The player receives a face-up card to their left hand and a
         face-down card to their right hand
     
     4.  The player continues to play as per normal, but MUST start with
@@ -673,8 +673,9 @@ it is fair and deemed necessary, by consensus of Management.
     will receive this amount.
 
 6.  If a player (or the dealer) immediately gets 21 with only two cards
-    (this is called a *‘natural’* or *‘blackjack’*) (i.e., an ace and
-    any ‘ten-card’), the following conditions apply:
+    (their first two cards) (this is called a *‘natural’* or
+    *‘blackjack’*) (i.e., an ace and any ‘ten-card’), the following
+    conditions apply:
 
 <!-- end list -->
 
@@ -718,9 +719,9 @@ it is fair and deemed necessary, by consensus of Management.
     5.  For instances where the player(s) or Dealer gets a blackjack
         (Ace + Ten card), then see above.
 
-9.  The Dealer shall, after all other players have finalised their
-    hands, continue to hit with their hand until they either go bust, or
-    reach a value of 17 or greater.
+9.  The Dealer shall, once all other players have finalised their hands,
+    continue to hit with their hand until they either go bust or reach a
+    value of 17 or greater.
 
 10. Players may only split or double if they have not yet done any other
     action
@@ -769,6 +770,14 @@ it is fair and deemed necessary, by consensus of Management.
     
     8.  Members MUST first be issued two “No penalty” warning citations
         before a fine MAY be given.
+        
+        4.  This requirement MAY be waived by the M.O.A. Inspector (or,
+            in case of recusal, a majority verdict by Casino Management)
+        
+        5.  This requirement is automatically waived for major
+            violations of this Contract, for example (but not limited
+            to) exchanging chips for real-world values; or for any other
+            action that would otherwise result in a termination.
     
     9.  Fines MUST be fair and proportional to the infraction at hand.
     
@@ -779,11 +788,11 @@ it is fair and deemed necessary, by consensus of Management.
     
     11. Awards are either:
         
-        4.  Presence
+        6.  Presence
         
-        5.  Suffience
+        7.  Suffience
         
-        6.  Excellence
+        8.  Excellence
     
     12. Awards are granted by having no Citations over a certain period,
         determined by the M.O.A. Inspector; or granted for other
@@ -792,9 +801,9 @@ it is fair and deemed necessary, by consensus of Management.
     13. Awards MAY have certain benefits, for example (but not
         necessarily):
         
-        7.  Free lottery entrances,
+        9.  Free lottery entrances,
         
-        8.  Additional chips credited over the Discord server.
+        10. Additional chips credited over the Discord server.
 
 6.  M.O.A. staff do not have explicit rights over Casino Staff members.
 
@@ -819,19 +828,23 @@ it is fair and deemed necessary, by consensus of Management.
     investigations or inquiries to find the truth or conclude on a given
     subject.
 
-2.  Investigations SHOULD only be started by the M.O.A. Inspector, and
-    any final judgement or decisions will be issued by the Inspector.
+2.  Investigations MAY be started by the M.O.A. Inspector, and any final
+    judgement or decisions will be issued by the Inspector.
+    
+    1.  Investigations MAY also be started by the M.O.G. Supervisor, and
+        any final judgement in that cases will be issued by that
+        Supervisor.
 
 3.  Investigations will be directed by a Lead Investigator.
     
-    1.  This Lead Investigator is appointed by the MOA Inspector and MAY
+    2.  This Lead Investigator is appointed by the MOA Inspector and MAY
         be replaced or removed at any time, but only for a conflict of
         interest or serious conduct unbecoming.
     
-    2.  This Lead Investigator MUST be a member of the MOA, or MOG if
+    3.  This Lead Investigator MUST be a member of the MOA, or MOG if
         for an Audit investigation
     
-    3.  This Lead Investigator reports directly to the MOA Inspector in
+    4.  This Lead Investigator reports directly to the MOA Inspector in
         their findings. Lead Investigators have the authority to request
         citations to those the investigation finds to be in violation;
         such citations would be confirmed and issued by the MOA
@@ -846,13 +859,13 @@ it is fair and deemed necessary, by consensus of Management.
 6.  Any Investigator has the authority to begin an interview with any
     Member of the Casino.
     
-    4.  These Interviews are considered confidential and their clearance
+    5.  These Interviews are considered confidential and their clearance
         MAY only be changed by a person with such authority to do so.
     
-    5.  These interviews MAY be locked and archived when they are
+    6.  These interviews MAY be locked and archived when they are
         concluded
     
-    6.  These interviews MAY have certain information released, via the
+    7.  These interviews MAY have certain information released, via the
         MOA Archives, to the discretion of the MOA Inspector, with a
         final confirmation given by M.O.G. Supervisor Alex
 
@@ -874,9 +887,9 @@ it is fair and deemed necessary, by consensus of Management.
 
 10. The MOA Inspector is required, when requested, to disclose the
     outcome of an investigation to Casino Management – though
-    information MAY be redacted to ensure confidentiality. (redactions
-    MUST follow the same rules as per section **IV: Privacy and Data
-    Policy**)
+    information SHOULD be redacted to ensure confidentiality.
+    (redactions MUST follow the same rules as per section **IV: Privacy
+    and Data Policy**)
 
 11. The MOA, via Investigations, will decide the outcome of any dispute
     of who wins – though, in this very limited case, it acts as a
@@ -922,7 +935,7 @@ Management.
 8.  The M.O.L. MAY issue only the following loans:
     
     5.  Loan information is only visible through the **/loans request**
-        command and SHALL NOT be modified without majority vote by the
+        command and SHALL NOT be modified without a majority vote by the
         Council.
 
 9.  The M.O.L. CAN tax the winnings of a game when it is a player with a
@@ -965,7 +978,7 @@ co-debtor.
 
 2.  The M.O.G.’s Division Head is Alex.
 
-3.  The M.O.G. SHALL ensure Member’s perform audits, at the end of each
+3.  The M.O.G. SHALL ensure Members perform audits, at the end of each
     week wherein which a change in chips could have occurred
     
     1.  These audits MUST be performed by each Member, and failure to
@@ -976,8 +989,8 @@ co-debtor.
     2.  These audits SHALL collect the number of each White, Red, Green,
         Blue and Black chip that each Member has in their possession
     
-    3.  These audits MAY be used to not only decide High Roller, but
-        also to provide information on who is currently the highest-chip
+    3.  These audits MAY be used to not only decide High Roller but also
+        to provide information on who is currently the highest-chip
         person within the Casino; these audits MAY also be used to
         ensure that no additional chips are added to the Casino expect
         where it is authorised; these audits MAY be used to ensure that
@@ -1102,7 +1115,7 @@ or termination of Membership – even if the Member does not exceed the
 three-time grace period.
 
 <span class="underline">Any punishments are given through the sole
-authority by the Ministry of Games, and MAY be issued in the form of
+authority by the Ministry of Games and MAY be issued in the form of
 M.O.A. Citations – which would not require approval by the M.O.A.</span>
 
 # XVII: Layout of Terms
