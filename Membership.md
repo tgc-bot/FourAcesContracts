@@ -89,8 +89,7 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
     game to improve your or someone else’s economic status, or chance of
     winning, or for some other reason
 
-  - *The Council / Council*: The Casino’s Council of Division Heads and
-    the Owner.
+  - *The Council / Council*: The Casino’s Council of Division Heads
 
   - *Management*: SHALL be interpreted as referring to the Council, as
     above.
@@ -117,8 +116,9 @@ altered without a change to Contract.
     has been hired/employed by the Casino. Staff members include the
     following:
 
-  - **Dealer** is an individual that has been allowed to deal games
-    within the Casino
+  - **Dealer** can be any Member, as directed by the Ministry of Games,
+    to deal the cards for the games. The Dealer does not have to be a
+    Staff member of the Casino and is not necessarily entitled to any
 
   - **Head Dealer** is an individual that oversees the actions,
     responsibilities and duties of dealers
@@ -448,14 +448,32 @@ or changing the values of MOL loans)
         1.  
 ## V: Poker
 
-1.  Poker buy-ins are 25 chips.
+1.  Pre-flop betting is as stated:
+    
+    1.  When authorised by the M.O.G., a poker game may involve
+        “blinds”. In this case, there is no starting bet to the
+        game, however, the player designated as leftmost (or, if the
+        blind is to be moved round, then moved as permitted) must place
+        in a bet of 50 chips (the ‘big blind’); the player to the left
+        of the ‘big blind’ then must bet 25 chips (the ‘small blind’).
+        If the player who should be the blind is present, then they are
+        forced to place the blind – even if they do not wish to play in
+        that specific game: they are forced to play.
+        <span class="underline">All of the above happens before the
+        community cards are dealt, but after the player’s personal cards
+        are dealt.</span> If all (remaining) players call the big blind,
+        then the big blind MAY raise again, but only for the first time
+        that occurs.
+    
+    2.  In all other games, the starting bet is 25 chips, and no bets
+        are made before the flop is done.
 
 2.  A player MAY raise by any amount they wish, so long as they have the
     chips required to do so.
     
-    1.  **The Casino MAY enforce a ‘table stake’ standard; a player MAY
+    3.  The Casino MAY enforce a ‘table stake’ standard; a player MAY
         NOT bring any new or additional chips to the table after their
-        cards have been distributed by the dealer. **
+        cards have been distributed by the dealer.
 
 3.  A player MAY only remove chips from the pot with any Staff member’s
     approval, and only in situations that would require it, and where it
@@ -470,11 +488,11 @@ or changing the values of MOL loans)
 5.  A player MAY go all in once betting starts. After an all-in, a
     showdown is immediately done
     
-    2.  If only two players go all-in, then the lowest all-in bet is
+    4.  If only two players go all-in, then the lowest all-in bet is
         matched by the player with more chips, and any excess that
         player has is returned.
     
-    3.  If more than two players are present, but the all in bet only
+    5.  If more than two players are present, but the all in bet only
         constitutes no more than 300 chips or is no more than ¼ of the
         pot at that point, then (just 1 player goes all in):
         
@@ -494,7 +512,7 @@ or changing the values of MOL loans)
             all-in player) MAY win the pot; the player with the best
             hand in the pot will win it.
     
-    4.  If more than two players are present, and
+    6.  If more than two players are present, and
         *<span class="underline">\[b\]</span>* does not apply, then:
         
         5.  For all players going all-in until only one has chips
@@ -521,7 +539,7 @@ or changing the values of MOL loans)
         11. Only players who have matched a side-pot MAY win that side
             pot.
     
-    5.  These bets ***MUST*** be kept in separate places, with the ‘main
+    7.  These bets ***MUST*** be kept in separate places, with the ‘main
         pot’ all in bet being placed closest to the dealer, and each
         subsequent being placed *clearly separate* away from the dealer.
 
@@ -558,14 +576,14 @@ or changing the values of MOL loans)
 
 13. Typical Poker rules apply.
     
-    6.  *Typical Poker rules* are defined as rules where it is
+    8.  *Typical Poker rules* are defined as rules where it is
         demonstrated they are in use across multiple independent
         Casinos.
     
-    7.  These rules CANNOT be found to invalidate this contract or its
+    9.  These rules CANNOT be found to invalidate this contract or its
         terms.
     
-    8.  These rules MAY be invalidated by Management, with consensus.
+    10. These rules MAY be invalidated by Management, with consensus.
 
 14. Members SHOULD NOT collaborate with other Member’s in a manner which
     presents an unfair advantage, for example, by showing each other

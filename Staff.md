@@ -46,13 +46,10 @@ Version: 15
     player or Staff to have an advantage that is deemed unfair by the
     Staff.
 
-6.  In any situation where there is a contradiction between two Staff
-    member’s orders or instructions, the highest-authority staff
-    member’s instruction is enforced. If both members are of the same
-    authority, then the Casino Management MUST break the stand-off
-    
-    3.  If the contradiction is between Casino Management, then the
-        Owner breaks the stand-off
+6.  In a situation of conflict (of orders, ideas, etc) from employees
+    within the same Division, then the Division Head resolves the
+    conflict. If the conflict is between Division Heads, then a simple
+    majority of the Members of the Casino SHALL resolve the conflict.
 
 7.  Division Heads MUST send information regarding who is employed, and
     the Division’s hierarchy to the ‘FourAces\#1702’ (Four Aces Casino)
@@ -62,22 +59,22 @@ Version: 15
     to perform your duties, or performing your duties to a degree that
     is negligible or otherwise unacceptable to the Casino.
     
-    4.  Punishments CAN only be given by Staff higher in rank, and MUST
+    3.  Punishments CAN only be given by Staff higher in rank, and MUST
         be fair
     
-    5.  While acting as a Staff member, the Staff member CANNOT be
+    4.  While acting as a Staff member, the Staff member CANNOT be
         terminated from Membership, they MUST first be Terminated from
         their staff position, and after a minimum of one (1) day, be
         Terminated from Membership.
     
-    6.  Punishments are issued by the M.O.A. on behalf of Management.
+    5.  Punishments are issued by the M.O.A. on behalf of Management.
 
 9.  Management refers to the Casino’s Council, which consists of the
     Division Heads of the M.O.G., M.O.L. and M.O.A.
 
 10. **Staff and Management Mandatory Recusals**
     
-    7.  Under situations where a punishment or decision would apply to
+    6.  Under situations where a punishment or decision would apply to
         the given Staff or Management member, they MUST recuse
         themselves from the decision.
         
@@ -85,12 +82,12 @@ Version: 15
             interest, then any Staff members with such a conflict of
             internest MUST recuse themselves.
     
-    8.  Due to the way the M.O.A. and the M.O.L. are managed, members of
+    7.  Due to the way the M.O.A. and the M.O.L. are managed, members of
         both groups are still required to recuse themselves if they have
         a lower ranking member able to handle the scenario; if that is
         not the case, the member CAN continue without recusal
     
-    9.  **Non-Mandatory Recusals** – in situations where a person MAY be
+    8.  **Non-Mandatory Recusals** – in situations where a person MAY be
         biased or unable to impart a fair or unprejudiced judgement,
         this contract strongly advises that the person recuse themselves
 
@@ -136,8 +133,9 @@ A Staff member MAY only be terminated under the following circumstances:
 ## Division Budgets
 
 1.  Each of the Divisions will have their own Budget, whose value will
-    be publically known by any Casino Member, but SHALL only be set or
-    changed by the Owner, or, due to ease of use, Alex.
+    be publically known by any Casino Member, but SHALL only be changed
+    by Alex (since that’s easier to code) with approval by simple
+    majority of Council.
 
 2.  This Budget MAY be increased due to profits gained specifically to
     that Division, for example (but not necessarily limited to):
