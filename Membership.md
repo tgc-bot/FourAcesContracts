@@ -105,7 +105,7 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
       - *Simple majority:* where just one half (51%) of the votes meets
         a result (rounded in same way as above.)
 
-<sup>1</sup> – While people have been named, their employment can be
+<sup>1</sup> – While people have been named, their employment CAN be
 altered without a change to Contract.
 
 ## Roles within the Casino
@@ -229,11 +229,18 @@ decision (for example, issuing or changing the values of MOL loans)
     5.  By continuing to play or be present after changes or revisions
         are made, you agree to be bound by the revised Terms.
     
-    6.  Any contract change MUST be presented first to all Staff of the
-        Casino; it MUST then either: Be manually approved by the Owner
-        or have a period of 60 hours before the contract is
-        automatically approved. After either of those conditions, the
-        Contract becomes valid.
+    6.  Any contract change MUST be presented to all Members of the
+        Casino.
+        
+        2.  The Contract change MUST first be approved by a super
+            majority by the Council
+        
+        3.  The Contract change MUST then be approved by a simple
+            majority by the Members of the Casino. **Except:** if 60
+            hours passes the time it is initially presented to the
+            Council members, at which point (assuming there is not a
+            majority of votes to reject the change) the change becomes
+            valid.
     
     7.  Even if some part of this contract is, for any reason, made to
         be invalid or unenforceable, all other sections of this contract
@@ -600,7 +607,7 @@ it is fair and deemed necessary, by consensus of Management.
         week, then every following week is deducted by 0.5% until they
         have no rake at all.
         
-        1.  The Casino may still enforce a minimum of 25 chips, even if
+        1.  The Casino MAY still enforce a minimum of 25 chips, even if
             the rake is 0%
         
         2.  In the case where there are more than 3000 chips that are
@@ -636,11 +643,11 @@ it is fair and deemed necessary, by consensus of Management.
         face-down card to their right hand
     
     4.  The player continues to play as per normal, but MUST start with
-        their left hand, then continue to their right. They cannot
+        their left hand, then continue to their right. They CANNOT
         return to their left hand once stuck, won or lost.
     
-    5.  If the player splits on Aces, then they cannot hit or double –
-        they must take only one card for each and are stuck with those
+    5.  If the player splits on Aces, then they CANNOT hit or double –
+        they MUST take only one card for each and are stuck with those
         hands.
 
 3.  The player MAY decide to double-down their hand if they have not yet
@@ -712,11 +719,11 @@ it is fair and deemed necessary, by consensus of Management.
     5.  For instances where the player(s) or Dealer gets a blackjack
         (Ace + Ten card), then see above.
 
-9.  The Dealer shall, once all other players have finalised their hands,
+9.  The Dealer SHALL, once all other players have finalised their hands,
     continue to hit with their hand until they either go bust or reach a
     value of 17 or greater.
 
-10. Players may only split or double if they have not yet done any other
+10. Players MAY only split or double if they have not yet done any other
     action
 
 11. The Staff make the ultimate decision of who, and how much, has been
@@ -959,7 +966,7 @@ Management.
         value that was given by the Casino at the start of the loan
     
     10. The M.O.L. MAY require a Member have and use a guarantee as
-        above prior to any issuance of the loan – the guarantor must
+        above prior to any issuance of the loan – the guarantor MUST
         agree to their responsibility as a
 co-debtor.
 
