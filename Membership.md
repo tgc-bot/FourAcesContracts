@@ -191,14 +191,14 @@ M.O.L. Supervisor) is entirely responsible for the duties and
 responsibilities and wages of their Division and their Division’s staff.
 
 Additionally, henceforth, a Council is established that consists of the
-Division Heads of all Ministries, and the Owner. This Council will have
-the authority to make decisions that span numerous departments’
-authorities, or that would impact the entirety of the Casino as a whole
-or a decision that would be outside the purview of any singular
-department, or in any instance where the Casino’s chip pot is involved.
-The Council’s decision SHALL override any decision of a Division. The
-Council MAY be required to have an input prior to any Division’s
-decision (for example, issuing or changing the values of MOL loans)
+Division Heads of all Ministries. This Council will have the authority
+to make decisions that span numerous departments’ authorities, or that
+would impact the entirety of the Casino as a whole or a decision that
+would be outside the purview of any singular department, or in any
+instance where the Casino’s chip pot is involved. The Council’s decision
+SHALL override any decision of a Division. The Council MAY be required
+to have an input prior to any Division’s decision (for example, issuing
+or changing the values of MOL loans)
 
 ## I: General Terms of Play
 
@@ -352,15 +352,15 @@ decision (for example, issuing or changing the values of MOL loans)
 
 ## III: Chip Ownership
 
-1.  All chips used are owned by Troy Smitten, and SHALL NOT be lost,
+1.  All chips used are owned by Thomas Burns, and SHALL NOT be lost,
     damaged, destroyed, exchanged, given or otherwise transferred except
     as allowed through the Casino’s operations or through explicit
-    consent of Mr Smitten.
+    consent of Thomas Burns.
 
 2.  All Chips are leased ownership to the Casino. The Casino has supreme
     authority on any chips where they are involved in the Casino’s
     operations. An exception is given where there are reasonable
-    requirements that Troy Smitten have the final say on the chip(s) in
+    requirements that Thomas Burns have the final say on the chip(s) in
     question.
 
 3.  Chips MUST NOT be possessed by any person that has not agreed to
@@ -368,10 +368,11 @@ decision (for example, issuing or changing the values of MOL loans)
     this Contract and its Terms, fully and completely to the extent
     necessary to protect the Casino, its operations, and the chips.
 
-4.  In the scenario of play, a Member MAY allow another individual to
-    possess or otherwise hold their chips. In this case, the Member
-    SHALL first disclose to The Council exactly how many, and which
-    type, of chips, are to be held by this Member.
+4.  In the scenario of play, a Member MAY allow another individual (*who
+    has agreed to the Contract)* to possess or otherwise hold their
+    chips. In this case, the Member SHALL first disclose to The Council
+    exactly how many, and which type, of chips, are to be held by this
+    Member.
     
     1.  In the circumstance where The Council is not informed, the
         Casino takes zero responsibilities and offers no assistance or
