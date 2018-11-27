@@ -2,7 +2,7 @@
 
 The contract applied to all Staff members.
 
-Version: 13
+Version: 15
 
 ## Definitions
 
@@ -73,13 +73,17 @@ Version: 13
     6.  Punishments are issued by the M.O.A. on behalf of Management.
 
 9.  Management refers to the Casino’s Council, which consists of the
-    Division Heads and the Owner.
+    Division Heads of the M.O.G., M.O.L. and M.O.A.
 
 10. **Staff and Management Mandatory Recusals**
     
     7.  Under situations where a punishment or decision would apply to
-        the given Staff or Management member, they are required to
-        recuse themselves from the decision.
+        the given Staff or Management member, they MUST recuse
+        themselves from the decision.
+        
+        1.  Further, if there are instances of a clear conflict of
+            interest, then any Staff members with such a conflict of
+            internest MUST recuse themselves.
     
     8.  Due to the way the M.O.A. and the M.O.L. are managed, members of
         both groups are still required to recuse themselves if they have
@@ -92,22 +96,42 @@ Version: 13
 
 ## Termination of Staff
 
-  - This contract MAY be terminated by either the signee or by their
-    direct supervisor, or by a majority decision from higher members of
-    Casino Management.
+A Staff member MAY only be terminated under the following circumstances:
 
-  - Once Staff-ship has been terminated, you are no longer required to
-    abide by these Terms, or any rules or regulations imposed *directly
-    due to being a Staff member*.
+  - For Council Members – Impeachment
+    
+      - The Council begins with an impeachment vote; such a vote MUST
+        have a majority of Council members in order to pass. An
+        impeachment SHALL only be started for severe violations of the
+        Terms of Staff, or of the Terms of Membership.
+    
+      - Once a vote to impeach has been gained by the Council, a vote
+        for removal is then made by all Members (except those recused by
+        conflict).
+    
+      - The vote for removal MUST meet or surpass a super majority of
+        two thirds majority (rounded up, except in circumstances that
+        would therefore require every party).
+    
+      - Once both a vote to impeach (by the Council) and a vote to
+        remove (by the Members) has been reached, the Employment is
+        terminated and the Staff member is removed from their
+        position(s).
 
-  - Immediately upon termination, you are no longer able to nor required
-    to perform your roles, responsibilities or authorities of the Staff
-    role you had.
+  - For Non-Council Members – Firing
+    
+      - The Staff Member’s Division Head starts by submitting a reason
+        for termination to both the Council, and to the fired Member.
+    
+      - The Staff Member is then immediately removed of their positions.
+    
+      - The Council MAY decide in a super majority vote to consider the
+        reason given to be invalid or insufficient. If such a super
+        majority is achieved, the previously fired Member is reinstated
+        and they MAY NOT be fired again for the same reason.
 
-  - Despite being Terminated as a Staff member, you will still withhold
-    your Membership of the Casino for at least one (1) day. After one
-    (1) from Staff termination, you MAY then be terminated from
-    Membership.
+  - For any Staff Member: Upon Termination of Membership, any Staff
+    positions they previously held are also vacated.
 
 ## Division Budgets
 
@@ -156,13 +180,14 @@ Version: 13
 1.  Any modifications to this Contract MUST first be submitted by Alex
     to the Staff Members of the Casino.
 
-2.  While a majority vote or approval is not required, the Owner MAY
-    overrule the contract and disregard any changes made to it.
+2.  While a majority vote or approval is not required, The Council MAY
+    (if it reaches a simple majority) block and overrule such a
+    modification from occurring.
 
 3.  Alex MAY be directed to institute changes by the Council, which
     SHALL be performed as soon as is reasonable possible.
 
-4.  If the contract is not overruled by the Owner, then:
+4.  If the contract is not overruled by the Council, then:
     
     1.  If the new contract is presented prior to 4:30 pm, the contract
         SHALL be valid and enforceable from midnight that day.
@@ -176,6 +201,8 @@ Version: 13
 
 5.  This contract CANNOT be held to invalidate terms of the Membership
     contract, unless such a term allows for such an exemption to occur.
+    This contract MAY be held to expand upon clauses of ‘CAN’ ‘CANNOT’
+    ‘MAY’ or ‘MAY NOT’.
 
 **<span class="underline">Staff signatures, certifying they have read,
 understood and agreed to these

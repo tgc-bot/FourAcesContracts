@@ -8,7 +8,7 @@
 <tr class="odd">
 <td><p>From the Office of M.O.G. Supervisor Alex Chester:</p>
 <p>Four Aces Casino Staff and Council</p>
-<p>Friday, 16 November 2018 (v39)</p></td>
+<p>Tuesday, 27 November 2018 (v40)</p></td>
 </tr>
 </tbody>
 </table>
@@ -73,15 +73,11 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
 
 ## Definitions
 
-  - *Casino Owner* / *Owner*: Troy Smitten
-
   - *M.O.G. Supervisor:* Alex Chester<sup>1</sup>
 
   - *M.O.L. Supervisor*: Anushan<sup>1</sup>
 
-  - *M.O.G. Head Dealer*: Curtis<sup>1</sup>
-
-  - *M.O.G. Dealer*: Abdul<sup>1</sup>
+  - *M.O.A. Inspector:* Tom<sup>1</sup>
 
   - *Casino Staff* / *Staff*: Any persons that are employed or given a
     Staff title by the Casino.
@@ -98,6 +94,16 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
 
   - *Management*: SHALL be interpreted as referring to the Council, as
     above.
+
+  - Majority definitions (defaults to simple majority, unless explicitly
+    stated otherwise)
+    
+      - *Super majority:* where two thirds of the votes meets a result.
+        (rounded up, except in circumstances that would therefore
+        require every person to vote in one way).
+    
+      - *Simple majority:* where just one half (51%) of the votes meets
+        a result (rounded in same way as above.)
 
 <sup>1</sup> – While people have been named, their employment can be
 altered without a change to Contract.
@@ -117,12 +123,8 @@ altered without a change to Contract.
   - **Head Dealer** is an individual that oversees the actions,
     responsibilities and duties of dealers
 
-  - **Council Member** is any person who is a Division Head or the Owner
-    and is as such a sitting member of the Casino’s Council.
-
-  - **Owner** is an individual that holds the ultimate authority, and,
-    given the availability as per contract, CAN make any decision
-    unattested.
+  - **Council Member** is any person who is a Division Head and is as
+    such a sitting member of the Casino’s Council.
 
 ## Actionable Verbs
 
@@ -184,18 +186,9 @@ altered without a change to Contract.
         has the authority to directly issue citations related to the
         M.O.G.’s authority.
 
-Each of these divisions has a Division Head (or MOA Inspector), this
-Division Head is responsible for the entirety of the
-Department/Division. This Division Head has the ultimate authority of
-that Division. Each Division Head is employed to the pleasure of the
-Owner and MUST take into consideration the Owner’s advice or wishes in a
-situation within the Divisions purview. Additionally, these Division
-Heads MAY appoint other Members to positions within their Division and
-delegate tasks and duties to those Members; any such Member MUST NOT
-abuse such positions.
-
-The Division Heads MAY also seek the advice of the Casino Owner in cases
-where such advice is needed.
+Each of these Division Heads (M.O.A. Inspector, M.O.G. Supervisor,
+M.O.L. Supervisor) is entirely responsible for the duties and
+responsibilities and wages of their Division and their Division’s staff.
 
 Additionally, henceforth, a Council is established that consists of the
 Division Heads of all Ministries, and the Owner. This Council will have
