@@ -8,7 +8,7 @@
 <tr class="odd">
 <td><p>From the Office of M.O.G. Supervisor Alex Chester:</p>
 <p>Four Aces Casino Staff and Council</p>
-<p>Tuesday, 27 November 2018 (v40)</p></td>
+<p>Wednesday, 28 November 2018 (v40)</p></td>
 </tr>
 </tbody>
 </table>
@@ -58,7 +58,7 @@
 
 [XV: High Stakes Poker Games 15](#xv-high-stakes-poker-games)
 
-[XVI: Fees for not playing 15](#xvi-fees-for-not-playing)
+[XVI: Fees for not playing 15](#_Toc530153202)
 
 [XVII: Layout of Terms 16](#xvii-layout-of-terms)
 
@@ -1093,49 +1093,37 @@ co-debtor.
 
 ## XV: High Stakes Poker Games
 
-1.  High stakes poker games are normal poker games as explained above
+1.  High stakes poker games are blind poker games as explained above
     with a few changes:
     
-    1.  The starting bet is 50 chips; (if any,) bets on the flop MUST be
-        no lower than 75
+    1.  The big blind is now 100, small blind now 50; bets on the flop
+        MUST be no lower than 75
     
-    2.  The minimum bet is one and a half of the previous round’s bet.
-        (ex: if the last round was raised by 100 (and matched by all)
-        then the next round MUST start at 150 – rounded up where ever
-        needed)
+    2.  <span id="_Toc530153202" class="anchor"></span>In order to
+        raise, you must place at least as much as the previous raise.
+        
+        1.  Example: Someone bets 25 chips, you must raise by at least
+            25 chips (so actually betting 50).
 
 ## XVI: Fees for not playing
 
-For each game that is missed, a player MAY be given 50 chips-worth in a
-penalty. This penalty will be allowed a ‘grace’ period, of three games,
-per week. If the player does not exceed a missed-game count of three per
-week, then their count is reset on the next week. If the player does
-exceed three games per week, they SHALL be fined a cumulative penalty.
-As shown:
+Given that we are now a friendly house-game scenario, the fees for not
+playing are no longer as severe:
 
-  - On the third game missed, the penalty is at 150 chips and is the
-    final allowed missed game. (the penalty would not, at this point, be
-    deducted)
+In blackjack, there are no fees for failing to pay;
 
-  - On the fourth game missed, the penalty is deducted at 200 chips.
+In blinds-poker, the only fee is the blind itself – even if you are not
+present, the blind will still be ‘posted’ by you (temporarily covered by
+the person who last placed the blind (or the Casino if they can’t),
+until you can pay back that person yourself).
 
-  - On the fifth game missed, the penalty is deducted at 250 chips.
+In non-blinds-poker, the fee is:
 
-  - On the sixth game missed, the penalty is deducted at 300 chips.
+  - The first two games missed in a day (or the first three in a week,
+    whichever applies first) are not penalised
 
-  - On the seventh game missed, the penalty is deducted at 350 chips.
-
-  - On the eighth game missed, the penalty is deducted at 400 chips.
-
-And so on.
-
-Repeated, deliberate, missing of games MAY result in a further penalty
-or termination of Membership – even if the Member does not exceed the
-three-time grace period.
-
-<span class="underline">Any punishments are given through the sole
-authority by the Ministry of Games and MAY be issued in the form of
-M.O.A. Citations – which would not require approval by the M.O.A.</span>
+  - Each game missed thereafter will result in a flat penalty of 25
+    chips per game.
 
 # XVII: Layout of Terms
 
