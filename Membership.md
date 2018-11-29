@@ -215,9 +215,9 @@ or changing the values of MOL loans)
         
         4.  Achieve a majority approval by existing Members
     
-    2.  Once all three of the above have been met, the prospective
-        Member may then be given a starting amount of chips and is
-        considered a full Member of the Casino.
+    2.  Once all of the above have been met, the prospective Member may
+        then be given a starting amount of chips and is considered a
+        full Member of the Casino.
 
 2.  Members SHALL remain orderly, respectful and calm – both to Members
     and Staff alike.
