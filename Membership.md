@@ -8,7 +8,7 @@
 <tr class="odd">
 <td><p>From the Office of M.O.G. Supervisor Alex Chester:</p>
 <p>Four Aces Casino Staff and Council</p>
-<p>Wednesday, 28 November 2018 (v40)</p></td>
+<p>Thursday, 29 November 2018 (v1)</p></td>
 </tr>
 </tbody>
 </table>
@@ -24,43 +24,43 @@
 
 [Actionable Verbs 2](#actionable-verbs)
 
-[Departments / Divisions 3](#departments-divisions)
+[Departments / Divisions 4](#departments-divisions)
 
-[I: General Terms of Play 4](#i-general-terms-of-play)
+[I: General Terms of Play 5](#i-general-terms-of-play)
 
-[II: Termination of Membership 5](#ii-termination-of-membership)
+[II: Termination of Membership 7](#ii-termination-of-membership)
 
-[III: Chip Ownership 5](#iii-chip-ownership)
+[III: Chip Ownership 7](#iii-chip-ownership)
 
-[IV: Privacy and Data Policy 6](#iv-privacy-and-data-policy)
+[IV: Privacy and Data Policy 8](#iv-privacy-and-data-policy)
 
-[V: Poker 7](#v-poker)
+[V: Poker 9](#v-poker)
 
-[VI: Poker Stars / Coundon Coins 8](#vi-poker-stars-coundon-coins)
+[VI: Poker Stars / Coundon Coins 10](#vi-poker-stars-coundon-coins)
 
-[VII: Poker Rake 8](#vii-poker-rake)
+[VII: Poker Rake 10](#vii-poker-rake)
 
-[VIII: Blackjack 9](#viii-blackjack)
+[VIII: Blackjack 12](#viii-blackjack)
 
-[IX: Ministry of Admission 11](#ix-ministry-of-admission)
+[IX: Ministry of Admission 14](#ix-ministry-of-admission)
 
-[X: M.O.A. Investigations 12](#x-m.o.a.-investigations)
+[X: M.O.A. Investigations 15](#x-m.o.a.-investigations)
 
-[XI: Ministry of Loans 13](#xi-ministry-of-loans)
+[XI: Ministry of Loans 16](#xi-ministry-of-loans)
 
-[XII: Ministry of Games 14](#xii-ministry-of-games)
+[XII: Ministry of Games 17](#xii-ministry-of-games)
 
-[Other Additional Rules 15](#other-additional-rules)
+[Other Additional Rules 18](#other-additional-rules)
 
-[XIII: Lottery 15](#xiii-lottery)
+[XIII: Lottery 18](#xiii-lottery)
 
-[XIV: VIP Club 15](#xiv-vip-club)
+[XIV: VIP Club 18](#xiv-vip-club)
 
-[XV: High Stakes Poker Games 15](#xv-high-stakes-poker-games)
+[XV: High Stakes Poker Games 18](#xv-high-stakes-poker-games)
 
-[XVI: Fees for not playing 15](#_Toc530153202)
+[XVI: Fees for not playing 19](#xvi-fees-for-not-playing)
 
-[XVII: Layout of Terms 16](#xvii-layout-of-terms)
+[XVII: Layout of Terms 19](#xvii-layout-of-terms)
 
 # 
 
@@ -190,11 +190,11 @@ Each of these Division Heads (M.O.A. Inspector, M.O.G. Supervisor,
 M.O.L. Supervisor) is entirely responsible for the duties and
 responsibilities and wages of their Division and their Division’s staff.
 
-Additionally, henceforth, a Council is established that consists of the
-Division Heads of all Ministries. This Council will have the authority
-to make decisions that span numerous departments’ authorities, or that
-would impact the entirety of the Casino as a whole or a decision that
-would be outside the purview of any singular department, or in any
+Additionally, henceforth, a Council is established that consists only of
+the Division Heads of all Ministries. This Council will have the
+authority to make decisions that span numerous departments’ authorities,
+or that would impact the entirety of the Casino as a whole or a decision
+that would be outside the purview of any singular department, or in any
 instance where the Casino’s chip pot is involved. The Council’s decision
 SHALL override any decision of a Division. The Council MAY be required
 to have an input prior to any Division’s decision (for example, issuing
@@ -202,98 +202,114 @@ or changing the values of MOL loans)
 
 ## I: General Terms of Play
 
-1.  Only people that have: read thoroughly, agree to and have signed the
-    contract are able to partake in activities. All players MUST remain
-    respectful, lawful and orderly.
-
-2.  On signing this contract, the signee acknowledges and will follow:
+1.  **New Membership Procedure **
     
-    1.  All requirements or terms contained within these Terms of
+    1.  Prospective Members to this Casino MUST:
+        
+        1.  Join the Four Aces Casino Discord server
+        
+        2.  Read through and accept to follow these Terms of Membership
+            (or the latest version therein)
+        
+        3.  Achieve a majority approval by the Council
+        
+        4.  Achieve a majority approval by existing Members
+    
+    2.  Once all three of the above have been met, the prospective
+        Member may then be given a starting amount of chips and is
+        considered a full Member of the Casino.
+
+2.  Members SHALL remain orderly, respectful and calm – both to Members
+    and Staff alike.
+
+3.  On signing this contract, the signee acknowledges and will follow:
+    
+    3.  All requirements or terms contained within these Terms of
         Membership
     
-    2.  Any additional rules or requirements placed by Staff of the
+    4.  Any additional rules or requirements placed by Staff of the
         Casino
         
-        1.  Such additional rules or requirements SHALL NOT be held to
+        5.  Such additional rules or requirements SHALL NOT be held to
             invalidate, override or overrule these Terms of Membership.
     
-    3.  These Terms of Membership MAY change when it is deemed necessary
+    5.  These Terms of Membership MAY change when it is deemed necessary
         by the Staff
     
-    4.  The Staff will attempt, to the best of their ability, to notify
+    6.  The Staff will attempt, to the best of their ability, to notify
         you of any changes to this contract: this, however, is not
         guaranteed, you MAY NOT be notified of these changes – it is
         your responsibility to ensure you understand the latest contract
         terms.
     
-    5.  By continuing to play or be present after changes or revisions
+    7.  By continuing to play or be present after changes or revisions
         are made, you agree to be bound by the revised Terms.
     
-    6.  Any contract change MUST be presented to all Members of the
+    8.  Any contract change MUST be presented to all Members of the
         Casino.
         
-        2.  The Contract change MUST first be approved by a super
+        6.  The Contract change MUST first be approved by a super
             majority by the Council
         
-        3.  The Contract change MUST then be approved by a simple
+        7.  The Contract change MUST then be approved by a simple
             majority by the Members of the Casino. **Except:** if 60
             hours passes the time it is initially presented to the
             Council members, at which point (assuming there is not a
             majority of votes to reject the change) the change becomes
             valid.
     
-    7.  Even if some part of this contract is, for any reason, made to
+    9.  Even if some part of this contract is, for any reason, made to
         be invalid or unenforceable, all other sections of this contract
         will still be enforced and will still be considered valid.
 
-3.  This Casino withholds the authority, through the M.O.A., to punish
+4.  This Casino withholds the authority, through the M.O.A., to punish
     and penalise players for violations of this contract.
     
-    8.  Any Staff member MAY recommend the MOA to investigate a member
+    10. Any Staff member MAY recommend the MOA to investigate a member
         for punishment
     
-    9.  Further powers granted to the MOA MAY be found in its section.
+    11. Further powers granted to the MOA MAY be found in its section.
 
-4.  Cheating is strictly forbidden. Members MUST NOT rig or cheat games.
+5.  Cheating is strictly forbidden. Members MUST NOT rig or cheat games.
 
-5.  **It is forbidden to aid in; fail to report the; or partake in the
+6.  **It is forbidden to aid in; fail to report the; or partake in the
     exchange of chips for real-world currency. It is similarly forbidden
     to exchange chips with any persons that are not a subject of this
     Terms of Membership contract.** *Termination CAN occur for violation
     of this rule.*
 
-6.  All chips have the following value – these values SHALL NOT be
+7.  All chips have the following value – these values SHALL NOT be
     changed without contract update:
     
-    10. **White:** 25
+    12. **White:** 25
     
-    11. **Red:** 50
+    13. **Red:** 50
     
-    12. **Green:** 100
+    14. **Green:** 100
     
-    13. **Blue:** 500
+    15. **Blue:** 500
     
-    14. **Black:** 1000
+    16. **Black:** 1000
 
-7.  This Contract’s terms SHALL be interpreted as literally as possible;
+8.  This Contract’s terms SHALL be interpreted as literally as possible;
     in a case where it is unclear what is meant, it is up to The Council
     to determine the true meaning of a clause within this contract which
     would, therefore, be considered its true meaning.
 
-8.  Throughout this Contract, at any point where ‘the Council’,
+9.  Throughout this Contract, at any point where ‘the Council’,
     ‘Council’, ‘the Staff’ or ‘Staff’ is used in such a way to give
     authority to such group, it is to be assumed (unless stated
     otherwise) that such an authority is given on condition of a
     majority verdict.
 
-9.  Members MUST act in good faith, to the best of their ability, to
+10. Members MUST act in good faith, to the best of their ability, to
     ensure this contract is followed.
 
-10. Members SHOULD inform the dealer of any mistakes or oversights.
+11. Members SHOULD inform the dealer of any mistakes or oversights.
 
-11. The Casino SHALL aim to be more open in its decisions and changes.
+12. The Casino SHALL aim to be more open in its decisions and changes.
 
-12. **The chips used within the Casino have
+13. **The chips used within the Casino have
     *<span class="underline">no</span>* real-world value.**
 
 ## II: Termination of Membership
@@ -1099,8 +1115,8 @@ co-debtor.
     1.  The big blind is now 100, small blind now 50; bets on the flop
         MUST be no lower than 75
     
-    2.  <span id="_Toc530153202" class="anchor"></span>In order to
-        raise, you must place at least as much as the previous raise.
+    2.  In order to raise, you must place at least as much as the
+        previous raise.
         
         1.  Example: Someone bets 25 chips, you must raise by at least
             25 chips (so actually betting 50).
