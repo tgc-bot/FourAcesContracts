@@ -2,7 +2,7 @@
 
 The contract applied to all Staff members.
 
-Version: 13
+Version: 1
 
 ## Definitions
 
@@ -21,19 +21,17 @@ Version: 13
         make decisions on a given case, and withdraws themselves from
         any authority in such case.
 
-  - *Management:* as in the Membership Terms, refers to the Casino’s
-    Council.
-
 ## Terms of Staff
 
-1.  All Staff members MUST first read through, understand and sign this
-    contract.
+1.  All Staff members MUST first read through, understand and agree to
+    this contract.
 
-2.  All staff members MUST also follow the Terms of Membership
+2.  All staff members MUST also follow the Terms of Membership (ie: MUST
+    be a Member)
 
 3.  On signing this contract, the signee acknowledges they will follow:
     
-    1.  All other requirements or terms contained within these Terms
+    1.  All other requirements or rules contained within these Terms
     
     2.  Any additional rules or requirements placed by the Council of
         the Casino
@@ -46,40 +44,52 @@ Version: 13
     player or Staff to have an advantage that is deemed unfair by the
     Staff.
 
-6.  In any situation where there is a contradiction between two Staff
-    member’s orders or instructions, the highest-authority staff
-    member’s instruction is enforced. If both members are of the same
-    authority, then the Casino Management MUST break the stand-off
-    
-    3.  If the contradiction is between Casino Management, then the
-        Owner breaks the stand-off
+6.  In a situation of conflict (of orders, ideas, etc) from employees
+    within the same Division, then the Division Head resolves the
+    conflict. If the conflict is between Division Heads, then a simple
+    majority of the Members of the Casino SHALL resolve the conflict.
 
 7.  Division Heads MUST send information regarding who is employed, and
     the Division’s hierarchy to the ‘FourAces\#1702’ (Four Aces Casino)
     discord account, for such information to be recorded.
+    
+    3.  Such information may include the seniority of Employees, such as
+        the line of succession in case of recusal.
 
 8.  As a Staff, you MAY be punished by the Casino Management for failing
     to perform your duties, or performing your duties to a degree that
     is negligible or otherwise unacceptable to the Casino.
     
-    4.  Punishments CAN only be given by Staff higher in rank, and MUST
-        be fair
+    4.  Punishments may include a Citation, or a decrease in wage, or
+        the termination of employment.
     
-    5.  While acting as a Staff member, the Staff member CANNOT be
-        terminated from Membership, they MUST first be Terminated from
-        their staff position, and after a minimum of one (1) day, be
-        Terminated from Membership.
+    5.  In these cases, the decision on the punishment is made by the
+        Staff Member’s Division Head. In the case of a Council Member
+        being punished, the punishment MUST first received a majority
+        within the Council, then a majority from the Casino’s Members to
+        be valid.
     
-    6.  Punishments are issued by the M.O.A. on behalf of Management.
+    6.  In any case, a punishment may be overruled by the Council, by a
+        super majority verdict.
+        
+        1.  In this case, the original individual who handed down the
+            punishment may appeal by virtue of a majority-based decision
+            to either uphold the punishment as valid, or maintain that
+            it is invalid. If no majority can be decided, then the
+            punishment is maintained as invalid.
 
 9.  Management refers to the Casino’s Council, which consists of the
-    Division Heads and the Owner.
+    Division Heads of the M.O.G., M.O.L. and M.O.A.
 
 10. **Staff and Management Mandatory Recusals**
     
     7.  Under situations where a punishment or decision would apply to
-        the given Staff or Management member, they are required to
-        recuse themselves from the decision.
+        the given Staff or Management member, they MUST recuse
+        themselves from the decision.
+        
+        2.  Further, if there are instances of a clear conflict of
+            interest, then any Staff members with such a conflict of
+            internest MUST recuse themselves.
     
     8.  Due to the way the M.O.A. and the M.O.L. are managed, members of
         both groups are still required to recuse themselves if they have
@@ -90,30 +100,63 @@ Version: 13
         biased or unable to impart a fair or unprejudiced judgement,
         this contract strongly advises that the person recuse themselves
 
+## 
+
 ## Termination of Staff
 
-  - This contract MAY be terminated by either the signee or by their
-    direct supervisor, or by a majority decision from higher members of
-    Casino Management.
+A Staff member MAY only be terminated under the following circumstances:
 
-  - Once Staff-ship has been terminated, you are no longer required to
-    abide by these Terms, or any rules or regulations imposed *directly
-    due to being a Staff member*.
+  - For Any Staff Member (Including Council Members) – Impeachment
+    
+      - The Council begins with an impeachment vote; such a vote MUST
+        have a majority of Council members in order to pass. An
+        impeachment SHALL only be started for severe violations of the
+        Terms of Staff, or of the Terms of Membership.
+    
+      - Once a vote to impeach has been gained by the Council, a vote
+        for removal is then made by all Members (except those recused by
+        conflict).
+    
+      - The vote for removal MUST be a super majority
+    
+      - Once both a vote to impeach (by the Council) and a vote to
+        remove (by the Members) has been reached, the Employment is
+        terminated and the Staff member is removed from their
+        position(s).
 
-  - Immediately upon termination, you are no longer able to nor required
-    to perform your roles, responsibilities or authorities of the Staff
-    role you had.
+  - For Non-Council Members – Firing
+    
+      - The Staff Member’s Division Head starts by submitting a reason
+        for termination to both the Council, and to the fired Member.
+    
+      - The Staff Member is then immediately removed of their positions.
+    
+      - The Council MAY decide in a super majority vote to consider the
+        reason given to be invalid or insufficient. If such a super
+        majority is achieved, the previously fired Member is reinstated
+        and they MAY NOT be fired again for the same reason.
 
-  - Despite being Terminated as a Staff member, you will still withhold
-    your Membership of the Casino for at least one (1) day. After one
-    (1) from Staff termination, you MAY then be terminated from
-    Membership.
+  - For any Staff Member: Upon Termination of Membership, any Staff
+    positions they previously held are also vacated.
+
+## Employment of Staff
+
+A Member of the Casino may be employed by one of the Casino’s
+Ministries. The Head of the Ministry that is hiring the Member SHALL
+execute an employment command within the Discord server in order to
+officially hire the Member. Employment to a Division is made to the sole
+discretion of the Division Head, except under circumstances excempted
+within these Terms.
+
+Staff Members are entitled to a wage, as described below, which is set
+by the Division Head.
 
 ## Division Budgets
 
 1.  Each of the Divisions will have their own Budget, whose value will
-    be publically known by any Casino Member, but SHALL only be set or
-    changed by the Owner, or, due to ease of use, Alex.
+    be publically known by any Casino Member, but SHALL only be changed
+    by Alex (since that’s easier to code) with approval by simple
+    majority of Council.
 
 2.  This Budget MAY be increased due to profits gained specifically to
     that Division, for example (but not necessarily limited to):
@@ -156,13 +199,14 @@ Version: 13
 1.  Any modifications to this Contract MUST first be submitted by Alex
     to the Staff Members of the Casino.
 
-2.  While a majority vote or approval is not required, the Owner MAY
-    overrule the contract and disregard any changes made to it.
+2.  While a majority vote or approval is not required, The Council MAY
+    (if it reaches a simple majority) block and overrule such a
+    modification from occurring.
 
 3.  Alex MAY be directed to institute changes by the Council, which
     SHALL be performed as soon as is reasonable possible.
 
-4.  If the contract is not overruled by the Owner, then:
+4.  If the contract is not overruled by the Council, then:
     
     1.  If the new contract is presented prior to 4:30 pm, the contract
         SHALL be valid and enforceable from midnight that day.
@@ -176,6 +220,8 @@ Version: 13
 
 5.  This contract CANNOT be held to invalidate terms of the Membership
     contract, unless such a term allows for such an exemption to occur.
+    This contract MAY be held to expand upon clauses of ‘CAN’ ‘CANNOT’
+    ‘MAY’ or ‘MAY NOT’.
 
 **<span class="underline">Staff signatures, certifying they have read,
 understood and agreed to these
