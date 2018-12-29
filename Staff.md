@@ -2,7 +2,7 @@
 
 The contract applied to all Staff members.
 
-Version: 1
+Version: 2
 
 ## Definitions
 
@@ -53,14 +53,14 @@ Version: 1
     the Division’s hierarchy to the ‘FourAces\#1702’ (Four Aces Casino)
     discord account, for such information to be recorded.
     
-    3.  Such information may include the seniority of Employees, such as
+    3.  Such information MAY include the seniority of Employees, such as
         the line of succession in case of recusal.
 
 8.  As a Staff, you MAY be punished by the Casino Management for failing
     to perform your duties, or performing your duties to a degree that
     is negligible or otherwise unacceptable to the Casino.
     
-    4.  Punishments may include a Citation, or a decrease in wage, or
+    4.  Punishments MAY include a Citation, or a decrease in wage, or
         the termination of employment.
     
     5.  In these cases, the decision on the punishment is made by the
@@ -69,21 +69,28 @@ Version: 1
         within the Council, then a majority from the Casino’s Members to
         be valid.
     
-    6.  In any case, a punishment may be overruled by the Council, by a
+    6.  In any case, a punishment MAY be overruled by the Council, by a
         super majority verdict.
         
         1.  In this case, the original individual who handed down the
-            punishment may appeal by virtue of a majority-based decision
+            punishment MAY appeal by virtue of a majority-based decision
             to either uphold the punishment as valid, or maintain that
-            it is invalid. If no majority can be decided, then the
+            it is invalid. If no majority CAN be decided, then the
             punishment is maintained as invalid.
 
 9.  Management refers to the Casino’s Council, which consists of the
     Division Heads of the M.O.G., M.O.L. and M.O.A.
 
-10. **Staff and Management Mandatory Recusals**
+10. Division Heads MAY institute internal policies as to how their
+    Division performs.
     
-    7.  Under situations where a punishment or decision would apply to
+    7.  Such policies SHOULD be available under a separate channel in
+        the Division’s category, and SHOULD be followed by any employees
+        of such Division.
+
+11. **Staff and Management Mandatory Recusals**
+    
+    8.  Under situations where a punishment or decision would apply to
         the given Staff or Management member, they MUST recuse
         themselves from the decision.
         
@@ -91,16 +98,14 @@ Version: 1
             interest, then any Staff members with such a conflict of
             internest MUST recuse themselves.
     
-    8.  Due to the way the M.O.A. and the M.O.L. are managed, members of
+    9.  Due to the way the M.O.A. and the M.O.L. are managed, members of
         both groups are still required to recuse themselves if they have
         a lower ranking member able to handle the scenario; if that is
         not the case, the member CAN continue without recusal
     
-    9.  **Non-Mandatory Recusals** – in situations where a person MAY be
+    10. **Non-Mandatory Recusals** – in situations where a person MAY be
         biased or unable to impart a fair or unprejudiced judgement,
         this contract strongly advises that the person recuse themselves
-
-## 
 
 ## Termination of Staff
 
@@ -141,7 +146,7 @@ A Staff member MAY only be terminated under the following circumstances:
 
 ## Employment of Staff
 
-A Member of the Casino may be employed by one of the Casino’s
+A Member of the Casino MAY be employed by one of the Casino’s
 Ministries. The Head of the Ministry that is hiring the Member SHALL
 execute an employment command within the Discord server in order to
 officially hire the Member. Employment to a Division is made to the sole
@@ -230,27 +235,27 @@ Terms:</span>**
 ![](media/image1.emf)![](media/image2.emf)![](media/image3.emf)
 
 <span class="underline">X \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_</span>
-(Date: <span class="underline">\_\_\_\_ / \_\_\_\_\_/ 2018</span>)
+(Date: <span class="underline">\_\_\_\_ / \_\_\_\_\_/</span> )
 
 Role: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <span class="underline">X \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_</span>
-(Date: <span class="underline">\_\_\_\_ / \_\_\_\_\_/ 2018</span>)
+(Date: <span class="underline">\_\_\_\_ / \_\_\_\_\_/</span> )
 
 Role: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <span class="underline"> X \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_</span>
-(Date: <span class="underline">\_\_\_\_ / \_\_\_\_\_/ 2018</span>)
+(Date: <span class="underline">\_\_\_\_ / \_\_\_\_\_/</span> )
 
 Role: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <span class="underline">X \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_</span>
-(Date: <span class="underline">\_\_\_\_ / \_\_\_\_\_/ 2018</span>)
+(Date: <span class="underline">\_\_\_\_ / \_\_\_\_\_/</span> )
 
 Role: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <span class="underline">X \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_</span>
-(Date: <span class="underline">\_\_\_\_ / \_\_\_\_\_/ 2018</span>)
+(Date: <span class="underline">\_\_\_\_ / \_\_\_\_\_/</span> )
 
 Role: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
