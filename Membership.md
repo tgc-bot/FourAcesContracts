@@ -8,7 +8,7 @@
 <tr class="odd">
 <td><p>From the Office of M.O.G. Supervisor Alex Chester:</p>
 <p>Four Aces Casino Staff and Council</p>
-<p>Thursday, 29 November 2018 (v1)</p></td>
+<p>Monday, 31 December 2018 (v2)</p></td>
 </tr>
 </tbody>
 </table>
@@ -116,7 +116,7 @@ altered without a change to Contract.
     has been hired/employed by the Casino. Staff members include the
     following:
 
-  - **Dealer** can be any Member, as directed by the Ministry of Games,
+  - **Dealer** CAN be any Member, as directed by the Ministry of Games,
     to deal the cards for the games. The Dealer does not have to be a
     Staff member of the Casino and is not necessarily entitled to any
 
@@ -215,7 +215,7 @@ or changing the values of MOL loans)
         
         4.  Achieve a majority approval by existing Members
     
-    2.  Once all of the above have been met, the prospective Member may
+    2.  Once all of the above have been met, the prospective Member MAY
         then be given a starting amount of chips and is considered a
         full Member of the Casino.
 
@@ -418,7 +418,13 @@ or changing the values of MOL loans)
         4.  Member’s loans, and all information required for handling
             such loans.
 
-2.  The Casino’s discord bot additionally records all messages that are
+2.  Information within the Casino (as outlined in
+    *<span class="underline">\[1c\]</span>*) is not saved once the
+    Member’s discord account is removed from the Casino’s discord
+    server, or the Member’s Discord account is removed of its Member
+    role. This removal MAY take up to 24 hours to occur.
+
+3.  The Casino’s discord bot additionally records all messages that are
     sent within the Casino’s discord server and to the bot’s private
     messages.
     
@@ -460,21 +466,26 @@ or changing the values of MOL loans)
         *<span class="underline">\[c\]</span>* but delivered at a later
         date, within a reasonable time period of no more than 5
         additional days.
-        
-        1.  
+
+4.  At this moment in time, any logged messages are not saved in a
+    format that is currently able to be read – though a sufficiently
+    designed program MAY be created to do this. Given the lack of need
+    to do so, such a program does not currently exist.
+    
+    1.  
 ## V: Poker
 
 1.  Pre-flop betting is as stated:
     
-    1.  When authorised by the M.O.G., a poker game may involve
+    1.  When authorised by the M.O.G., a poker game MAY involve
         “blinds”. In this case, there is no starting bet to the
         game, however, the player designated as leftmost (or, if the
-        blind is to be moved round, then moved as permitted) must place
-        in a bet of 50 chips (the ‘big blind’); the player to the left
-        of the ‘big blind’ then must bet 25 chips (the ‘small blind’).
-        If the player who should be the blind is present, then they are
-        forced to place the blind – even if they do not wish to play in
-        that specific game: they are forced to play.
+        blind is to be moved round, then moved as permitted) MUST place
+        in a bet of 25 chips (the ‘small blind’); the player to the
+        right of the ‘small blind’ then MUST bet 50 chips (the ‘big
+        blind’). If the player who SHOULD be the blind is present, then
+        they are forced to place the blind – even if they do not wish to
+        play in that specific game: they are forced to play.
         <span class="underline">All of the above happens before the
         community cards are dealt, but after the player’s personal cards
         are dealt.</span> If all (remaining) players call the big blind,
@@ -1115,10 +1126,10 @@ co-debtor.
     1.  The big blind is now 100, small blind now 50; bets on the flop
         MUST be no lower than 75
     
-    2.  In order to raise, you must place at least as much as the
+    2.  In order to raise, you MUST place at least as much as the
         previous raise.
         
-        1.  Example: Someone bets 25 chips, you must raise by at least
+        1.  Example: Someone bets 25 chips, you MUST raise by at least
             25 chips (so actually betting 50).
 
 ## XVI: Fees for not playing
@@ -1130,8 +1141,8 @@ In blackjack, there are no fees for failing to pay;
 
 In blinds-poker, the only fee is the blind itself – even if you are not
 present, the blind will still be ‘posted’ by you (temporarily covered by
-the person who last placed the blind (or the Casino if they can’t),
-until you can pay back that person yourself).
+the person who last placed the blind (or the Casino if they CAN’t),
+until you CAN pay back that person yourself).
 
 In non-blinds-poker, the fee is:
 
@@ -1161,6 +1172,18 @@ For example:
   - **V**(5)\[a\] refers to all-in between only two players.
 
   - **V**(5)\[b\]\[ii\] refers to continuing playing after an all in.
+
+# XVIII: Suggestions, Additions or Removals
+
+Any modifications/changes to this Contract *should* be placed on the
+GitHub repository at
+**<span class="underline">https://fouraces.page.link/membership</span>**
+
+Any suggestions that are desired to be made *should* be submitted at the
+same GitHub repository, at the following
+link:
+
+**<span class="underline">https://fouraces.page.link/suggestions</span>**
 
 **<span class="underline">Staff Signatures, to certify these Terms are
 accepted and to be
