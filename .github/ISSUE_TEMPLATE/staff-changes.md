@@ -1,6 +1,9 @@
 ---
 name: Change Staff Contract
-about: Modify the staff contract
+about: Modify the Terms of Staff
+title: ''
+labels: staff
+assignees: ''
 
 ---
 

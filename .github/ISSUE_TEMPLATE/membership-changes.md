@@ -1,6 +1,9 @@
 ---
 name: Alter Membership Contract
-about: Modify the terms of Membership
+about: Modify the Terms of Membership
+title: ''
+labels: membership
+assignees: ''
 
 ---
 
