@@ -104,6 +104,9 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
       - *Simple majority:* where just one half (51%) of the votes meets
         a result (rounded in same way as above.)
 
+  - “including” is to be interpreted as being a non-exhaustive list,
+    unless otherwise stated.
+
 <sup>1</sup> – While people have been named, their employment CAN be
 altered without a change to Contract.
 
@@ -437,25 +440,30 @@ or changing the values of MOL loans)
     6.  This request MUST be answered to within 5 (five) working days of
         the request initially being sent.
     
-    7.  The request MAY be rejected, but only for:
+    7.  The request MAY be rejected, but only:
         
-        5.  Reasons as outlined as per the Freedom of Information
+        5.  For reasons as outlined as per the Freedom of Information
             Act\[1\]
         
-        6.  In the case of cost-related exemptions, or other exemptions
+        6.  Because the request is requesting information irrelevant to
+            the Casino, its operations, its commands, or its Discord®
+            server.
+        
+        7.  In the case of cost-related exemptions, or other exemptions
             that would not make sense given the scale of the Casino,
             such exemption limits or requirements are to be reduced to a
             reasonable limit.
     
     8.  The request MAY be redacted, but only information that is:
         
-        7.  Not relevant to the request;
+        8.  Not relevant to the request;
         
-        8.  Outside the scope of the request;
+        9.  Outside the scope of the request;
         
-        9.  Otherwise private; or
+        10. Not from the person themselves; or
         
-        10. Not from the person themselves
+        11. Otherwise sensitive in nature (including irrelevant
+            bot-related logs)
     
     9.  Any member MAY request an FOI request for any logs, but
         redactions will apply as per above.
@@ -661,8 +669,7 @@ it is fair and deemed necessary, by consensus of Management.
 
 ## VIII: Blackjack
 
-1.  The player MAY bet any reasonable amount, with a minimum of 50, and
-    no more than 1000
+1.  The player MAY bet an amount between 50 chips and 1000 chips
     
     1.  Diminishing returns applies on any additional winnings above the
         first 500 chips.
@@ -672,6 +679,9 @@ it is fair and deemed necessary, by consensus of Management.
     
     3.  For each chip won over 1000 chips in winnings, the chip is worth
         only 25% as much (ie, 100 -\> 25)
+    
+    4.  In any case, the amount given is what is described as per the
+        M.O.G.’s calculations, as determined by the Division Head
 
 2.  If a player receives two cards of the same value, they MAY split
     their cards into two hands.
@@ -712,7 +722,7 @@ it is fair and deemed necessary, by consensus of Management.
 4.  The player MAY decide to surrender their hand only when they have
     not yet hit.
     
-    4.  The player takes back half of their bet, and the other half goes
+    5.  The player takes back half of their bet, and the other half goes
         to the Casino
 
 5.  Once a player wins, the dealer will match their bet and the player
@@ -762,7 +772,7 @@ it is fair and deemed necessary, by consensus of Management.
     the Dealer hits themselves until they either win, are forced to
     stick or bust.
     
-    5.  For instances where the player(s) or Dealer gets a blackjack
+    6.  For instances where the player(s) or Dealer gets a blackjack
         (Ace + Ten card), then see above.
 
 9.  The Dealer SHALL, once all other players have finalised their hands,
@@ -1062,15 +1072,26 @@ co-debtor.
 1.  The Casino, in good faith, MAY hold lotteries that involve the
     following:
     
-    1.  Each player puts in any amount they deem.
+    1.  Each player places one or more bets, of any amount they deem
     
-    2.  Each player receives two cards, and five cards are placed on the
-        table.
+    2.  For each bet the player has made, they receive a set of two
+        cards for that bet
     
-    3.  The player with the highest/winning hand wins the lottery pot.
+    3.  Three cards are placed on the table.
     
-    4.  If multiple players have the same best 5 cards, then the lottery
+    4.  Players now have an option to increase the amount they have bet
+        (up to doubling their bet) or may decrease their bet (up to
+        halving it).
+    
+    5.  The final two cards are then placed down.
+    
+    6.  The player with the highest/winning hand wins the lottery pot.
+    
+    7.  If multiple players have the same best 5 cards, then the lottery
         is split between them.
+    
+    8.  The Casino, prior to any winnings being given to any player(s),
+        takes a 10% fee from the winnings.
 
 2.  Any profits made through the Lottery SHALL be given the M.O.A.’s
     budget.
@@ -1099,10 +1120,7 @@ co-debtor.
 5.  Club members rake is reduced depending on the number of weeks they
     have been a member.
     
-    3.  The first week a Member is a VIP, their rake is 7.5%
-    
-    4.  Each subsequent week their rake is decreased by 0.5%, to a
-        minimum of 5%.
+    3.  This is described in **VII: Poker Rake**
 
 6.  Clubs member will be given benefits in any future games that the
     Casino introduces – they MAY also be given exclusive inclusion into
@@ -1116,7 +1134,7 @@ co-debtor.
     membership of the VIP Club for the following week.
 
 9.  Any profits from the VIP club will be split 50:50 between the M.O.A.
-    and the Casino.
+    and the M.O.L.
 
 ## XV: High Stakes Poker Games
 
@@ -1141,16 +1159,16 @@ In blackjack, there are no fees for failing to pay;
 
 In blinds-poker, the only fee is the blind itself – even if you are not
 present, the blind will still be ‘posted’ by you (temporarily covered by
-the person who last placed the blind (or the Casino if they CAN’t),
-until you CAN pay back that person yourself).
+the person who last placed the blind (or the Casino if they are unable
+to), until you CAN pay back that person yourself).
 
 In non-blinds-poker, the fee is:
 
   - The first two games missed in a day (or the first three in a week,
     whichever applies first) are not penalised
 
-  - Each game missed thereafter will result in a flat penalty of 25
-    chips per game.
+  - Each game missed thereafter will result in a flat penalty of 50
+    chips per game
 
 # XVII: Layout of Terms
 
@@ -1171,7 +1189,7 @@ For example:
 
   - **V**(5)\[a\] refers to all-in between only two players.
 
-  - **V**(5)\[b\]\[ii\] refers to continuing playing after an all in.
+  - **V**(5)\[b\]\[ii\] refers to continuing playing after an all-in.
 
 # XVIII: Suggestions, Additions or Removals
 
