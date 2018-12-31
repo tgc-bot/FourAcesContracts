@@ -1072,7 +1072,11 @@ co-debtor.
 1.  The Casino, in good faith, MAY hold lotteries that involve the
     following:
     
-    1.  Each player places one or more bets, of any amount they deem
+    1.  Each player places one or more bets, of any amount between 50
+        and 2000 chips
+        
+        1.  Players may make up to three independent bets. They must not
+            bet in total any more than 4000 chips.
     
     2.  For each bet the player has made, they receive a set of two
         cards for that bet
