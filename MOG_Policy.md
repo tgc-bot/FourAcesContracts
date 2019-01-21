@@ -114,7 +114,7 @@ reason, by the Division Head.
 
 The number of ante games performed per day will be:
 
-\[n = 1 + x\]
+\[n = x\]
 
 Where *n* is the number of games player, and *x* is the number of M.O.G.
 officials that want another ante game to be played.

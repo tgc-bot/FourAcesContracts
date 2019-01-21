@@ -8,12 +8,10 @@
 <tr class="odd">
 <td><p>From the Office of M.O.G. Supervisor Alex Chester:</p>
 <p>Four Aces Casino Staff and Council</p>
-<p>Thursday, 29 November 2018 (v1)</p></td>
+<p>Saturday, 19 January 2019 (v2)</p></td>
 </tr>
 </tbody>
 </table>
-
-**TEST** but this time eve nbetter
 
 # Contents
 
@@ -106,6 +104,9 @@ these Terms of Membership (“the Terms”, “Terms”). Please read carefully.
       - *Simple majority:* where just one half (51%) of the votes meets
         a result (rounded in same way as above.)
 
+  - “including” is to be interpreted as being a non-exhaustive list,
+    unless otherwise stated.
+
 <sup>1</sup> – While people have been named, their employment CAN be
 altered without a change to Contract.
 
@@ -118,7 +119,7 @@ altered without a change to Contract.
     has been hired/employed by the Casino. Staff members include the
     following:
 
-  - **Dealer** can be any Member, as directed by the Ministry of Games,
+  - **Dealer** CAN be any Member, as directed by the Ministry of Games,
     to deal the cards for the games. The Dealer does not have to be a
     Staff member of the Casino and is not necessarily entitled to any
 
@@ -217,7 +218,7 @@ or changing the values of MOL loans)
         
         4.  Achieve a majority approval by existing Members
     
-    2.  Once all of the above have been met, the prospective Member may
+    2.  Once all of the above have been met, the prospective Member MAY
         then be given a starting amount of chips and is considered a
         full Member of the Casino.
 
@@ -259,6 +260,12 @@ or changing the values of MOL loans)
             Council members, at which point (assuming there is not a
             majority of votes to reject the change) the change becomes
             valid.
+        
+        8.  Member’s are permitted and encouraged to make improvements
+            and suggestions though the GitHub® repository, accessible
+            at: <https://github.com/CheAle14/FourAcesContracts>. Any
+            changes are suggestions, but upon indication of readiness,
+            will be submitted for approval as per the procedure above.
     
     9.  Even if some part of this contract is, for any reason, made to
         be invalid or unenforceable, all other sections of this contract
@@ -420,7 +427,13 @@ or changing the values of MOL loans)
         4.  Member’s loans, and all information required for handling
             such loans.
 
-2.  The Casino’s discord bot additionally records all messages that are
+2.  Information within the Casino (as outlined in
+    *<span class="underline">\[1c\]</span>*) is not saved once the
+    Member’s discord account is removed from the Casino’s discord
+    server, or the Member’s Discord account is removed of its Member
+    role. This removal MAY take up to 24 hours to occur.
+
+3.  The Casino’s discord bot additionally records all messages that are
     sent within the Casino’s discord server and to the bot’s private
     messages.
     
@@ -433,25 +446,30 @@ or changing the values of MOL loans)
     6.  This request MUST be answered to within 5 (five) working days of
         the request initially being sent.
     
-    7.  The request MAY be rejected, but only for:
+    7.  The request MAY be rejected, but only:
         
-        5.  Reasons as outlined as per the Freedom of Information
+        5.  For reasons as outlined as per the Freedom of Information
             Act\[1\]
         
-        6.  In the case of cost-related exemptions, or other exemptions
+        6.  Because the request is requesting information irrelevant to
+            the Casino, its operations, its commands, or its Discord®
+            server.
+        
+        7.  In the case of cost-related exemptions, or other exemptions
             that would not make sense given the scale of the Casino,
             such exemption limits or requirements are to be reduced to a
             reasonable limit.
     
     8.  The request MAY be redacted, but only information that is:
         
-        7.  Not relevant to the request;
+        8.  Not relevant to the request;
         
-        8.  Outside the scope of the request;
+        9.  Outside the scope of the request;
         
-        9.  Otherwise private; or
+        10. Not from the person themselves; or
         
-        10. Not from the person themselves
+        11. Otherwise sensitive in nature (including irrelevant
+            bot-related logs)
     
     9.  Any member MAY request an FOI request for any logs, but
         redactions will apply as per above.
@@ -462,21 +480,26 @@ or changing the values of MOL loans)
         *<span class="underline">\[c\]</span>* but delivered at a later
         date, within a reasonable time period of no more than 5
         additional days.
-        
-        1.  
+
+4.  At this moment in time, any logged messages are not saved in a
+    format that is currently able to be read – though a sufficiently
+    designed program MAY be created to do this. Given the lack of need
+    to do so, such a program does not currently exist.
+    
+    1.  
 ## V: Poker
 
 1.  Pre-flop betting is as stated:
     
-    1.  When authorised by the M.O.G., a poker game may involve
+    1.  When authorised by the M.O.G., a poker game MAY involve
         “blinds”. In this case, there is no starting bet to the
         game, however, the player designated as leftmost (or, if the
-        blind is to be moved round, then moved as permitted) must place
-        in a bet of 50 chips (the ‘big blind’); the player to the left
-        of the ‘big blind’ then must bet 25 chips (the ‘small blind’).
-        If the player who should be the blind is present, then they are
-        forced to place the blind – even if they do not wish to play in
-        that specific game: they are forced to play.
+        blind is to be moved round, then moved as permitted) MUST place
+        in a bet of 25 chips (the ‘small blind’); the player to the
+        right of the ‘small blind’ then MUST bet 50 chips (the ‘big
+        blind’). If the player who SHOULD be the blind is present, then
+        they are forced to place the blind – even if they do not wish to
+        play in that specific game: they are forced to play.
         <span class="underline">All of the above happens before the
         community cards are dealt, but after the player’s personal cards
         are dealt.</span> If all (remaining) players call the big blind,
@@ -652,8 +675,7 @@ it is fair and deemed necessary, by consensus of Management.
 
 ## VIII: Blackjack
 
-1.  The player MAY bet any reasonable amount, with a minimum of 50, and
-    no more than 1000
+1.  The player MAY bet an amount between 50 chips and 1000 chips
     
     1.  Diminishing returns applies on any additional winnings above the
         first 500 chips.
@@ -663,6 +685,9 @@ it is fair and deemed necessary, by consensus of Management.
     
     3.  For each chip won over 1000 chips in winnings, the chip is worth
         only 25% as much (ie, 100 -\> 25)
+    
+    4.  In any case, the amount given is what is described as per the
+        M.O.G.’s calculations, as determined by the Division Head
 
 2.  If a player receives two cards of the same value, they MAY split
     their cards into two hands.
@@ -703,7 +728,7 @@ it is fair and deemed necessary, by consensus of Management.
 4.  The player MAY decide to surrender their hand only when they have
     not yet hit.
     
-    4.  The player takes back half of their bet, and the other half goes
+    5.  The player takes back half of their bet, and the other half goes
         to the Casino
 
 5.  Once a player wins, the dealer will match their bet and the player
@@ -753,7 +778,7 @@ it is fair and deemed necessary, by consensus of Management.
     the Dealer hits themselves until they either win, are forced to
     stick or bust.
     
-    5.  For instances where the player(s) or Dealer gets a blackjack
+    6.  For instances where the player(s) or Dealer gets a blackjack
         (Ace + Ten card), then see above.
 
 9.  The Dealer SHALL, once all other players have finalised their hands,
@@ -1053,15 +1078,30 @@ co-debtor.
 1.  The Casino, in good faith, MAY hold lotteries that involve the
     following:
     
-    1.  Each player puts in any amount they deem.
+    1.  Each player places one or more bets, of any amount between 50
+        and 2000 chips
+        
+        1.  Players may make up to three independent bets. They must not
+            bet in total any more than 4000 chips.
     
-    2.  Each player receives two cards, and five cards are placed on the
-        table.
+    2.  For each bet the player has made, they receive a set of two
+        cards for that bet
     
-    3.  The player with the highest/winning hand wins the lottery pot.
+    3.  Three cards are placed on the table.
     
-    4.  If multiple players have the same best 5 cards, then the lottery
+    4.  Players now have an option to increase the amount they have bet
+        (up to doubling their bet) or may decrease their bet (up to
+        halving it).
+    
+    5.  The final two cards are then placed down.
+    
+    6.  The player with the highest/winning hand wins the lottery pot.
+    
+    7.  If multiple players have the same best 5 cards, then the lottery
         is split between them.
+    
+    8.  The Casino, prior to any winnings being given to any player(s),
+        takes a 10% fee from the winnings.
 
 2.  Any profits made through the Lottery SHALL be given the M.O.A.’s
     budget.
@@ -1090,10 +1130,7 @@ co-debtor.
 5.  Club members rake is reduced depending on the number of weeks they
     have been a member.
     
-    3.  The first week a Member is a VIP, their rake is 7.5%
-    
-    4.  Each subsequent week their rake is decreased by 0.5%, to a
-        minimum of 5%.
+    3.  This is described in **VII: Poker Rake**
 
 6.  Clubs member will be given benefits in any future games that the
     Casino introduces – they MAY also be given exclusive inclusion into
@@ -1107,7 +1144,7 @@ co-debtor.
     membership of the VIP Club for the following week.
 
 9.  Any profits from the VIP club will be split 50:50 between the M.O.A.
-    and the Casino.
+    and the M.O.L.
 
 ## XV: High Stakes Poker Games
 
@@ -1117,10 +1154,10 @@ co-debtor.
     1.  The big blind is now 100, small blind now 50; bets on the flop
         MUST be no lower than 75
     
-    2.  In order to raise, you must place at least as much as the
+    2.  In order to raise, you MUST place at least as much as the
         previous raise.
         
-        1.  Example: Someone bets 25 chips, you must raise by at least
+        1.  Example: Someone bets 25 chips, you MUST raise by at least
             25 chips (so actually betting 50).
 
 ## XVI: Fees for not playing
@@ -1132,16 +1169,16 @@ In blackjack, there are no fees for failing to pay;
 
 In blinds-poker, the only fee is the blind itself – even if you are not
 present, the blind will still be ‘posted’ by you (temporarily covered by
-the person who last placed the blind (or the Casino if they can’t),
-until you can pay back that person yourself).
+the person who last placed the blind (or the Casino if they are unable
+to), until you CAN pay back that person yourself).
 
 In non-blinds-poker, the fee is:
 
   - The first two games missed in a day (or the first three in a week,
     whichever applies first) are not penalised
 
-  - Each game missed thereafter will result in a flat penalty of 25
-    chips per game.
+  - Each game missed thereafter will result in a flat penalty of 50
+    chips per game
 
 # XVII: Layout of Terms
 
@@ -1162,7 +1199,19 @@ For example:
 
   - **V**(5)\[a\] refers to all-in between only two players.
 
-  - **V**(5)\[b\]\[ii\] refers to continuing playing after an all in.
+  - **V**(5)\[b\]\[ii\] refers to continuing playing after an all-in.
+
+# XVIII: Suggestions, Additions or Removals
+
+Any modifications/changes to this Contract *should* be placed on the
+GitHub repository at
+**<span class="underline">https://fouraces.page.link/membership</span>**
+
+Any suggestions that are desired to be made *should* be submitted at the
+same GitHub repository, at the following
+link:
+
+**<span class="underline">https://fouraces.page.link/suggestions</span>**
 
 **<span class="underline">Staff Signatures, to certify these Terms are
 accepted and to be
