@@ -96,7 +96,7 @@ Version: 3
         
         2.  Further, if there are instances of a clear conflict of
             interest, then any Staff members with such a conflict of
-            internest MUST recuse themselves.
+            interest MUST recuse themselves.
     
     9.  Due to the way the M.O.A. and the M.O.L. are managed, members of
         both groups are still required to recuse themselves if they have
@@ -156,6 +156,8 @@ within these Terms.
 Staff Members are entitled to a wage, as described below, which is set
 by the Division Head.
 
+<span class="underline"></span>
+
 ## Division Budgets
 
 1.  Each of the Divisions will have their own Budget, whose value will
@@ -203,7 +205,7 @@ by the Division Head.
     on the first day of play after the previous week has ended (weeks
     end on Sundays, so wages must be given on Monday, unless there is no
     games played on that day, in which they are provided on the
-    following day whereinwhich games were played.) If a Member is not
+    following day wherein-which games were played.) If a Member is not
     present upon wages being given, then it is that Member’s
     responsibility to prompt for their wage to be paid.
     
@@ -212,6 +214,8 @@ by the Division Head.
         absent from the Casino) shall mean that a chip citation is
         issued to Alex Chester, for a value of 50 chips, or half of the
         wage itself – whichever is higher.
+
+<span class="underline"></span>
 
 ## Modification of this Contract
 
@@ -246,7 +250,9 @@ by the Division Head.
 understood and agreed to these
 Terms:</span>**
 
-![](media/image1.emf)![](media/image2.emf)![](media/image3.emf)
+![](media/image1.wmf)![](media/image2.wmf)![](media/image3.wmf)
+
+<span class="underline"></span>
 
 <span class="underline">X \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_</span>
 (Date: <span class="underline">\_\_\_\_ / \_\_\_\_\_/</span> )
