@@ -894,28 +894,31 @@ it is fair and deemed necessary, by consensus of Management.
 1.  The Ministry of Admissions has the authority to launch
     investigations or inquiries to find the truth or conclude on a given
     subject.
-
-2.  Investigations MAY be started by the M.O.A. Inspector, and any final
-    judgement or decisions will be issued by the Inspector.
     
-    1.  Investigations MAY also be started by the M.O.G. Supervisor, and
-        any final judgement in that cases will be issued by that
-        Supervisor.
+    1.  The Ministry of Games is also permitted the investigate matters
+        pertaining to games, such as audit investigations.
+
+2.  An Investigation is opened by a Division, and as such the Division
+    Head launches it, and has any final say in the matter.
 
 3.  Investigations will be directed by a Lead Investigator.
     
-    2.  This Lead Investigator is appointed by the MOA Inspector and MAY
-        be replaced or removed at any time, but only for a conflict of
-        interest or serious conduct unbecoming.
+    2.  This Lead Investigator is appointed by the Division Head and MAY
+        be replaced or removed at any time, as per the Division’s
+        internal policy regarding the matter.
+        
+        1.  Investigators should be removed from certain areas if they
+            have a conflict of interest.
     
-    3.  This Lead Investigator MUST be a member of the MOA, or MOG if
-        for an Audit investigation
+    3.  This Lead Investigator MUST be a member of the Division
+        performing the Investigation
     
-    4.  This Lead Investigator reports directly to the MOA Inspector in
+    4.  This Lead Investigator reports directly to the Division Head in
         their findings. Lead Investigators have the authority to request
         citations to those the investigation finds to be in violation;
-        such citations would be confirmed and issued by the MOA
-        Inspector.
+        such citations would be confirmed and issued by the Division
+        Head; under some circumstances the M.O.A. would not have to
+        confirm the citation as well.
 
 4.  Lead Investigators MAY appoint or remove further Investigators to
     help them in their duties
@@ -933,35 +936,37 @@ it is fair and deemed necessary, by consensus of Management.
         concluded
     
     7.  These interviews MAY have certain information released, via the
-        MOA Archives, to the discretion of the MOA Inspector, with a
-        final confirmation given by M.O.G. Supervisor Alex
+        M.O.A Archives, to the discretion of the Division Head. Any
+        releases should follow rules as per **IV: Privacy and Data
+        Policy**.
 
 7.  The Lead Investigator MAY, to their discretion, conclude that an
     investigation has been finished; when this is the case, they MAY
     close the investigation, deleting it. Before doing so, the Lead
-    Investigator MUST inform the MOA Inspector of the outcome of the
-    investigation and recommend any actions that are to be taken.
+    Investigator MUST inform their Division Head of the outcome of the
+    investigation and recommend any actions that are to be taken. The
+    Division Head MUST also confirm that an Investigation be closed, and
+    may remove the Lead Investigator and appoint a new one if needed.
 
-8.  Investigations are still under the purview of the MOA Inspector: any
+8.  Investigations are still under the purview of the Division Head: any
     investigator or lead investigator MAY be removed or appointed by the
-    MOA Inspector, though a reason for removal MUST be given if
-    requested by the Lead Investigator, or another Division Head
+    Division, though a reason for removal MUST be given if requested by
+    the Lead Investigator, or another Council Member.
 
 9.  Failure to comply with an Investigator, Lead Investigator or the
-    Investigation, in general, is failing to comply with the MOA. Lead
-    Investigators have the authority to request citations or punishment
-    through the MOA Inspector to those that are uncooperative.
+    Investigation, in general, is failing to comply with this contract.
+    Lead Investigators have the authority to request citations or
+    punishment through the Division to those that are uncooperative.
 
-10. The MOA Inspector is required, when requested, to disclose the
-    outcome of an investigation to Casino Management – though
-    information SHOULD be redacted to ensure confidentiality.
+10. The Lead Investigator or Division Head is required, when requested,
+    to disclose the outcome of an investigation to Casino Management –
+    though information SHOULD be redacted to ensure confidentiality.
     (redactions MUST follow the same rules as per section **IV: Privacy
     and Data Policy**)
 
-11. The MOA, via Investigations, will decide the outcome of any dispute
-    of who wins – though, in this very limited case, it acts as a
-    recommendation to Casino
-Management.
+11. The M.O.G (if needed: via Investigations) will decide the outcome of
+    any dispute of who
+wins.
 
 # ![](media/image2.png)XI: Ministry of Loans
 
@@ -999,40 +1004,70 @@ Management.
     than 20% of the original loan value (including immediate interest);
     this maximum SHALL NOT be ignored under any circumstances.
 
-8.  The M.O.L. MAY issue only the following loans:
+8.  Interest on a loan’s value may occur in the following way:
     
-    5.  Loan information is only visible through the **/loans request**
-        command and SHALL NOT be modified without a majority vote by the
-        Council.
+    5.  **Zero Interest**: You owe only as above, plus the initial 10%
+        increase.
+    
+    6.  **Daily interest**: The amount is increased by a set percentage
+        each day.
+    
+    7.  **Split daily interest**: The amount owed is increased by a
+        percentage at the end of a week, but is split over each day.
+        (Ie, a 7% rate weekly would in fact be 1% each day.)
+    
+    8.  **Weekly interest:** The amount owed is increased by a
+        percentage at the end of each week.
+    
+    9.  Any interest values are calculated using simple interest.
 
-9.  The M.O.L. CAN tax the winnings of a game when it is a player with a
+9.  The M.O.L. MAY issue only the following loans:
+    
+    10. Loan information is only visible through the **/loans request**
+        command and the following information MUST be approved by
+        Council before a change:
+        
+        1.  Interest value altered by any higher than 5%, or 100 chips.
+        
+        2.  The amount of chips received.
+        
+        3.  Attempting to set the minimum value to 0, or any higher than
+            15% of the starting value
+        
+        4.  Number of days to pay back altered by any more than 3 days.
+    
+    11. Any other changes only require the M.O.L. to implement. Such
+        changes MUST NOT conflict with the information provided above or
+        elsewhere in this Contract.
+
+10. The M.O.L. CAN tax the winnings of a game when it is a player with a
     loan that wins. This tax MUST NOT be any more than 25% of the
     player’s winnings, after rake.
 
-10. To ensure the Casino is repaid the loans it gives, the Casino MAY:
+11. To ensure the Casino is repaid the loans it gives, the Casino MAY:
     
-    6.  Remove the chips placed into the pot by a person with a loan
+    12. Remove the chips placed into the pot by a person with a loan
         when that pot is won by anyone other than the person with that
         loan; but only when the chips removed do not exceed 100, and do
         not exceed 10% of the pot value, and do not exceed the minimum
         daily payment required against the loan.
     
-    7.  Directly remove chips from a person with a loan at the end of
+    13. Directly remove chips from a person with a loan at the end of
         the day’s sitting to a value not exceeding the minimum daily
         payment of the loan. Discretion is given such that Management
         MAY decide if they are to remove chips.
 
-11. A Member MAY wish to use another player as a guarantee: if the
+12. A Member MAY wish to use another player as a guarantee: if the
     initial loaned member fails to repay the loan, then the guarantee
     member’s chips are used to cover the loan.
     
-    8.  The M.O.L. MAY seize this guarantee’s member’s chips to cover
+    14. The M.O.L. MAY seize this guarantee’s member’s chips to cover
         the minimal chip payment, or to seize payment in full.
     
-    9.  The M.O.L. SHALL NOT seize in total more than the initial chip
+    15. The M.O.L. SHALL NOT seize in total more than the initial chip
         value that was given by the Casino at the start of the loan
     
-    10. The M.O.L. MAY require a Member have and use a guarantee as
+    16. The M.O.L. MAY require a Member have and use a guarantee as
         above prior to any issuance of the loan – the guarantor MUST
         agree to their responsibility as a
 co-debtor.
@@ -1223,10 +1258,9 @@ link:
 **<span class="underline">https://fouraces.page.link/suggestions</span>**
 
 **<span class="underline">Staff Signatures, to certify these Terms are
-accepted and to be
-followed:</span>**
+accepted and to be followed:</span>**
 
-![](media/image4.wmf)![](media/image5.wmf)![](media/image6.wmf)
+![](media/image4.wmf)
 
 **Any additional signees MAY sign on the back or provided paper.**
 
