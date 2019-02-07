@@ -141,8 +141,6 @@ altered without a change to Contract.
     whether material, physical or causal or, in the negative, the
     absence of that possibility or capability.
 
-<span class="underline"></span>
-
 ## Departments / Divisions
 
   - **Ministry of Admissions**
@@ -618,7 +616,8 @@ or changing the values of M.O.L loans)
     8.  **Wrap around straight**: Equal in rank to that of a straight,
         but is rated by the highest card *after the* straight wraps
         round (that is, QKA23 is a three-high straight, and would be
-        beaten by A2345)
+        beaten by A2345) (wrap around straight flushes are therefore
+        also permitted)
 
 14. Typical Poker rules apply.
     
@@ -764,7 +763,7 @@ it is fair and deemed necessary, by consensus of Management.
 <!-- end list -->
 
 1.  Insurance is a separate wager that the Dealer has blackjack and is
-    kept separate from the player’s main bet and is a maximum of double
+    kept separate from the player’s main bet and is a maximum of half
     their initial bet.
 
 2.  If the dealer’s second (face-down) card is not a ten-card, then
@@ -772,8 +771,8 @@ it is fair and deemed necessary, by consensus of Management.
 
 3.  If the dealer’s second (face-down) card is any ten-card then the
     players that have paid insurance receive their insurance bets in a
-    1:1 return rate (ie, if they bet 50, they receive 50). All players
-    would still lose their initial bet.
+    2:1 return rate (ie, if they insure-bet 50, they receive 100). All
+    non-blackjack players would still lose their initial bet.
 
 <!-- end list -->
 
@@ -789,9 +788,16 @@ it is fair and deemed necessary, by consensus of Management.
 9.  The Dealer SHALL, once all other players have finalised their hands,
     continue to hit with their hand until they either go bust or reach a
     value of 17 or greater.
+    
+    7.  This includes Aces, meaning the Dealer MUST stand on a soft 17,
+        or any ‘soft’ value higher (that is, a soft value is an
+        Ace+another, so Ace+6 is sort 17)
 
 10. Players MAY only split or double if they have not yet done any other
     action
+    
+    8.  As such, a player MUST only split or double once and CANNOT do
+        so again.
 
 11. The Staff make the ultimate decision of who, and how much, has been
     won.
@@ -1110,7 +1116,6 @@ co-debtor.
     5.  When a winner has been decided by the M.O.G., those winnings
         previously seized SHALL be handed over to the Member who won.
 
-6.  
 # Other Additional Rules
 
 ## XIII: Lottery
@@ -1152,14 +1157,11 @@ co-debtor.
     additional benefits and opportunities that non-club members would
     otherwise not be given.
 
-2.  Club members will have to pay a 100-chip membership fee directly
-    into the Casino each week
+2.  Club members will have to pay a 50-chip membership fee directly into
+    the Casino each week
     
     1.  After a consistent membership to the VIP Club of 1 week, a
-        Member SHALL only have to pay 75 chips per week
-    
-    2.  After the second week of VIP club, the member SHALL only pay 50
-        chips.
+        Member SHALL only have to pay 25 chips per week
 
 3.  Members MUST pay a 200-chip upfront payment on the first week (in
     addition to the above fee)
@@ -1170,7 +1172,7 @@ co-debtor.
 5.  Club members rake is reduced depending on the number of weeks they
     have been a member.
     
-    3.  This is described in **VII: Poker Rake**
+    2.  This is described in **VII: Poker Rake**
 
 6.  Clubs member will be given benefits in any future games that the
     Casino introduces – they MAY also be given exclusive inclusion into

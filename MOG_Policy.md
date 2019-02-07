@@ -72,6 +72,33 @@ the dealer:
   - Take in any bets after each round has finished, and then deal the
     next community card.
 
+## Casino Wiki
+
+Accessible at
+[<span class="underline">https://masterlist.uk.ms/wiki/</span>](https://masterlist.uk.ms/wiki/)
+[, the Bot’s wiki holds information related to the Casino and the
+bot.]()
+
+The wiki is administrated by the Ministry of Games, but is editable by
+anyone who creates an account.
+
+The following rewards will be made for performing the actions described:
+
+  - **25 chips**: For creating an account and leaving a signed message
+    on Bob123’s talk page
+
+  - **50 chips**: For making a useful/constructive edit (including
+    creating a page and starting something on it)
+
+  - **75 chips**: For making major contributions towards a new page (see
+    the tutorial)
+
+  - **100 chips**: For fully completely to an adequate standard an
+    entire page (for example, a whole section within the tutorial)
+
+Discretion to give these rewards is given solely to the Division Head
+and may be withheld until conditions are met.
+
 ## Other Areas
 
 ### Audits
@@ -114,7 +141,7 @@ reason, by the Division Head.
 
 The number of ante games performed per day will be:
 
-\[n = x\]
+\(n = x\)
 
 Where *n* is the number of games player, and *x* is the number of M.O.G.
 officials that want another ante game to be played.
@@ -126,6 +153,8 @@ All other games will either be blind poker games, or blackjack.
 Input from all other indivduals SHALL be considered by the Division Head
 to provide a fair and balanaced outcome, as per the scenario – on a case
 by case basis.
+
+<span class="underline"></span>
 
 ## Modification of this Policy
 

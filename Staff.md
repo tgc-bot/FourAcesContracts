@@ -2,7 +2,7 @@
 
 The contract applied to all Staff members.
 
-Version: 3
+Version: 4
 
 ## Definitions
 
@@ -200,6 +200,9 @@ by the Division Head.
     6.  If a Member is employed across multiple Divisions, they MAY only
         be guaranteed just one 25 chip. Additionally, a Member SHALL NOT
         receive any more than 500 chips, in total, from their wages.
+    
+    7.  If any Employee has either above 8000 chips, or 90% or greater
+        of the Casino’s pot, they SHALL NOT be given a wage.
 
 6.  **Wages are to be given by Alex Chester.** They are to be provided
     on the first day of play after the previous week has ended (weeks
@@ -209,7 +212,7 @@ by the Division Head.
     present upon wages being given, then it is that Member’s
     responsibility to prompt for their wage to be paid.
     
-    7.  Failure to provide the wages on the first available day (for any
+    8.  Failure to provide the wages on the first available day (for any
         reason other than no games being played, or the person being
         absent from the Casino) shall mean that a chip citation is
         issued to Alex Chester, for a value of 50 chips, or half of the
@@ -247,10 +250,9 @@ by the Division Head.
     ‘MAY’ or ‘MAY NOT’.
 
 **<span class="underline">Staff signatures, certifying they have read,
-understood and agreed to these
-Terms:</span>**
+understood and agreed to these Terms:</span>**
 
-![](media/image1.wmf)![](media/image2.wmf)![](media/image3.wmf)
+![](media/image1.wmf)
 
 <span class="underline"></span>
 
