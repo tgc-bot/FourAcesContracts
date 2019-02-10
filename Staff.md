@@ -29,7 +29,7 @@ Version: 4
 2.  All staff members MUST also follow the Terms of Membership (ie: MUST
     be a Member)
 
-3.  On signing this contract, the signee acknowledges they will follow:
+3.  On signing this contract, the signer acknowledges they will follow:
     
     1.  All other requirements or rules contained within these Terms
     
@@ -49,9 +49,9 @@ Version: 4
     conflict. If the conflict is between Division Heads, then a simple
     majority of the Members of the Casino SHALL resolve the conflict.
 
-7.  Division Heads MUST send information regarding who is employed, and
-    the Division’s hierarchy to the ‘FourAces\#1702’ (Four Aces Casino)
-    discord account, for such information to be recorded.
+7.  Division Heads SHOULD send information regarding who is employed,
+    and the Division’s hierarchy to the ‘FourAces\#1702’ (Four Aces
+    Casino) discord account, for such information to be recorded.
     
     3.  Such information MAY include the seniority of Employees, such as
         the line of succession in case of recusal.
@@ -150,7 +150,7 @@ A Member of the Casino MAY be employed by one of the Casino’s
 Ministries. The Head of the Ministry that is hiring the Member SHALL
 execute an employment command within the Discord server in order to
 officially hire the Member. Employment to a Division is made to the sole
-discretion of the Division Head, except under circumstances excempted
+discretion of the Division Head, except under circumstances exempted
 within these Terms.
 
 Staff Members are entitled to a wage, as described below, which is set
@@ -161,9 +161,9 @@ by the Division Head.
 ## Division Budgets
 
 1.  Each of the Divisions will have their own Budget, whose value will
-    be publically known by any Casino Member, but SHALL only be changed
-    by Alex (since that’s easier to code) with approval by simple
-    majority of Council.
+    be publicly known by any Casino Member, but SHALL only be changed by
+    Alex (since that’s easier to code) with approval by simple majority
+    of Council.
 
 2.  This Budget MAY be increased due to profits gained specifically to
     that Division, for example (but not necessarily limited to):
@@ -185,7 +185,7 @@ by the Division Head.
 5.  The Divisions budget SHALL also be used to pay wages to the
     Division’s employees:
     
-    4.  The Division Head SHALL issue a wage to each Member, but SHOULD
+    4.  The Division Head SHOULD issue a wage to each Member, but SHOULD
         pay a minimum of 25 chips per employee, and MUST NOT exceed 350
         chips per employee. They MAY give a wage to their discretion,
         assuming it does not contradict these Terms.
@@ -215,8 +215,7 @@ by the Division Head.
     8.  Failure to provide the wages on the first available day (for any
         reason other than no games being played, or the person being
         absent from the Casino) shall mean that a chip citation is
-        issued to Alex Chester, for a value of 50 chips, or half of the
-        wage itself – whichever is higher.
+        issued to Alex Chester for a value of 50 chips.
 
 <span class="underline"></span>
 
@@ -228,19 +227,22 @@ by the Division Head.
 2.  While a majority vote or approval is not required, The Council MAY
     (if it reaches a simple majority) block and overrule such a
     modification from occurring.
+    
+    1.  Such vote MUST occur prior to the contract being valid, as
+        described below.
 
 3.  Alex MAY be directed to institute changes by the Council, which
     SHALL be performed as soon as is reasonable possible.
 
 4.  If the contract is not overruled by the Council, then:
     
-    1.  If the new contract is presented prior to 4:30 pm, the contract
+    2.  If the new contract is presented prior to 4:30 pm, the contract
         SHALL be valid and enforceable from midnight that day.
     
-    2.  If the new contract is presented after 4:30 pm, then the
+    3.  If the new contract is presented after 4:30 pm, then the
         contract SHALL be valid from 3 pm the day after it is presented.
     
-    3.  If the new contract is presented on a day in which no Casino
+    4.  If the new contract is presented on a day in which no Casino
         games have occurred (ie: weekends or holidays) then the new
         contract SHALL be valid from the midnight of that day.
 
