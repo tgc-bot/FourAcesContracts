@@ -1,6 +1,6 @@
 # Ministry of Games – Internal Policy
 
-M.O.G. Official Internal Policy - V6
+M.O.G. Official Internal Policy - V7
 
 ## Definitions
 
@@ -18,7 +18,7 @@ M.O.G. Official Internal Policy - V6
 
 ## Appointment of Roles
 
-Any authority vested into the M.O.G. MAY be distrubited to Employees of
+Any authority vested into the M.O.G. MAY be distributed to Employees of
 the Ministry Of Games, to the discretion of the Division Head.
 Additionally, the ability to distribute certain authorities MAY further
 be distributed.
@@ -38,8 +38,8 @@ the dealer:
         one card (in two passes), or immediately give two cards per
         player.
 
-  - Deal their first card face up, and their second card face down,
-    then:
+  - Deal their first card face up, and their second card as described
+    below, then:
     
       - If the face-up card is an Ace, the dealer MUST handle insurance
         prior to any other action.
@@ -59,6 +59,16 @@ the dealer:
   - Handle each player as per what the players are permitted to do in
     the Membership terms.
 
+  - **For the second dealer card**, the dealer MUST do one of the
+    following, with emphasis placed in the order they appear;
+    
+      - Deal the card face down after the first card;
+    
+      - Deal the card only after all other players have finished their
+        play;
+    
+      - Deal the card face down but onto the floor
+
 ### Poker
 
   - Deal in a clockwise rotation, starting to the player on their left.
@@ -76,8 +86,7 @@ the dealer:
 
 Accessible at
 [<span class="underline">https://masterlist.uk.ms/wiki/</span>](https://masterlist.uk.ms/wiki/)
-[, the Bot’s wiki holds information related to the Casino and the
-bot.]()
+, the Bot’s wiki holds information related to the Casino and the bot.
 
 The wiki is administrated by the Ministry of Games, but is editable by
 anyone who creates an account.
@@ -113,7 +122,7 @@ Any Member who fails to submit an audit prior to 6pm on the Sunday that
 the audit is for, SHOULD be issued a citation:
 
   - If the Audit is eventually given on the Sunday, but past the
-    deadline, then a citation SHALL be issed of no more than 100 chips.
+    deadline, then a citation SHALL be issued of no more than 100 chips.
 
   - If the Audit is not given, then it MUST be performed on Monday, or
     the next day of games, prior to any games being performed. A
@@ -139,20 +148,15 @@ reason, by the Division Head.
 
 ### Blinds vs Antes
 
-The number of ante games performed per day will be:
+Under any scenario where every player bets the blind bet without
+actually having received their card, an ante game will be played
+immediately after.
 
-\(n = x\)
+### Miscellaneous / Other Decisions
 
-Where *n* is the number of games player, and *x* is the number of M.O.G.
-officials that want another ante game to be played.
-
-All other games will either be blind poker games, or blackjack.
-
-### Miscellaneous / Other Descisions
-
-Input from all other indivduals SHALL be considered by the Division Head
-to provide a fair and balanaced outcome, as per the scenario – on a case
-by case basis.
+Input from all other individuals SHALL be considered by the Division
+Head to provide a fair and balanced outcome, as per the scenario – on a
+case by case basis.
 
 <span class="underline"></span>
 
