@@ -682,15 +682,12 @@ it is fair and deemed necessary, by consensus of Management.
 1.  The player MAY bet an amount between 50 chips and 1000 chips
     
     1.  Diminishing returns applies on any additional winnings above the
-        first 500 chips.
+        first 750 chips.
     
-    2.  For each chip won above the first 500 (ie, 525 to 1000), the
-        chip is worth half as much (ie, 50 -\> 25)
+    2.  For each chip won above the first 750 (ie, 775+), the chip is
+        worth half as much (ie, 50 -\> 25)
     
-    3.  For each chip won over 1000 chips in winnings, the chip is worth
-        only 25% as much (ie, 100 -\> 25)
-    
-    4.  In any case, the amount given is what is described as per the
+    3.  In any case, the amount given is what is described as per the
         M.O.G.’s calculations, as determined by the Division Head
 
 2.  If a player receives two cards of the same value, they MAY split
@@ -732,7 +729,7 @@ it is fair and deemed necessary, by consensus of Management.
 4.  The player MAY decide to surrender their hand only when they have
     not yet hit.
     
-    5.  The player takes back half of their bet, and the other half goes
+    4.  The player takes back half of their bet, and the other half goes
         to the Casino
 
 5.  Once a player wins, the dealer will match their bet and the player
@@ -782,21 +779,21 @@ it is fair and deemed necessary, by consensus of Management.
     the Dealer hits themselves until they either win, are forced to
     stick or bust.
     
-    6.  For instances where the player(s) or Dealer gets a blackjack
+    5.  For instances where the player(s) or Dealer gets a blackjack
         (Ace + Ten card), then see above.
 
 9.  The Dealer SHALL, once all other players have finalised their hands,
     continue to hit with their hand until they either go bust or reach a
     value of 17 or greater.
     
-    7.  This includes Aces, meaning the Dealer MUST stand on a soft 17,
+    6.  This includes Aces, meaning the Dealer MUST stand on a soft 17,
         or any ‘soft’ value higher (that is, a soft value is an
         Ace+another, so Ace+6 is sort 17)
 
 10. Players MAY only split or double if they have not yet done any other
     action
     
-    8.  As such, a player MUST only split or double once and CANNOT do
+    7.  As such, a player MUST only split or double once and CANNOT do
         so again.
 
 11. The Staff make the ultimate decision of who, and how much, has been
@@ -1025,11 +1022,14 @@ wins.
     8.  **Weekly interest:** The amount owed is increased by a
         percentage at the end of each week.
     
-    9.  Any interest values are calculated using simple interest.
+    9.  **Raw value:** The interest is a raw value added, each day or
+        each week.
+    
+    10. Any interest values are calculated using simple interest.
 
 9.  The M.O.L. MAY issue only the following loans:
     
-    10. Loan information is only visible through the **/loans request**
+    11. Loan information is only visible through the **/loans request**
         command and the following information MUST be approved by
         Council before a change:
         
@@ -1042,7 +1042,7 @@ wins.
         
         4.  Number of days to pay back altered by any more than 3 days.
     
-    11. Any other changes only require the M.O.L. to implement. Such
+    12. Any other changes only require the M.O.L. to implement. Such
         changes MUST NOT conflict with the information provided above or
         elsewhere in this Contract.
 
@@ -1052,13 +1052,13 @@ wins.
 
 11. To ensure the Casino is repaid the loans it gives, the Casino MAY:
     
-    12. Remove the chips placed into the pot by a person with a loan
+    13. Remove the chips placed into the pot by a person with a loan
         when that pot is won by anyone other than the person with that
         loan; but only when the chips removed do not exceed 100, and do
         not exceed 10% of the pot value, and do not exceed the minimum
         daily payment required against the loan.
     
-    13. Directly remove chips from a person with a loan at the end of
+    14. Directly remove chips from a person with a loan at the end of
         the day’s sitting to a value not exceeding the minimum daily
         payment of the loan. Discretion is given such that Management
         MAY decide if they are to remove chips.
@@ -1067,13 +1067,13 @@ wins.
     initial loaned member fails to repay the loan, then the guarantee
     member’s chips are used to cover the loan.
     
-    14. The M.O.L. MAY seize this guarantee’s member’s chips to cover
+    15. The M.O.L. MAY seize this guarantee’s member’s chips to cover
         the minimal chip payment, or to seize payment in full.
     
-    15. The M.O.L. SHALL NOT seize in total more than the initial chip
+    16. The M.O.L. SHALL NOT seize in total more than the initial chip
         value that was given by the Casino at the start of the loan
     
-    16. The M.O.L. MAY require a Member have and use a guarantee as
+    17. The M.O.L. MAY require a Member have and use a guarantee as
         above prior to any issuance of the loan – the guarantor MUST
         agree to their responsibility as a
 co-debtor.
