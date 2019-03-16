@@ -1,11 +1,11 @@
 # Ministry of Games – Internal Policy
 
-M.O.G. Official Internal Policy - V7
+M.O.G. Official Internal Policy – V8
 
 ## Definitions
 
   - Definitions replicate that of the Terms of Membership or Staff,
-    where appliciable.
+    where applicable.
 
   - “Audit” – the record of each type of chip a Member has.
     
@@ -93,20 +93,41 @@ anyone who creates an account.
 
 The following rewards will be made for performing the actions described:
 
-  - **25 chips**: For creating an account and leaving a signed message
-    on Bob123’s talk page
+  - 25 chips:
+    
+      - leaving signed message on Bob123’s talk page
+    
+      - creating a helpful page with some information on it
+    
+      - making minor improvements (non SPAG)
+    
+      - making SPAG improvements
 
-  - **50 chips**: For making a useful/constructive edit (including
-    creating a page and starting something on it)
+  - Up to 75 chips for making progress on:
+    
+      - a single division-related page
+    
+      - a non-division page
+    
+      - a *Command* page
+    
+      - a *Permission* page
 
-  - **75 chips**: For making major contributions towards a new page (see
-    the tutorial)
-
-  - **100 chips**: For fully completely to an adequate standard an
-    entire page (for example, a whole section within the tutorial)
+  - Up to 100 chips for:
+    
+      - making a suggestion for the Casino’s bot (make an issue)
+    
+      - making a suggestion for the Casino’s contract (make an issue)
+    
+      - submit a pull request of *your* changes to contract
+    
+      - have your changes become enforced within the Casino.
 
 Discretion to give these rewards is given solely to the Division Head
 and may be withheld until conditions are met.
+
+For any ‘Up to’ rewards, discretion is given to the Division Head to
+determine what chip amount is a worthy award.
 
 ## Other Areas
 

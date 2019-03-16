@@ -998,42 +998,44 @@ wins.
     
     4.  Failure to keep up with these daily payments *will* have
         consequences
+    
+    5.  The M.O.L. MAY decide to remove minimum daily payments, but a
+        payment **MUST** be made each week.
 
-6.  Upon immediately receiving any loan of value, the amount needed to
-    repay is increased by 10% of the original loan amount. (500 -\> 550,
-    2500 -\> 2750, etc)
+6.  The M.O.L. MAY decide to have the loan’s value immediately increase
+    by 10% upon receiving the amount (ie, 500→550, 2500→2750 etc)
 
-7.  The maximum amount a player MAY return each day SHALL be no more
-    than 20% of the original loan value (including immediate interest);
-    this maximum SHALL NOT be ignored under any circumstances.
+7.  The M.O.L. CAN set a Maximum payment amount per day.
+    
+    6.  If a loan has any interest, such maximum SHALL NOT be higher
+        than 50% of the initial loan amount.
 
 8.  Interest on a loan’s value may occur in the following way:
     
-    5.  **Zero Interest**: You owe only as above, plus the initial 10%
-        increase.
+    7.  **Zero Interest**: You owe only what you were given.
     
-    6.  **Daily interest**: The amount is increased by a set percentage
+    8.  **Daily interest**: The amount is increased by a set percentage
         each day.
     
-    7.  **Split daily interest**: The amount owed is increased by a
+    9.  **Split daily interest**: The amount owed is increased by a
         percentage at the end of a week, but is split over each day.
         (Ie, a 7% rate weekly would in fact be 1% each day.)
     
-    8.  **Weekly interest:** The amount owed is increased by a
+    10. **Weekly interest:** The amount owed is increased by a
         percentage at the end of each week.
     
-    9.  **Raw value:** The interest is a raw value added, each day or
+    11. **Raw value:** The interest is a raw value added, each day or
         each week.
     
-    10. Any interest values are calculated using simple interest.
+    12. Any interest values are calculated using simple interest.
 
 9.  The M.O.L. MAY issue only the following loans:
     
-    11. Loan information is only visible through the **/loans request**
+    13. Loan information is only visible through the **/loans request**
         command and the following information MUST be approved by
         Council before a change:
         
-        1.  Interest value altered by any higher than 5%, or 100 chips.
+        1.  Interest altered.
         
         2.  The amount of chips received.
         
@@ -1042,23 +1044,23 @@ wins.
         
         4.  Number of days to pay back altered by any more than 3 days.
     
-    12. Any other changes only require the M.O.L. to implement. Such
+    14. Any other changes only require the M.O.L. to implement. Such
         changes MUST NOT conflict with the information provided above or
         elsewhere in this Contract.
 
 10. The M.O.L. CAN tax the winnings of a game when it is a player with a
     loan that wins. This tax MUST NOT be any more than 25% of the
-    player’s winnings, after rake.
+    player’s profit, after rake.
 
 11. To ensure the Casino is repaid the loans it gives, the Casino MAY:
     
-    13. Remove the chips placed into the pot by a person with a loan
+    15. Remove the chips placed into the pot by a person with a loan
         when that pot is won by anyone other than the person with that
         loan; but only when the chips removed do not exceed 100, and do
         not exceed 10% of the pot value, and do not exceed the minimum
         daily payment required against the loan.
     
-    14. Directly remove chips from a person with a loan at the end of
+    16. Directly remove chips from a person with a loan at the end of
         the day’s sitting to a value not exceeding the minimum daily
         payment of the loan. Discretion is given such that Management
         MAY decide if they are to remove chips.
@@ -1067,13 +1069,13 @@ wins.
     initial loaned member fails to repay the loan, then the guarantee
     member’s chips are used to cover the loan.
     
-    15. The M.O.L. MAY seize this guarantee’s member’s chips to cover
+    17. The M.O.L. MAY seize this guarantee’s member’s chips to cover
         the minimal chip payment, or to seize payment in full.
     
-    16. The M.O.L. SHALL NOT seize in total more than the initial chip
+    18. The M.O.L. SHALL NOT seize in total more than the initial chip
         value that was given by the Casino at the start of the loan
     
-    17. The M.O.L. MAY require a Member have and use a guarantee as
+    19. The M.O.L. MAY require a Member have and use a guarantee as
         above prior to any issuance of the loan – the guarantor MUST
         agree to their responsibility as a
 co-debtor.
