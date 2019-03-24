@@ -1,6 +1,6 @@
 # Ministry of Games – Internal Policy
 
-M.O.G. Official Internal Policy – V8
+M.O.G. Official Internal Policy – V9
 
 ## Definitions
 
@@ -179,7 +179,23 @@ Input from all other individuals SHALL be considered by the Division
 Head to provide a fair and balanced outcome, as per the scenario – on a
 case by case basis.
 
-<span class="underline"></span>
+### Casino Rebalances - “Tax Returns”
+
+In any instance where the M.O.G. has higher than 3000 chips in its
+budget, then:
+
+1.  At the end of each week, starting with the lowest player:
+
+2.  Return up to 100 chips to the player.
+    
+    1.  If the player has received a wage, then they are to be matched
+        until they receive 100 chips including the wage at highest.
+    
+    2.  If the M.O.G.’s budget would decrease below 3000 chips, they do
+        not receive this return.
+    
+    3.  If the player has higher than 3000 chips, this does not apply to
+        them.
 
 ## Modification of this Policy
 

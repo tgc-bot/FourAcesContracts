@@ -495,7 +495,8 @@ or changing the values of M.O.L loans)
         right of the ‘small blind’ then MUST bet 50 chips (the ‘big
         blind’). If the player who SHOULD be the blind is present, then
         they are forced to place the blind – even if they do not wish to
-        play in that specific game: they are forced to play.
+        play in that specific game: they are forced to play. If the
+        player is not present, refer to *XVI: Fees for not playing*.
         <span class="underline">All of the above happens before the
         community cards are dealt, but after the player’s personal cards
         are dealt.</span> If all (remaining) players call the big blind,
@@ -634,6 +635,8 @@ or changing the values of M.O.L loans)
     presents an unfair advantage, for example, by showing each other
     their hands or otherwise acting outside of what would be considered
     normal etiquette
+
+###   
 
 ### VI: Poker Stars / Coundon Coins
 
@@ -1208,25 +1211,30 @@ co-debtor.
 
 ## XVI: Fees for not playing
 
-Given that we are now a friendly house-game scenario, the fees for not
-playing are no longer as severe:
+The Ministry of Games has the sole authority to issue the following
+fees, with "games missed" resetting weekly: (note that \(x\)is the
+number of games missed)
 
-In blackjack, there are no fees for failing to pay;
+  - **For blackjack**, the fee SHALL be calculated via:
+    \(f\left( x \right) = 50x\). Such fees MAY be waived for the first
+    two instances, but MUST be issued from there after.
 
-In blinds-poker, the only fee is the blind itself – even if you are not
-present, the blind will still be ‘posted’ by you (temporarily covered by
-the person who last placed the blind (or the Casino if they are unable
-to), until you CAN pay back that person yourself).
+  - **For poker,** the fee SHALL be calculated via:
+    \(f\left( x \right) = 50x\). Such fees SHALL NOT be waived under any
+    circumstances.
 
-In non-blinds-poker, the fee is:
+In any instance where a missing player would be a blind, then the Casino
+SHALL cover the blind and eat the loss.
 
-  - The first two games missed in a day (or the first three in a week,
-    whichever applies first) are not penalised
+Fees for not playing are solely issued by the Ministry of Games. Players
+MUST pay the fee; if they fail to do so, the M.O.G. MAY issue a citation
+that is up to three times as high as the original fee (treble damages).
 
-  - Each game missed thereafter will result in a flat penalty of 50
-    chips per game
+***Definitions:***
 
-<span class="underline"></span>
+  - *missing a game* is when a Member is present within the Casino, but
+    did not play; or when they are within the School, but did not come
+    to the Casino to play.
 
 # XVII: Layout of Terms
 
