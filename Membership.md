@@ -678,7 +678,7 @@ it is fair and deemed necessary, by consensus of Management.
             the rake is 0%
         
         2.  In the case where there are more than 3000 chips that are
-            being won, the rake is set at 5%.
+            being won, the rake is set at 2.5%.
 
 ## VIII: Blackjack
 
@@ -1164,11 +1164,11 @@ co-debtor.
 
 2.  Club members will have to pay a 50-chip membership fee directly into
     the Casino each week
-    
-    1.  After a consistent membership to the VIP Club of 1 week, a
-        Member SHALL only have to pay 25 chips per week
 
-3.  Members MUST pay a 200-chip upfront payment on the first week (in
+    1. For each week of Membership, a Member is granted an additional 500
+       chips for their online/discord balance.
+
+3.  Members MUST pay a 100-chip upfront payment on the first week (in
     addition to the above fee)
 
 4.  Club members are given an additional two games grace as described
@@ -1183,15 +1183,20 @@ co-debtor.
     Casino introduces – they MAY also be given exclusive inclusion into
     some games.
 
-7.  Members MAY request to join the VIP Club by asking Management, who
-    will then decide with a majority vote on whether the member is given
-    Membership.
+7.  Members MAY request to join the VIP Club by simply paying the upfront
+    cost, and any further costs of payment. Management MAY refuse a Member
+    for any reason.
 
-8.  The ‘High Roller’ for each week is automatically permitted free
-    membership of the VIP Club for the following week.
+8.  The ‘High Roller’ for each week (as decided by the M.O.G.) is given one
+    free week's membership of the VIP Club. They MUST still pay the upfront 
+    cost.
 
 9.  Any profits from the VIP club will be split 50:50 between the M.O.A.
     and the M.O.L.
+    
+10. If a Member has not given an upfront payment, then their VIP balance 
+    will not remove; the balance will only be deducted if they are using
+    their VIP benefits.
 
 ## XV: High Stakes Poker Games
 
