@@ -185,15 +185,17 @@ Each of these Division Heads (M.O.A. Inspector, M.O.G. Supervisor,
 M.O.L. Supervisor) is entirely responsible for the duties and
 responsibilities and wages of their Division and their Division’s staff.
 
-Additionally, henceforth, a Council is established that consists only of
-the Division Heads of all Ministries. This Council will have the
-authority to make decisions that span numerous departments’ authorities,
-or that would impact the entirety of the Casino as a whole or a decision
-that would be outside the purview of any singular department, or in any
-instance where the Casino’s chip pot is involved. The Council’s decision
-SHALL override any decision of a Division. The Council MAY be required
-to have an input prior to any Division’s decision (for example, issuing
-or changing the values of M.O.L loans)
+### Casino Council
+
+A Council is created that contains the Division Heads of the M.O.A, M.O.G. and M.O.L; Additionally,
+any current VIP Member who has paid over 500 chips into their Balance MAY become a Council Member, 
+subject to a simple majority vote by all Members of the Casino, and then a confirmation majority vote
+by existing Council Members.
+This Council has the authority to make descisions on cases that would
+impact the greater Casino as a whole, and would be beyond the scope of any individual Division.
+
+Additionally, this Council shall appoint from its own Members a Chair of the Council, or Council Chair. 
+This Chair shall have no extra authority beyond which it is granted within these Terms or the Staff Terms.
 
 <span class="underline"></span>
 
@@ -242,26 +244,8 @@ or changing the values of M.O.L loans)
     7.  By continuing to play or be present after changes or revisions
         are made, you agree to be bound by the revised Terms.
     
-    8.  Any contract change MUST be presented to all Members of the
-        Casino.
-        
-        6.  The Contract change MUST first be approved by a super
-            majority by the Council
-        
-        7.  The Contract change MUST then be approved by a simple
-            majority by the Members of the Casino. **Except:** if 60
-            hours passes the time it is initially presented to the
-            Council members, at which point (assuming there is not a
-            majority of votes to reject the change) the change becomes
-            valid.
-        
-        8.  Member’s are permitted and encouraged to make improvements
-            and suggestions though the GitHub® repository, accessible
-            at:
-            [<span class="underline">https://github.com/CheAle14/FourAcesContracts</span>](https://github.com/CheAle14/FourAcesContracts).
-            Any changes are suggestions, but upon indication of
-            readiness, will be submitted for approval as per the
-            procedure above.
+    8.  For changes to these Terms of Membership, please refer to the 
+        section on Motions and Amendments.
     
     9.  Even if some part of this contract is, for any reason, made to
         be invalid or unenforceable, all other sections of this contract
@@ -1120,6 +1104,30 @@ co-debtor.
     
     5.  When a winner has been decided by the M.O.G., those winnings
         previously seized SHALL be handed over to the Member who won.
+        
+# Motions and Amendments
+
+## Motions
+
+1. Any Member of the Casino MAY table a Motion that modifies the Contract.
+2. This Motion is then debated on until the end of the day in which it was tabled.
+3. Then, any Amendments to the Motion may further be tabled by any other Members
+    1. The Chair of the Council shall then select, with advise from Council, a number (or total)
+       of Amendments that shall be brought to vote before the Members.
+    2. Each Amendment selected is then put before the Members and debated on; a vote is then taken
+       as to whether that specific Amendment be included into the overall Motion.
+       Such a vote requires only a simple majority of all Members to pass.
+4. Then, the overall Motion, whether amended or not, is then put before the Members of the Casino
+   as to whether it should become enforced. This motion requires both a simple majority of all Members
+   and a supermajority of Council Members to pass.
+   
+ ## Requirements on submitting
+ 
+ 1. Any Motions passed must refer to an accompanying [pull request](https://github.com/CheAle14/FourAcesContracts/pulls)
+    to ensure that the changes are well documentated.
+ 2. Any Amendments to the Motion (if passed) must be carried out by commit to the pull request in question.
+ 3. Once a Motion has been passed, it should become the active ('master' branch) version on GitHub, and the PDF version
+    will be held invalid until a new PDF has been produced.
 
 # Other Additional Rules
 
