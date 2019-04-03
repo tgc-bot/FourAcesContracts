@@ -1115,7 +1115,8 @@ co-debtor.
 
 ## Motions
 
-1. Any Member of the Casino MAY table a Motion that modifies the Contract.
+1. Any Member of the Casino MAY table a Motion that may either alter the Contract, 
+   or act as an equal document to the same effect as the Contract.
 2. This Motion is then debated on until the end of the day in which it was tabled.
 3. Then, any Amendments to the Motion may further be tabled by any other Members
     1. The Chair of the Council shall then select, with advise from Council, a number (or total)
@@ -1126,6 +1127,10 @@ co-debtor.
 4. Then, the overall Motion, whether amended or not, is then put before the Members of the Casino
    as to whether it should become enforced. This motion requires both a simple majority of all Members
    and a supermajority of Council Members to pass.
+   
+ At the moment, Motions may be used to:  
+     - Alter the Contract;
+     - Allow a Member to be rehired after an Impeachment
    
  ## Requirements on submitting
  
