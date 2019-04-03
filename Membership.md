@@ -111,9 +111,8 @@ altered without a change to Contract.
     has been hired/employed by the Casino. Staff members include the
     following:
 
-  - **Dealer** CAN be any Member, as directed by the Ministry of Games,
-    to deal the cards for the games. The Dealer does not have to be a
-    Staff member of the Casino and is not necessarily entitled to any
+  - **Dealer** is any M.O.G. employee delegated to deal the cards for
+    the games.
 
   - **Head Dealer** is an individual that oversees the actions,
     responsibilities and duties of dealers
@@ -1214,18 +1213,18 @@ co-debtor.
 The Ministry of Games has the sole authority to issue the following
 fees, with "games missed" resetting weekly: (note that \(x\)is the
 number of games missed, with poker games missed and blackjack missed
-being counted independantly to the other.)
+being counted independently to the other.)
 
   - **For blackjack**, the fee SHALL be calculated via:
     \(f\left( x \right) = 50x\). Such fees MAY be waived by the M.O.G.
     for the first two instances, but MUST be issued from there after.
 
   - **For poker,** the fee SHALL be calculated via:
-    \(f\left( x \right) = 50x\). Such fees MAY be waived if the M.O.G. 
+    \(f\left( x \right) = 50x\). Such fees MAY be waived if the M.O.G.
     determines that the player would be unable to fairly play, such as
-    if they are attending school-mandatory sessions (including detentions
-    or study sessions); under such circumstances, the fee would only be 
-    the poker blind itself and MUST NOT be any higher.
+    if they are attending school-mandatory sessions (including
+    detentions or study sessions); under such circumstances, the fee
+    would only be the poker blind itself and MUST NOT be any higher.
 
 In any instance where a missing player would be a blind, then the Casino
 SHALL cover the blind and eat the loss.
