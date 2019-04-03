@@ -111,38 +111,67 @@ Version: 4
 
 A Staff member MAY only be terminated under the following circumstances:
 
-  - For Any Staff Member (Including Council Members) – Impeachment
-    
-      - The Council begins with an impeachment vote; such a vote MUST
-        have a majority of Council members in order to pass. An
-        impeachment SHALL only be started for severe violations of the
-        Terms of Staff, or of the Terms of Membership.
-    
-      - Once a vote to impeach has been gained by the Council, a vote
-        for removal is then made by all Members (except those recused by
-        conflict).
-    
-      - The vote for removal MUST be a super majority
-    
-      - Once both a vote to impeach (by the Council) and a vote to
-        remove (by the Members) has been reached, the Employment is
-        terminated and the Staff member is removed from their
-        position(s).
+### Impeachment
 
-  - For Non-Council Members – Firing
-    
-      - The Staff Member’s Division Head starts by submitting a reason
+Any Staff Member (including Council Members) may be impeached as follows.  
+Note that for ease of reference, the following may use:
+- 'prosecution' or 'prosecutor' to refer to any individual that filed the Impeachment 
+   proceedings or who is arguing for it occuring;
+- 'defendant' as the person who is going to be Impeached;
+- 'defense' as a collective of the defendant and any individuals appointed
+  by the defendant to aid in their exoneration.
+
+1. A Council Member submits Impeachment proceedings against a Member and 
+is given a period of time no longer than a day to:
+    - State who the Impeachment is against;
+    - Outline a brief reason for the Impeachment;
+    - List any and all clauses within the Contract that were violated;
+    - Fully, with great detail, explain the violations and how they occurred;
+    - Provide evidence to support assertions;
+    - Declare a pause to their arguments and allow the Impeachment to move on.
+2. Once this occurs, the accused is then given a period of time no longer than a day to:
+    - Outline a brief counter-arguement to the Impeachment
+    - Counter the specific allegations against them;
+    - Provide exculpatory evidence that exonerates them of wrong-doing;
+    - Provide evidence to support their assertions;
+    - Declare a pause to their arguments and allow the Impeachment to move on.
+3. Once this occurs, the person submitting the Proceeding, or someone appointed thereof, must:
+    - Counter again any comments raised by the Defense.  
+    The prosecution may not now raise an argument that was not argued on by the defense.
+4. Once this occurs, the defense must:
+    - Counter any comments raise by the Prosecution.  
+    The defense may not now raise an argument that was not argued on by the Prosecution.
+5. After this, both must then submit a final statement and closing arguments.
+6. A vote is then held; if the vote reaches a super majority of Members of approval then the 
+   Defendant is Impeached and removed from any and all positions that they held.  
+   The defendant is also barred from being an Employee of the Casino unless a Motion is passed 
+   to allow them to be.
+7. Throughout this process, the Chair of the Council (or Acting Chair if recused) shall precide over
+   the matter: the Chair shall ensure all Members remain orderly and may make just descisions, or 
+   judgements as a matter of law, to ensure the following rights of the defendant:
+      - The right to a fair and speedy trial
+      - The right against double jeopardy;
+      - The right against self-incrimination;
+      - The right of due process (including that Impeachment must occur only for violations of Contract);
+      - **As such**, the Chair may make judgements to exclude evidence, dismiss arguments, 
+        sustain or overrule objections, or to dismiss an Impeachment proceeding in accordance
+        with these Terms.
+
+### Firing
+
+For normal Employees of a Division:
+
+- The Staff Member’s Division Head starts by submitting a reason
         for termination to both the Council, and to the fired Member.
-    
-      - The Staff Member is then immediately removed of their positions.
-    
-      - The Council MAY decide in a super majority vote to consider the
+- The Staff Member is then immediately removed of their positions.
+- The Council MAY decide in a super majority vote to consider the
         reason given to be invalid or insufficient. If such a super
         majority is achieved, the previously fired Member is reinstated
         and they MAY NOT be fired again for the same reason.
 
-  - For any Staff Member: Upon Termination of Membership, any Staff
-    positions they previously held are also vacated.
+### Termination of Membership
+
+If any Staff Member is Terminated of Membership, then they are also logically removed of any Staff roles.
 
 ## Employment of Staff
 
