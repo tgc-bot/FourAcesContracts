@@ -190,12 +190,18 @@ responsibilities and wages of their Division and their Division’s staff.
 A Council is created that contains the Division Heads of the M.O.A, M.O.G. and M.O.L; Additionally,
 any current VIP Member who has paid over 500 chips into their Balance MAY become a Council Member, 
 subject to a simple majority vote by all Members of the Casino, and then a confirmation majority vote
-by existing Council Members.
+by existing Council Members.  
 This Council has the authority to make descisions on cases that would
 impact the greater Casino as a whole, and would be beyond the scope of any individual Division.
 
-Additionally, this Council shall appoint from its own Members a Chair of the Council, or Council Chair. 
-This Chair shall have no extra authority beyond which it is granted within these Terms or the Staff Terms.
+Additionally, this Council shall appoint from its own Members a Chair of the Council, or Council Chair.  
+This Chair shall have no extra authority beyond which it is granted within these Terms or the Staff Terms.  
+The Chair of the Council is appointed so long as a simple majority of Council Members approve of the specified
+person; at any point, a Council Member may move to appoint a different Council Member as the Chair: such a vote
+would continue until either all Council Members vote, or until 2 (two) days pass. If (or after two days) the approvals
+failed to get a simple majority, then the vote fails and the current Chair continues.  
+If there is no appointed Chair of the Council (or if the Chair is recused), then a Division Head shall become Acting Chair of the Council until one is appointed,
+in order as following: M.O.G. Division Head, M.O.A. Division Head, and M.O.L. Division Head.
 
 <span class="underline"></span>
 
@@ -1127,7 +1133,7 @@ co-debtor.
     to ensure that the changes are well documentated.
  2. Any Amendments to the Motion (if passed) must be carried out by commit to the pull request in question.
  3. Once a Motion has been passed, it should become the active ('master' branch) version on GitHub, and the PDF version
-    will be held invalid until a new PDF has been produced.
+    will be held invalid until a new PDF has been produced that reflects the just-passed motion.
 
 # Other Additional Rules
 
