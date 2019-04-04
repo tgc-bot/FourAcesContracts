@@ -187,10 +187,7 @@ responsibilities and wages of their Division and their Division’s staff.
 
 ### Casino Council
 
-A Council is created that contains the Division Heads of the M.O.A, M.O.G. and M.O.L; Additionally,
-any current VIP Member who has paid over 500 chips into their Balance MAY become a Council Member, 
-subject to a simple majority vote by all Members of the Casino, and then a confirmation majority vote
-by existing Council Members.  
+A Council is created that contains the Division Heads of the M.O.A, M.O.G. and M.O.L.
 This Council has the authority to make descisions on cases that would
 impact the greater Casino as a whole, and would be beyond the scope of any individual Division.
 
