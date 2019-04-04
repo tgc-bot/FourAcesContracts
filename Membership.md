@@ -200,8 +200,7 @@ The Chair of the Council is appointed so long as a simple majority of Council Me
 person; at any point, a Council Member may move to appoint a different Council Member as the Chair: such a vote
 would continue until either all Council Members vote, or until 2 (two) days pass. If (or after two days) the approvals
 failed to get a simple majority, then the vote fails and the current Chair continues.  
-If there is no appointed Chair of the Council (or if the Chair is recused), then a Division Head shall become Acting Chair of the Council until one is appointed,
-in order as following: M.O.G. Division Head, M.O.A. Division Head, and M.O.L. Division Head.
+If there is no appointed Chair of the Council (or if the Chair is recused), then a Division Head shall become Acting Chair of the Council until one is appointed, in order as following: M.O.G. Division Head, M.O.A. Division Head, and M.O.L. Division Head.
 
 <span class="underline"></span>
 
@@ -1117,28 +1116,34 @@ co-debtor.
 
 1. Any Member of the Casino MAY table a Motion that may either alter the Contract, 
    or act as an equal document to the same effect as the Contract.
-2. This Motion is then debated on until the end of the day in which it was tabled.
+2. This Motion may then be debated on.
 3. Then, any Amendments to the Motion may further be tabled by any other Members
     1. The Chair of the Council shall then select, with advise from Council, a number (or total)
        of Amendments that shall be brought to vote before the Members.
     2. Each Amendment selected is then put before the Members and debated on; a vote is then taken
        as to whether that specific Amendment be included into the overall Motion.
        Such a vote requires only a simple majority of all Members to pass.
-4. Then, the overall Motion, whether amended or not, is then put before the Members of the Casino
-   as to whether it should become enforced. This motion requires both a simple majority of all Members
-   and a supermajority of Council Members to pass.
-   
- At the moment, Motions may be used to:  
-     - Alter the Contract;
-     - Allow a Member to be rehired after an Impeachment
-   
- ## Requirements on submitting
+4. Then, the overall Motion, whether amended or not, is presented by the Chair before the Members of the Casino
+   as to whether it should become enforced. This motion requires only a simple majority approval of all Members
+   to pass.
+5. The Chair of the Council may, after 24 hours, end the voting session for a Motion. If the motion is not yet approved
+   at that point, it is automatically defeated.
+6. Similarly, the Chair may end, after 3 hours, voting for any Amendments since each Amendment was introduced. If the Amendment
+   is not yet approved, it is automatically defeated.
  
- 1. Any Motions passed must refer to an accompanying [pull request](https://github.com/CheAle14/FourAcesContracts/pulls)
-    to ensure that the changes are well documentated.
- 2. Any Amendments to the Motion (if passed) must be carried out by commit to the pull request in question.
- 3. Once a Motion has been passed, it should become the active ('master' branch) version on GitHub, and the PDF version
-    will be held invalid until a new PDF has been produced that reflects the just-passed motion.
+   
+At the moment, Motions may be used to:  
+- Alter the Contract;
+- Allow a Member to be rehired after an Impeachment
+   
+## Requirements on submitting
+
+1. Any Motions passed must refer to an accompanying [pull request](https://github.com/CheAle14/FourAcesContracts/pulls)
+  to ensure that the changes are well documentated.  
+  All pull requests must also [enable `Allow edits from maintainers`](https://help.github.com/en/articles/allowing-changes-to-a-pull-request-branch-created-from-a-fork) to allow for Amendments to be properly made.
+2. Any Amendments to the Motion (if passed) must be carried out by commit to the pull request in question.
+3. Once a Motion has been passed, it should become the active ('master' branch) version on GitHub, and the PDF version
+  will be held invalid until a new PDF has been produced that reflects the just-passed motion.
 
 # Other Additional Rules
 
