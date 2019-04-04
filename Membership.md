@@ -16,43 +16,52 @@
 
 [Actionable Verbs 2](#actionable-verbs)
 
-[Departments / Divisions 4](#departments-divisions)
+[Departments / Divisions 3](#departments-divisions)
 
-[I: General Terms of Play 5](#i-general-terms-of-play)
+[I: General Terms of Play 4](#i-general-terms-of-play)
 
-[II: Termination of Membership 7](#ii-termination-of-membership)
+[II: Termination of Membership 6](#ii-termination-of-membership)
 
-[III: Chip Ownership 7](#iii-chip-ownership)
+[III: Chip Ownership 6](#iii-chip-ownership)
 
-[IV: Privacy and Data Policy 8](#iv-privacy-and-data-policy)
+[IV: Privacy and Data Policy 7](#iv-privacy-and-data-policy)
 
-[V: Poker 9](#v-poker)
+[V: Poker 8](#v-poker)
 
 [VI: Poker Stars / Coundon Coins 10](#vi-poker-stars-coundon-coins)
 
 [VII: Poker Rake 10](#vii-poker-rake)
 
-[VIII: Blackjack 12](#viii-blackjack)
+[VIII: Blackjack 11](#viii-blackjack)
 
-[IX: Ministry of Admission 14](#ix-ministry-of-admission)
+[IX: Ministry of Admission 13](#ix-ministry-of-admission)
 
-[X: M.O.A. Investigations 15](#x-m.o.a.-investigations)
+[X: M.O.A. Investigations 14](#x-m.o.a.-investigations)
 
-[XI: Ministry of Loans 16](#xi-ministry-of-loans)
+[XI: Ministry of Loans 15](#xi-ministry-of-loans)
 
 [XII: Ministry of Games 17](#xii-ministry-of-games)
 
-[Other Additional Rules 18](#other-additional-rules)
+[Motions and Amendments 18](#motions-and-amendments)
 
-[XIII: Lottery 18](#xiii-lottery)
+[Motions 18](#motions)
 
-[XIV: VIP Club 18](#xiv-vip-club)
+[Requirements on submitting 18](#requirements-on-submitting)
 
-[XV: High Stakes Poker Games 18](#xv-high-stakes-poker-games)
+[Other Additional Rules 19](#other-additional-rules)
 
-[XVI: Fees for not playing 19](#xvi-fees-for-not-playing)
+[XIII: Lottery 19](#xiii-lottery)
 
-[XVII: Layout of Terms 19](#xvii-layout-of-terms)
+[XIV: VIP Club 19](#xiv-vip-club)
+
+[XV: High Stakes Poker Games 19](#xv-high-stakes-poker-games)
+
+[XVI: Fees for not playing 20](#xvi-fees-for-not-playing)
+
+[XVII: Layout of Terms 20](#xvii-layout-of-terms)
+
+[XVIII: Suggestions, Additions or Removals
+20](#xviii-suggestions-additions-or-removals)
 
 # 
 
@@ -111,9 +120,8 @@ altered without a change to Contract.
     has been hired/employed by the Casino. Staff members include the
     following:
 
-  - **Dealer** CAN be any Member, as directed by the Ministry of Games,
-    to deal the cards for the games. The Dealer does not have to be a
-    Staff member of the Casino and is not necessarily entitled to any
+  - **Dealer** is any M.O.G. employee delegated to deal the cards for
+    the games.
 
   - **Head Dealer** is an individual that oversees the actions,
     responsibilities and duties of dealers
@@ -185,19 +193,29 @@ Each of these Division Heads (M.O.A. Inspector, M.O.G. Supervisor,
 M.O.L. Supervisor) is entirely responsible for the duties and
 responsibilities and wages of their Division and their Division’s staff.
 
-### Casino Council
+**<span class="underline">Casino Council</span>**
 
-A Council is created that contains the Division Heads of the M.O.A, M.O.G. and M.O.L.
-This Council has the authority to make descisions on cases that would
-impact the greater Casino as a whole, and would be beyond the scope of any individual Division.
+A Council is created that contains the Division Heads of the M.O.A,
+M.O.G. and M.O.L.
 
-Additionally, this Council shall appoint from its own Members a Chair of the Council, or Council Chair.  
-This Chair shall have no extra authority beyond which it is granted within these Terms or the Staff Terms.  
-The Chair of the Council is appointed so long as a simple majority of Council Members approve of the specified
-person; at any point, a Council Member may move to appoint a different Council Member as the Chair: such a vote
-would continue until either all Council Members vote, or until 2 (two) days pass. If (or after two days) the approvals
-failed to get a simple majority, then the vote fails and the current Chair continues.  
-If there is no appointed Chair of the Council (or if the Chair is recused), then a Division Head shall become Acting Chair of the Council until one is appointed, in order as following: M.O.G. Division Head, M.O.A. Division Head, and M.O.L. Division Head.
+This Council has the authority to make decisions on cases that would
+impact the greater Casino as a whole, and would be beyond the scope of
+any individual Division.
+
+Additionally, this Council shall appoint from its own Members a Chair of
+the Council, or Council Chair. This Chair shall have no extra authority
+beyond which it is granted within these Terms or the Staff Terms. The
+Chair of the Council is appointed so long as a simple majority of
+Council Members approve of the specified person; at any point, a Council
+Member may move to appoint a different Council Member as the Chair: such
+a vote would continue until either all Council Members vote, or until 2
+(two) days pass. If (or after two days) the approvals failed to get a
+simple majority, then the vote fails and the current Chair continues.
+
+If there is no appointed Chair of the Council (or if the Chair is
+recused), then a Division Head shall become Acting Chair of the Council
+until one is appointed, in order as following: M.O.G. Division Head,
+M.O.A. Division Head, and M.O.L. Division Head.
 
 <span class="underline"></span>
 
@@ -246,8 +264,11 @@ If there is no appointed Chair of the Council (or if the Chair is recused), then
     7.  By continuing to play or be present after changes or revisions
         are made, you agree to be bound by the revised Terms.
     
-    8.  For changes to these Terms of Membership, please refer to the 
-        section on Motions and Amendments.
+    8.  For changes to these Terms of Membership, please refer to the
+        section on Motions and Amendments. Specifically, this Contract
+        may be modified by a Motion that clearly sets out an agenda to
+        do so and is ratified under the terms in the section named
+        above.
     
     9.  Even if some part of this contract is, for any reason, made to
         be invalid or unenforceable, all other sections of this contract
@@ -1106,41 +1127,64 @@ co-debtor.
     
     5.  When a winner has been decided by the M.O.G., those winnings
         previously seized SHALL be handed over to the Member who won.
-        
+
 # Motions and Amendments
 
 ## Motions
 
-1. Any Member of the Casino MAY table a Motion that may either alter the Contract, 
-   or act as an equal document to the same effect as the Contract.
-2. This Motion may then be debated on.
-3. Then, any Amendments to the Motion may further be tabled by any other Members
-    1. The Chair of the Council shall then select, with advise from Council, a number (or total)
-       of Amendments that shall be brought to vote before the Members.
-    2. Each Amendment selected is then put before the Members and debated on; a vote is then taken
-       as to whether that specific Amendment be included into the overall Motion.
-       Such a vote requires only a simple majority of all Members to pass.
-4. Then, the overall Motion, whether amended or not, is presented by the Chair before the Members of the Casino
-   as to whether it should become enforced. This motion requires only a simple majority approval of all Members
-   to pass.
-5. The Chair of the Council may, after 24 hours, end the voting session for a Motion. If the motion is not yet approved
-   at that point, it is automatically defeated.
-6. Similarly, the Chair may end, after 3 hours, voting for any Amendments since each Amendment was introduced. If the Amendment
-   is not yet approved, it is automatically defeated.
- 
-   
-At the moment, Motions may be used to:  
-- Alter the Contract;
-- Allow a Member to be rehired after an Impeachment
-   
+1.  Any Member of the Casino MAY table a Motion that may either alter
+    the Contract, or act as an equal document to the same effect as the
+    Contract.
+
+2.  This Motion SHALL then be debated on in its needs by Members of the
+    Casino.
+
+3.  Then, any Amendments MAY be tabled by any Member
+    
+    1.  The Chair of the Council SHALL then select, with advice from
+        Council, a number (or total, or none) of Amendments that SHALL
+        be brought to vote before Members.
+    
+    2.  Each Amendment selected is then put before the Members and
+        debated on; a vote is then taken as to whether that specific
+        Amendment be included into the overall Motion. Such a vote
+        requires only a simple majority of Members to pass.
+
+4.  Then, the overall Motion, whether amended or not, is presented by
+    the Chair to the Members and a vote occurs as to whether it should
+    become enforced. This vote requires only a simple majority of
+    Members to pass.
+
+5.  The Chair of the Council may, no sooner than 24 hours after the
+    Motion was tabled, end the voting session for a Motion. If it is not
+    approved by that point, it is rejected.
+
+6.  The Chair may also end the voting of an Amendment in the same manner
+    no sooner than 3 hours after it was tabled.
+
+At the moment, Motions may only be used to:
+
+1.  Alter the Contract;
+
+2.  Allow a Member to be rehired after an Impeachment.
+
 ## Requirements on submitting
 
-1. Any Motions passed must refer to an accompanying [pull request](https://github.com/CheAle14/FourAcesContracts/pulls)
-  to ensure that the changes are well documentated.  
-  All pull requests must also [enable `Allow edits from maintainers`](https://help.github.com/en/articles/allowing-changes-to-a-pull-request-branch-created-from-a-fork) to allow for Amendments to be properly made.
-2. Any Amendments to the Motion (if passed) must be carried out by commit to the pull request in question.
-3. Once a Motion has been passed, it should become the active ('master' branch) version on GitHub, and the PDF version
-  will be held invalid until a new PDF has been produced that reflects the just-passed motion.
+1.  Any Motions passed must refer to an accompanying
+    [<span class="underline">pull
+    request</span>](https://github.com/CheAle14/FourAcesContracts/pulls)
+    to ensure that the changes are well documented. All pull requests
+    must also [<span class="underline">enable **Allow edits from
+    maintainers**</span>](https://help.github.com/en/articles/allowing-changes-to-a-pull-request-branch-created-from-a-fork)
+    to allow for Amendments to be properly made.
+
+2.  Any Amendments to the Motion (if passed) must be carried out by
+    commit to the pull request in question.
+
+3.  Once a Motion has been passed, it should become the active (‘master’
+    branch) version on GitHub and the PDF version of the Contract (if it
+    was altered) will be held outdated and invalid until a new PDF has
+    been produced that reflects the GitHub passed motion version.
 
 # Other Additional Rules
 
@@ -1234,15 +1278,19 @@ At the moment, Motions may be used to:
 
 The Ministry of Games has the sole authority to issue the following
 fees, with "games missed" resetting weekly: (note that \(x\)is the
-number of games missed)
+number of games missed, with poker games missed and blackjack missed
+being counted independently to the other.)
 
   - **For blackjack**, the fee SHALL be calculated via:
-    \(f\left( x \right) = 50x\). Such fees MAY be waived for the first
-    two instances, but MUST be issued from there after.
+    \(f\left( x \right) = 50x\). Such fees MAY be waived by the M.O.G.
+    for the first two instances, but MUST be issued from there after.
 
   - **For poker,** the fee SHALL be calculated via:
-    \(f\left( x \right) = 50x\). Such fees SHALL NOT be waived under any
-    circumstances.
+    \(f\left( x \right) = 50x\). Such fees MAY be waived if the M.O.G.
+    determines that the player would be unable to fairly play, such as
+    if they are attending school-mandatory sessions (including
+    detentions or study sessions); under such circumstances, the fee
+    would only be the poker blind itself and MUST NOT be any higher.
 
 In any instance where a missing player would be a blind, then the Casino
 SHALL cover the blind and eat the loss.
